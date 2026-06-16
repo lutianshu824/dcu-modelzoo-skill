@@ -1,0 +1,5303 @@
+[
+{
+"id": 135,
+"name": "aasist_bladedisc",
+"path": "aasist_bladedisc",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/aasist_bladedisc",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/aasist_bladedisc.git"
+},
+{
+"id": 1659,
+"name": "aiXcoder-7B",
+"path": "aixcoder-7b",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/aixcoder-7b",
+"desc": "",
+"updated": "2025-07-24",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/aixcoder-7b.git"
+},
+{
+"id": 1824,
+"name": "AlignedReID_pytorch",
+"path": "alignedreid_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/alignedreid_pytorch",
+"desc": "AlignedReID是旷视科技Face++提出的一种行人重识别（Person Re-Identification）方法，首次在该任务上实现超越人类水平的性能，达到94.0%和96.1%的首位命中率（rank-1 accuracy）",
+"updated": "2025-11-19",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/alignedreid_pytorch.git"
+},
+{
+"id": 1118,
+"name": "allamo_pytorch",
+"path": "allamo_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/allamo_pytorch",
+"desc": "彻底开源预训练大模型，极简讲清原理，极简提供算法实现代码，让大家秒懂、秒实现，方便大家提出自研算法，让人类文明自由共享是终极目标。",
+"updated": "2025-04-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/allamo_pytorch.git"
+},
+{
+"id": 112,
+"name": "alphafold2_jax",
+"path": "alphafold2_jax",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/alphafold2_jax",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/alphafold2_jax.git"
+},
+{
+"id": 592,
+"name": "AnimateDiff-Lightning_pytorch",
+"path": "animatediff-lightning_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/animatediff-lightning_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/animatediff-lightning_pytorch.git"
+},
+{
+"id": 508,
+"name": "AnimateDiff_pytorch",
+"path": "animatediff_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/animatediff_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/animatediff_pytorch.git"
+},
+{
+"id": 522,
+"name": "AnyText_pytorch",
+"path": "anytext_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/anytext_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/anytext_pytorch.git"
+},
+{
+"id": 1888,
+"name": "Apriel_vllm",
+"path": "apriel_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/apriel_vllm",
+"desc": "",
+"updated": "2025-12-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/apriel_vllm.git"
+},
+{
+"id": 1926,
+"name": "AprielGuard_vllm",
+"path": "aprielguard_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/aprielguard_vllm",
+"desc": "",
+"updated": "2026-01-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/aprielguard_vllm.git"
+},
+{
+"id": 2357,
+"name": "arabic-menu-ocr-v2_vllm",
+"path": "arabic-menu-ocr-v2_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/arabic-menu-ocr-v2_vllm",
+"desc": "",
+"updated": "2026-04-16",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/arabic-menu-ocr-v2_vllm.git"
+},
+{
+"id": 676,
+"name": "arcface_pytorch",
+"path": "arcface_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/arcface_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/arcface_pytorch.git"
+},
+{
+"id": 410,
+"name": "ASR_onnxruntime",
+"path": "asr_onnx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/asr_onnx",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/asr_onnx.git"
+},
+{
+"id": 15319,
+"name": "AudioFly",
+"path": "audiofly",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/audiofly",
+"desc": "AudioFly 是一个音频生成模型。它根据文本描述合成音效。该模型可以以 44.1 kHz 的采样率生成高质量音频。生成的音频与提示文本有很强的一致性。\r AudioFly 采用了潜在扩散模型架构。该模型拥有 10 亿个参数，并在大量多样化的语料库上进行了训练。训练数据包括开源数据集，如 AudioSet、AudioCaps 和 TUT，以及专有的内部数据。该模型在单一事件和多事件场景中表现良好。",
+"updated": "2026-06-03",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/audiofly.git"
+},
+{
+"id": 1576,
+"name": "axolotl-Qwen3-4B_pytorch",
+"path": "axolotl-Qwen3-4B_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/axolotl-Qwen3-4B_pytorch",
+"desc": "同时具备Distil+SFT+RL的方法开源，人工智能大厂所用的主流后训练方法所有人都可以轻松拥有。",
+"updated": "2025-06-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/axolotl-Qwen3-4B_pytorch.git"
+},
+{
+"id": 1570,
+"name": "Bagel_pytorch",
+"path": "bagel_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bagel_pytorch",
+"desc": "",
+"updated": "2025-06-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bagel_pytorch.git"
+},
+{
+"id": 416,
+"name": "Baichuan-13B_fastllm",
+"path": "baichuan-13b_fastllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/baichuan-13b_fastllm",
+"desc": "Baichuan-13B的模型推理",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/baichuan-13b_fastllm.git"
+},
+{
+"id": 2199,
+"name": "Baichuan-M2_vllm",
+"path": "baichuan-m2_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/baichuan-m2_vllm",
+"desc": "",
+"updated": "2026-03-19",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/baichuan-m2_vllm.git"
+},
+{
+"id": 2152,
+"name": "Baichuan-M3_pytorch",
+"path": "baichuan-m3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/baichuan-m3_pytorch",
+"desc": "Baichuan-M3 是百川智能推出的全新一代医疗增强大语言模型，是继 Baichuan-M2 之后的重要里程碑。",
+"updated": "2026-03-27",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/baichuan-m3_pytorch.git"
+},
+{
+"id": 443,
+"name": "Baichuan2_pytorch",
+"path": "baichuan2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/baichuan2_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/baichuan2_pytorch.git"
+},
+{
+"id": 693,
+"name": "Baichuan2_tgi",
+"path": "baichuan2_tgi",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/baichuan2_tgi",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/baichuan2_tgi.git"
+},
+{
+"id": 459,
+"name": "Baichuan_lmdeploy",
+"path": "baichuan_lmdeploy",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/baichuan_lmdeploy",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/baichuan_lmdeploy.git"
+},
+{
+"id": 372,
+"name": "Baichuan_pytorch",
+"path": "baichuan-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/baichuan-pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/baichuan-pytorch.git"
+},
+{
+"id": 2201,
+"name": "BaichuanMed-OCR_vllm",
+"path": "baichuanmed-ocr_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/baichuanmed-ocr_vllm",
+"desc": "",
+"updated": "2026-03-20",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/baichuanmed-ocr_vllm.git"
+},
+{
+"id": 339,
+"name": "BERT-Large-squad_onnxruntime",
+"path": "bert_large_squad_onnxruntime",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bert_large_squad_onnxruntime",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bert_large_squad_onnxruntime.git"
+},
+{
+"id": 65,
+"name": "bert-large_oneflow",
+"path": "bert-large_oneflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bert-large_oneflow",
+"desc": "Bert-Large based on Oneflow-Libai",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bert-large_oneflow.git"
+},
+{
+"id": 375,
+"name": "bert4torch_pytorch",
+"path": "bert4torch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bert4torch",
+"desc": "An elegent pytorch implement of transformers",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bert4torch.git"
+},
+{
+"id": 216,
+"name": "BERT_migraphx",
+"path": "bert_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bert_migraphx",
+"desc": "使用MIGraphX对Bert模型进行推理",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bert_migraphx.git"
+},
+{
+"id": 305,
+"name": "BERT_onnxruntime",
+"path": "bert_onnxruntime",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bert_onnxruntime",
+"desc": "使用ONNXRuntime对Bert模型进行推理。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bert_onnxruntime.git"
+},
+{
+"id": 309,
+"name": "BERT_pytorch",
+"path": "bert-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bert-pytorch",
+"desc": "基于Pytorch的bert模型训练",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bert-pytorch.git"
+},
+{
+"id": 281,
+"name": "BERT_tensorflow",
+"path": "bert-tf2",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bert-tf2",
+"desc": "基于TF2的bert模型文本分类、文本问答训练",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bert-tf2.git"
+},
+{
+"id": 1652,
+"name": "BGE-Reranker_pytorch",
+"path": "bge-reranker_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bge-reranker_pytorch",
+"desc": "轻量级重排序模型，易于部署，推理速度快。",
+"updated": "2025-07-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bge-reranker_pytorch.git"
+},
+{
+"id": 2251,
+"name": "BgGPT-Gemma-3_vllm",
+"path": "bggpt-gemma-3_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bggpt-gemma-3_vllm",
+"desc": "",
+"updated": "2026-03-28",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bggpt-gemma-3_vllm.git"
+},
+{
+"id": 1997,
+"name": "Bielik-11B-v3.0-Instruct_vllm",
+"path": "bielik-11b-v3.0-instruct_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bielik-11b-v3.0-instruct_vllm",
+"desc": "",
+"updated": "2026-01-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bielik-11b-v3.0-instruct_vllm.git"
+},
+{
+"id": 1738,
+"name": "BLIP-3_pytorch",
+"path": "blip-3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/blip-3_pytorch",
+"desc": "A Family of Open Large Multimodal Models",
+"updated": "2025-09-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/blip-3_pytorch.git"
+},
+{
+"id": 1565,
+"name": "BLIP3o_pytorch",
+"path": "BLIP3o_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/BLIP3o_pytorch",
+"desc": "BLIP3-o可用于多模态数据预标注，通过60k指令调优数据集BLIP3o-60k进行增强，全开源统一多模态模型，支持文本到图像生成、图像描述以及视觉问答在内的多种任务。",
+"updated": "2025-05-30",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/BLIP3o_pytorch.git"
+},
+{
+"id": 401,
+"name": "BLOOM_fastertransformer",
+"path": "bloom_fastertransformer",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bloom_fastertransformer",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bloom_fastertransformer.git"
+},
+{
+"id": 74,
+"name": "BLOOM_oneflow",
+"path": "bloom_oneflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bloom_oneflow",
+"desc": "BLOOM-7B1 inference based on OneFlow-Libai",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bloom_oneflow.git"
+},
+{
+"id": 1101,
+"name": "catvton_openpose_pytorch",
+"path": "catvton_openpose_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/catvton_openpose_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/catvton_openpose_pytorch.git"
+},
+{
+"id": 1029,
+"name": "CatVTON_pytorch",
+"path": "catvton_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/catvton_pytorch",
+"desc": "",
+"updated": "2025-04-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/catvton_pytorch.git"
+},
+{
+"id": 440,
+"name": "CenterFace_pytorch",
+"path": "centerface_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/centerface_pytorch",
+"desc": "CenterFace based on Pytorch",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/centerface_pytorch.git"
+},
+{
+"id": 527,
+"name": "CenterNet_mmcv",
+"path": "centernet_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/centernet_mmcv",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/centernet_mmcv.git"
+},
+{
+"id": 647,
+"name": "cfd_jax",
+"path": "cfd_jax",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/cfd_jax",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/cfd_jax.git"
+},
+{
+"id": 1998,
+"name": "ChartVerse-Coder_vllm",
+"path": "chartverse-coder_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/chartverse-coder_vllm",
+"desc": "",
+"updated": "2026-01-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/chartverse-coder_vllm.git"
+},
+{
+"id": 268,
+"name": "ChatGLM-6B_fastllm",
+"path": "chatglm6b_fastllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/chatglm6b_fastllm",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/chatglm6b_fastllm.git"
+},
+{
+"id": 193,
+"name": "ChatGLM-6B_pytorch",
+"path": "chatglm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/chatglm",
+"desc": "chatglm based on torch",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/chatglm.git"
+},
+{
+"id": 357,
+"name": "ChatGLM2-6B_fastllm",
+"path": "chatglm2-6b_fastllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/chatglm2-6b_fastllm",
+"desc": "chatglm2-6b的推理",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/chatglm2-6b_fastllm.git"
+},
+{
+"id": 433,
+"name": "ChatGLM2-6B_pytorch",
+"path": "chatglm2-6b_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/chatglm2-6b_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/chatglm2-6b_pytorch.git"
+},
+{
+"id": 474,
+"name": "ChatGLM3-6B_pytorch",
+"path": "chatglm3-6b_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/chatglm3-6b_pytorch",
+"desc": "",
+"updated": "2025-06-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/chatglm3-6b_pytorch.git"
+},
+{
+"id": 514,
+"name": "ChatGLM3_fastllm",
+"path": "chatglm3_fastllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/chatglm3_fastllm",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/chatglm3_fastllm.git"
+},
+{
+"id": 699,
+"name": "ChatGLM_vllm",
+"path": "chatglm_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/chatglm_vllm",
+"desc": "",
+"updated": "2025-10-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/chatglm_vllm.git"
+},
+{
+"id": 1635,
+"name": "Chinese-LLaMA-Alpaca-2",
+"path": "chinese-llama-alpaca-2",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/chinese-llama-alpaca-2",
+"desc": "中文LLaMA-2 & Alpaca-2大模型二期项目 + 64K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs with 64K long context models)",
+"updated": "2025-08-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/chinese-llama-alpaca-2.git"
+},
+{
+"id": 417,
+"name": "chineseocr_lite_onnxruntime",
+"path": "chineseocr_lite_onnx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/chineseocr_lite_onnx",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/chineseocr_lite_onnx.git"
+},
+{
+"id": 1040,
+"name": "CIRI-deep_tensorflow",
+"path": "cirideep_tensorflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/cirideep_tensorflow",
+"desc": "",
+"updated": "2025-02-21",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/cirideep_tensorflow.git"
+},
+{
+"id": 824,
+"name": "CLIP_pytorch",
+"path": "clip_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/clip_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/clip_pytorch.git"
+},
+{
+"id": 666,
+"name": "Co-DETR_mmcv",
+"path": "co-detr_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/co-detr_mmcv",
+"desc": "Co-DETR for learn more efficient and effective DETR-based detectors from versatile label assignment manners",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/co-detr_mmcv.git"
+},
+{
+"id": 1717,
+"name": "CoBFormer_pytorch",
+"path": "cobformer_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/cobformer_pytorch",
+"desc": "Source code of our ICML 2024 paper \"Less is More: on the Over-Globalizing Problem in Graph Transformers\"",
+"updated": "2025-09-03",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/cobformer_pytorch.git"
+},
+{
+"id": 513,
+"name": "CodeFormer_pytorch",
+"path": "codeformer_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/codeformer_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/codeformer_pytorch.git"
+},
+{
+"id": 793,
+"name": "CodeGeeX4_pytorch",
+"path": "codegeex4_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/codegeex4_pytorch",
+"desc": "Multilingual Code Generation Model",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/codegeex4_pytorch.git"
+},
+{
+"id": 491,
+"name": "CodeLlama_lmdeploy",
+"path": "codellama_lmdeploy",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/codellama_lmdeploy",
+"desc": "",
+"updated": "2025-07-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/codellama_lmdeploy.git"
+},
+{
+"id": 650,
+"name": "codellama_pytorch",
+"path": "codellama_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/codellama_pytorch",
+"desc": "code generation models by meta",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/codellama_pytorch.git"
+},
+{
+"id": 744,
+"name": "Codestral_pytorch",
+"path": "codestral_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/codestral_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/codestral_pytorch.git"
+},
+{
+"id": 857,
+"name": "CogVLM2_pytorch",
+"path": "cogvlm2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/cogvlm2_pytorch",
+"desc": "支持中英双语的多模态大语言模型",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/cogvlm2_pytorch.git"
+},
+{
+"id": 2628,
+"name": "ComfyUI",
+"path": "comfyui",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/comfyui",
+"desc": "",
+"updated": "2026-05-20",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/comfyui.git"
+},
+{
+"id": 428,
+"name": "Conformer_pytorch",
+"path": "conformer_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/conformer_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/conformer_pytorch.git"
+},
+{
+"id": 454,
+"name": "ControlNet_pytorch",
+"path": "controlnet_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/controlnet_pytorch",
+"desc": "",
+"updated": "2025-04-12",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/controlnet_pytorch.git"
+},
+{
+"id": 654,
+"name": "convert_onnx",
+"path": "convert_onnx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/convert_onnx",
+"desc": "examples of converting caffe, pytorch, tf, tflite, paddle model to onnx model.",
+"updated": "2024-05-24",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/convert_onnx.git"
+},
+{
+"id": 667,
+"name": "ConvNeXt_mmcv",
+"path": "convnext_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/convnext_mmcv",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/convnext_mmcv.git"
+},
+{
+"id": 919,
+"name": "CosyVoice_pytorch",
+"path": "cosyvoice_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/cosyvoice_pytorch",
+"desc": "CosyVoice多语言、音色和情感控制模型",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/cosyvoice_pytorch.git"
+},
+{
+"id": 1829,
+"name": "CRF-RNN-pytorch",
+"path": "crf-rnn-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/crf-rnn-pytorch",
+"desc": "",
+"updated": "2025-11-20",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/crf-rnn-pytorch.git"
+},
+{
+"id": 219,
+"name": "crnn_migraphx",
+"path": "crnn_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/crnn_migraphx",
+"desc": "This project constructs a CRNN character recognition inference example",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/crnn_migraphx.git"
+},
+{
+"id": 1546,
+"name": "CRNN_Paddle",
+"path": "crnn_paddle",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/crnn_paddle",
+"desc": "CRNN 基于卷积神经网络和循环神经网络的结合，适用于文本识别任务。",
+"updated": "2025-07-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/crnn_paddle.git"
+},
+{
+"id": 499,
+"name": "crnn_pytorch",
+"path": "crnn_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/crnn_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/crnn_pytorch.git"
+},
+{
+"id": 2012,
+"name": "CURE-MED_vllm",
+"path": "cure-med_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/cure-med_vllm",
+"desc": "",
+"updated": "2026-01-31",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/cure-med_vllm.git"
+},
+{
+"id": 1819,
+"name": "CycleGAN_pytorch",
+"path": "cyclegan_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/cyclegan_pytorch",
+"desc": "一种基于对抗生成网络的非配对图像转换模型",
+"updated": "2025-11-19",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/cyclegan_pytorch.git"
+},
+{
+"id": 856,
+"name": "dalle2_pytorch",
+"path": "dalle2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/dalle2_pytorch",
+"desc": "",
+"updated": "2024-09-03",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/dalle2_pytorch.git"
+},
+{
+"id": 1996,
+"name": "DASD-4B-Thinking_vllm",
+"path": "dasd-4b-thinking_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/dasd-4b-thinking_vllm",
+"desc": "",
+"updated": "2026-02-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/dasd-4b-thinking_vllm.git"
+},
+{
+"id": 1477,
+"name": "DB-GPT_pytorch",
+"path": "DB-GPT_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/DB-GPT_pytorch",
+"desc": "用自然语言直接查数据库，DB-GPT具备生成高精度和复杂SQL的能力，简化大模型在数据库应用中的开发，支持数据处理、问答、RAG等功能，适用于数据3.0时代的高效应用构建。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/DB-GPT_pytorch.git"
+},
+{
+"id": 136,
+"name": "DBNet_pytorch",
+"path": "dbnet_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/dbnet_pytorch",
+"desc": "",
+"updated": "2025-04-12",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/dbnet_pytorch.git"
+},
+{
+"id": 904,
+"name": "DDQ_mmcv",
+"path": "ddq_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ddq_mmcv",
+"desc": "Dense Distinct Query for End-to-End Object Detection",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ddq_mmcv.git"
+},
+{
+"id": 1821,
+"name": "DeepLabV3-Plus_pytorch",
+"path": "deeplabv3-plus_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deeplabv3-plus_pytorch",
+"desc": "DeepLabv3Plus是2025年医学图像分割领域最火的模型之一，结合了UNet的编码器-解码器结构和DeepLabv3的ASPP模块，适用于像素级图像分割任务",
+"updated": "2025-11-19",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deeplabv3-plus_pytorch.git"
+},
+{
+"id": 1703,
+"name": "deeplabv3_migraphx",
+"path": "deeplabv3_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deeplabv3_migraphx",
+"desc": "",
+"updated": "2025-09-10",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deeplabv3_migraphx.git"
+},
+{
+"id": 134,
+"name": "DeePMD_bladedisc",
+"path": "bladedisc_deepmd",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/bladedisc_deepmd",
+"desc": "使用BladeDISC深度学习编译器对DeePMD模型进行优化",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/bladedisc_deepmd.git"
+},
+{
+"id": 743,
+"name": "DeepSeek-Coder-V2_pytorch",
+"path": "deepseek-coder-v2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-coder-v2_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-coder-v2_pytorch.git"
+},
+{
+"id": 651,
+"name": "DeepSeek-Coder_pytorch",
+"path": "deepseek-coder_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-coder_pytorch",
+"desc": "DeepSeek-Coder is a family generation models",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-coder_pytorch.git"
+},
+{
+"id": 2003,
+"name": "DeepSeek-OCR-2_pytorch",
+"path": "deepseek-ocr-2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-ocr-2_pytorch",
+"desc": "",
+"updated": "2026-04-01",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-ocr-2_pytorch.git"
+},
+{
+"id": 1781,
+"name": "DeepSeek-OCR_pytorch",
+"path": "deepseek-ocr_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-ocr_pytorch",
+"desc": "DeepSeek 推出了全新的视觉文本压缩模型 DeepSeek-OCR",
+"updated": "2026-01-16",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-ocr_pytorch.git"
+},
+{
+"id": 1313,
+"name": "DeepSeek-R1-Distill_vllm",
+"path": "deepseek-r1-distill_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-r1-distill_vllm",
+"desc": "",
+"updated": "2025-04-14",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-r1-distill_vllm.git"
+},
+{
+"id": 1402,
+"name": "DeepSeek-R1_ollama",
+"path": "Deepseek-r1_ollama",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Deepseek-r1_ollama",
+"desc": "ollama框架下的deepseek_R1 模型",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Deepseek-r1_ollama.git"
+},
+{
+"id": 1396,
+"name": "DeepSeek-R1_pytorch",
+"path": "deepseek-r1_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-r1_pytorch",
+"desc": "",
+"updated": "2025-04-18",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-r1_pytorch.git"
+},
+{
+"id": 639,
+"name": "DeepSeek-V2_pytorch",
+"path": "deepseek-v2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v2_pytorch",
+"desc": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v2_pytorch.git"
+},
+{
+"id": 1705,
+"name": "Deepseek-V3.1_vllm",
+"path": "deepseek-v3.1_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v3.1_vllm",
+"desc": "DeepSeek-V3.1 是一款支持 “思考模式” 与 “非思考模式” 双模式的混合模型。",
+"updated": "2025-09-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v3.1_vllm.git"
+},
+{
+"id": 1761,
+"name": "DeepSeek-V3.2-Exp_vllm",
+"path": "deepseek-v3.2-exp_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v3.2-exp_vllm",
+"desc": "",
+"updated": "2026-03-31",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v3.2-exp_vllm.git"
+},
+{
+"id": 1847,
+"name": "DeepSeek-V3.2_vllm",
+"path": "deepseek-v3.2_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v3.2_vllm",
+"desc": "DeepSeek-V3.2 是deepseek推出的首个将思考融入工具使用的模型，并且同时支持思考模式与非思考模式的工具调用。",
+"updated": "2026-03-31",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v3.2_vllm.git"
+},
+{
+"id": 1218,
+"name": "DeepSeek-V3_pytorch",
+"path": "deepseek-v3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v3_pytorch",
+"desc": "",
+"updated": "2025-04-18",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v3_pytorch.git"
+},
+{
+"id": 2397,
+"name": "DeepSeek-V4",
+"path": "deepseek-v4",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v4",
+"desc": "DeepSeek-V4：迈向高效百万上下文智能。",
+"updated": "2026-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek-v4.git"
+},
+{
+"id": 1411,
+"name": "DeepSeek-VL2_pytorch",
+"path": "Deepseek-vl2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Deepseek-vl2_pytorch",
+"desc": "deepseek开发的多模态图片问答模型",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Deepseek-vl2_pytorch.git"
+},
+{
+"id": 700,
+"name": "Deepseek_Math_7b_pytorch",
+"path": "deepseek_math_7b_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseek_math_7b_pytorch",
+"desc": "",
+"updated": "2024-09-02",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseek_math_7b_pytorch.git"
+},
+{
+"id": 970,
+"name": "DeepSeekV2_pytorch",
+"path": "deepseekv2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepseekv2_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepseekv2_pytorch.git"
+},
+{
+"id": 453,
+"name": "DeepSolo_pytorch",
+"path": "deepsolo_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepsolo_pytorch",
+"desc": "Let Transformer Decoder with Explicit Points Solo for Text Spotting",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepsolo_pytorch.git"
+},
+{
+"id": 1779,
+"name": "deepstream-app",
+"path": "deepstream-app",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/deepstream-app",
+"desc": "用DeepStream进行视频推理的应用示例。",
+"updated": "2026-06-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/deepstream-app.git"
+},
+{
+"id": 126,
+"name": "DenseNet121_mmcv",
+"path": "densenet121_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/densenet121_mmcv",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/densenet121_mmcv.git"
+},
+{
+"id": 802,
+"name": "Depth-Anything_pytorch",
+"path": "depth-anything_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/depth-anything_pytorch",
+"desc": "一个简单而强大的单目深度估计基础模型",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/depth-anything_pytorch.git"
+},
+{
+"id": 479,
+"name": "detr_pytorch",
+"path": "detr_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/detr_pytorch",
+"desc": "End-to-End Object Detection with Transformers",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/detr_pytorch.git"
+},
+{
+"id": 442,
+"name": "DiffBIR_pytorch",
+"path": "diffbir_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/diffbir_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/diffbir_pytorch.git"
+},
+{
+"id": 901,
+"name": "DiffusionDet_pytorch",
+"path": "diffusiondet-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/diffusiondet-pytorch",
+"desc": "DiffusionDet: Diffusion Model for Object Detection",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/diffusiondet-pytorch.git"
+},
+{
+"id": 1422,
+"name": "Direct3D_pytorch",
+"path": "Direct3D_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Direct3D_pytorch",
+"desc": "Neural4D 2.0将3D AI的生成效果提升至“人工级水平”，算力需求暴降80%，DreamTech已开源其前期研究成果Neural4D 1.0（本项目）。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Direct3D_pytorch.git"
+},
+{
+"id": 631,
+"name": "DISC-FinLLM_pytorch",
+"path": "disc-finllm_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/disc-finllm_pytorch",
+"desc": "免费开源的提供专业、智能、全面的金融咨询服务的金融领域大模型",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/disc-finllm_pytorch.git"
+},
+{
+"id": 43,
+"name": "dlexamples",
+"path": "dlexamples",
+"url": "https://developer.sourcefind.cn/codes/dcuai/dlexamples",
+"desc": "",
+"updated": "2023-04-06",
+"clone": "https://developer.sourcefind.cn/codes/dcuai/dlexamples.git"
+},
+{
+"id": 1898,
+"name": "Dolphin-Mistral_vllm",
+"path": "dolphin-mistral_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/dolphin-mistral_vllm",
+"desc": "",
+"updated": "2025-12-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/dolphin-mistral_vllm.git"
+},
+{
+"id": 672,
+"name": "donut_pytorch",
+"path": "donut_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/donut_pytorch",
+"desc": "Donut 端到端的OCR模型。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/donut_pytorch.git"
+},
+{
+"id": 1109,
+"name": "DragAnything_pytorch",
+"path": "draganything_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/draganything_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/draganything_pytorch.git"
+},
+{
+"id": 1074,
+"name": "DragDiffusion_pytorch",
+"path": "dragdiffusion_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/dragdiffusion_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/dragdiffusion_pytorch.git"
+},
+{
+"id": 1062,
+"name": "DragGAN_pytorch",
+"path": "draggan_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/draggan_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/draggan_pytorch.git"
+},
+{
+"id": 1142,
+"name": "DragNoise_pytorch",
+"path": "dragnoise_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/dragnoise_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/dragnoise_pytorch.git"
+},
+{
+"id": 561,
+"name": "DynamiCrafter_pytorch",
+"path": "dynamicrafter_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/dynamicrafter_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/dynamicrafter_pytorch.git"
+},
+{
+"id": 1021,
+"name": "EfficientConformer_pytorch",
+"path": "efficientconformer_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/efficientconformer_pytorch",
+"desc": "",
+"updated": "2024-10-31",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/efficientconformer_pytorch.git"
+},
+{
+"id": 127,
+"name": "EfficientNet_B2_mmcv",
+"path": "efficientnet_b2_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/efficientnet_b2_mmcv",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/efficientnet_b2_mmcv.git"
+},
+{
+"id": 638,
+"name": "EfficientSAM_pytorch",
+"path": "efficientsam_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/efficientsam_pytorch",
+"desc": "EfficientSAM推理",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/efficientsam_pytorch.git"
+},
+{
+"id": 2339,
+"name": "EmoCaliber_vllm",
+"path": "emocaliber_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/emocaliber_vllm",
+"desc": "",
+"updated": "2026-04-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/emocaliber_vllm.git"
+},
+{
+"id": 1806,
+"name": "Emu3.5_pytorch",
+"path": "emu3.5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/emu3.5_pytorch",
+"desc": "",
+"updated": "2025-11-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/emu3.5_pytorch.git"
+},
+{
+"id": 2888,
+"name": "ERNIE-4.5-21B-A3B-PT",
+"path": "ernie-4.5-21b-a3b-pt",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ernie-4.5-21b-a3b-pt",
+"desc": "",
+"updated": "2026-05-21",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ernie-4.5-21b-a3b-pt.git"
+},
+{
+"id": 3184,
+"name": "ERNIE-4.5-VL-28B-A3B-PT",
+"path": "ernie-4.5-vl-28b-a3b-pt",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ernie-4.5-vl-28b-a3b-pt",
+"desc": "",
+"updated": "2026-05-26",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ernie-4.5-vl-28b-a3b-pt.git"
+},
+{
+"id": 1651,
+"name": "ERNIE-4.5_vllm",
+"path": "ernie-4.5_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ernie-4.5_vllm",
+"desc": "百度最新开源大模型",
+"updated": "2025-07-10",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ernie-4.5_vllm.git"
+},
+{
+"id": 2359,
+"name": "ERNIE-Image_pytorch",
+"path": "ernie-image_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ernie-image_pytorch",
+"desc": "",
+"updated": "2026-04-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ernie-image_pytorch.git"
+},
+{
+"id": 1910,
+"name": "EuroLLM_vllm",
+"path": "eurollm_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/eurollm_vllm",
+"desc": "",
+"updated": "2026-01-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/eurollm_vllm.git"
+},
+{
+"id": 755,
+"name": "EvTexture_pytorch",
+"path": "evtexture_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/evtexture_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/evtexture_pytorch.git"
+},
+{
+"id": 2013,
+"name": "EXAONE-4.0_vllm",
+"path": "exaone-4.0_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/exaone-4.0_vllm",
+"desc": "",
+"updated": "2026-01-31",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/exaone-4.0_vllm.git"
+},
+{
+"id": 1077,
+"name": "F5-TTS_pytorch",
+"path": "f5-tts_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/f5-tts_pytorch",
+"desc": "F5-TTS能根据文本内容自动生成带有情感的语音，无论是愤怒、喜悦还是悲伤，都能精准把握情感变化，难辨真伪。",
+"updated": "2025-07-02",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/f5-tts_pytorch.git"
+},
+{
+"id": 510,
+"name": "facechain_pytorch",
+"path": "facechain_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/facechain_pytorch",
+"desc": "足不出户拍摄个人写真大片!一种数字形象生成算法，包括个人写真、证件照、虚拟试装、视频口播等多种效果。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/facechain_pytorch.git"
+},
+{
+"id": 931,
+"name": "fairseq-wav2vec_pytorch",
+"path": "wav2vec_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/wav2vec_pytorch",
+"desc": "wav2vec由facebook AI Research团队提出，效仿nlp上的word2vec，是语音的一种通用特征提取器。",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/wav2vec_pytorch.git"
+},
+{
+"id": 1945,
+"name": "Falcon-H1R_vllm",
+"path": "falcon-h1r_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/falcon-h1r_vllm",
+"desc": "",
+"updated": "2026-01-10",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/falcon-h1r_vllm.git"
+},
+{
+"id": 1124,
+"name": "Falcon_pytorch",
+"path": "falcon_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/falcon_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/falcon_pytorch.git"
+},
+{
+"id": 1873,
+"name": "Fara_vllm",
+"path": "fara_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/fara_vllm",
+"desc": "",
+"updated": "2025-12-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/fara_vllm.git"
+},
+{
+"id": 1818,
+"name": "Fast-ReID_pytorch",
+"path": "fast-reid_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/fast-reid_pytorch",
+"desc": "FastReID是京东AI研究院开发的开源目标重识别（ReID）工具库，专注于行人重识别、车辆重识别等任务，支持多种深度学习模型和优化技术。",
+"updated": "2025-11-18",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/fast-reid_pytorch.git"
+},
+{
+"id": 962,
+"name": "Faster-whisper_pytorch",
+"path": "faster-whisper_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/faster-whisper_pytorch",
+"desc": "",
+"updated": "2024-08-31",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/faster-whisper_pytorch.git"
+},
+{
+"id": 101,
+"name": "FastFold_pytorch",
+"path": "fastfold_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/fastfold_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/fastfold_pytorch.git"
+},
+{
+"id": 528,
+"name": "FastSAM_pytorch",
+"path": "fastsam_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/fastsam_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/fastsam_pytorch.git"
+},
+{
+"id": 620,
+"name": "FinGPT-glm_pytorch",
+"path": "fingpt-glm_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/fingpt-glm_pytorch",
+"desc": "开源多任务金融大模型",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/fingpt-glm_pytorch.git"
+},
+{
+"id": 734,
+"name": "FinQwen_pytorch",
+"path": "finqwen_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/finqwen_pytorch",
+"desc": "开源金融大模型",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/finqwen_pytorch.git"
+},
+{
+"id": 840,
+"name": "Firefly-Llama3_unsloth",
+"path": "firefly-llama3_unsloth",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/firefly-llama3_unsloth",
+"desc": "Unsloth对Llama3-8B进行QLoRA训练，最少仅需7.75GB显存，这意味着我们可以在一张1080Ti级别的卡上训练Llama3-8B，其它Firefly、unsloth库中的模型可借鉴llama3的使用方法以此类推。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/firefly-llama3_unsloth.git"
+},
+{
+"id": 1416,
+"name": "fish-speech_pytorch",
+"path": "fish-speech_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/fish-speech_pytorch",
+"desc": "超高度还原源音色，性能超过F5、CosySense，多种语言克隆效果炸裂！",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/fish-speech_pytorch.git"
+},
+{
+"id": 822,
+"name": "FlagEmbedding_pytorch",
+"path": "flagembedding_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/flagembedding_pytorch",
+"desc": "FlagEmbedding专注于检索增强llm领域",
+"updated": "2024-08-22",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/flagembedding_pytorch.git"
+},
+{
+"id": 1424,
+"name": "FlashVideo_pytorch",
+"path": "FlashVideo_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/FlashVideo_pytorch",
+"desc": "字节提出FlashVideo，高保真的高分辨率视频生成更快更强。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/FlashVideo_pytorch.git"
+},
+{
+"id": 166,
+"name": "FLAVR_pytorch",
+"path": "flavr_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/flavr_pytorch",
+"desc": "FLAVR是一种用于视频插值的深度学习模型，可以通过插值技术将低帧率视频转换为高帧率视频。它通过对低帧率视频进行逐帧处理，并使用深度学习网络来推断丢失的帧，以生成更平滑的高帧率视频。相比传统的插值算法，FLAVR能够生成更加自然和逼真的高帧率视频，并且可以处理复杂的场景和动作。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/flavr_pytorch.git"
+},
+{
+"id": 1544,
+"name": "Florence-2-Vision-Language-Model_pytorch",
+"path": "Florence-2-Vision-Language-Model_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Florence-2-Vision-Language-Model_pytorch",
+"desc": "Florence-2常被一些大模型公司用于多模态的数据预标注，支持10余种任务，参数量小精度高于CLIP。",
+"updated": "2025-05-30",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Florence-2-Vision-Language-Model_pytorch.git"
+},
+{
+"id": 1733,
+"name": "FLUX.1-dev-MIGraphX",
+"path": "flux.1-dev-migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/flux.1-dev-migraphx",
+"desc": "使用 MIGraphX 后端，执行 FLUX.1-dev 文生图任务。",
+"updated": "2025-11-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/flux.1-dev-migraphx.git"
+},
+{
+"id": 887,
+"name": "flux.1_diffusers",
+"path": "flux.1_diffusers",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/flux.1_diffusers",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/flux.1_diffusers.git"
+},
+{
+"id": 2061,
+"name": "Foundation-Sec-8B-Reasoning_vllm",
+"path": "foundation-sec-8b-reasoning_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/foundation-sec-8b-reasoning_vllm",
+"desc": "",
+"updated": "2026-02-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/foundation-sec-8b-reasoning_vllm.git"
+},
+{
+"id": 1953,
+"name": "Fun-ASR-Nano_pytorch",
+"path": "fun-asr-nano_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/fun-asr-nano_pytorch",
+"desc": "",
+"updated": "2026-01-14",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/fun-asr-nano_pytorch.git"
+},
+{
+"id": 1954,
+"name": "Fun-Audio-Chat_pytorch",
+"path": "Fun-Audio-Chat_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Fun-Audio-Chat_pytorch",
+"desc": "",
+"updated": "2026-01-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Fun-Audio-Chat_pytorch.git"
+},
+{
+"id": 1071,
+"name": "Gemma-2_pytorch",
+"path": "gemma-2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/gemma-2_pytorch",
+"desc": "Gemma是一个轻量级的，来自于Google的SOTA开源模型，利用与Gemini模型相同的研究和技术建造而成。它们是文本到文本、decoder-only的大型语言模型，使用英语，对pre-trained和instruction-tuned都具有开放权重。\r Gemma模型非常适合各种文本生成任务，包括问题回答，总结和推理。它们相对较小的尺寸使得在资源有限的环境中部署它们成为可能。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/gemma-2_pytorch.git"
+},
+{
+"id": 1469,
+"name": "Gemma-3_pytorch",
+"path": "Gemma-3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Gemma-3_pytorch",
+"desc": "Gemma-3仅以27B就击败DeepSeek 671B模型，成为仅次于DeepSeek R1最优开源模型。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Gemma-3_pytorch.git"
+},
+{
+"id": 2384,
+"name": "Gemma-4",
+"path": "gemma-4",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/gemma-4",
+"desc": "Gemma 4 模型旨在在每个尺寸级别上都达到前沿性能，覆盖从移动和边缘设备（E2B、E4B）到消费级 GPU 和工作站（26B A4B、31B）的多种部署场景。",
+"updated": "2026-06-01",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/gemma-4.git"
+},
+{
+"id": 560,
+"name": "gemma_pytorch",
+"path": "gemma_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/gemma_pytorch",
+"desc": "谷歌发布的号称“全球性能最强大、轻量级”的新一代开源2B小模型Gemma，打响小模型战争。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/gemma_pytorch.git"
+},
+{
+"id": 1020,
+"name": "Geneformer_pytorch",
+"path": "geneformer_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/geneformer_pytorch",
+"desc": "",
+"updated": "2025-04-14",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/geneformer_pytorch.git"
+},
+{
+"id": 348,
+"name": "GLM-130B_fastertransformer",
+"path": "glm130b_fastertransformer",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm130b_fastertransformer",
+"desc": "基于fastertransformer加速的GLM130B模型推理",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm130b_fastertransformer.git"
+},
+{
+"id": 1059,
+"name": "GLM-4-Voice_pytorch",
+"path": "glm-4-voice_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-4-voice_pytorch",
+"desc": "多模态模型GLM-4-Voice具备情感理解能力，能够模拟不同的情绪和语调，能识别中国许多方言直接输出语音。",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-4-voice_pytorch.git"
+},
+{
+"id": 1668,
+"name": "GLM-4.1V_pytorch",
+"path": "glm-4.1v_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-4.1v_pytorch",
+"desc": "",
+"updated": "2025-11-24",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-4.1v_pytorch.git"
+},
+{
+"id": 1859,
+"name": "GLM-4.5-Air-Derestricted_vllm",
+"path": "glm-4.5-air-derestricted_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-4.5-air-derestricted_vllm",
+"desc": "",
+"updated": "2025-12-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-4.5-air-derestricted_vllm.git"
+},
+{
+"id": 1767,
+"name": "GLM-4.6_vllm",
+"path": "glm-4.6_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-4.6_vllm",
+"desc": "",
+"updated": "2025-10-27",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-4.6_vllm.git"
+},
+{
+"id": 2142,
+"name": "GLM-4.6V_vllm",
+"path": "glm-4.6v_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-4.6v_vllm",
+"desc": "",
+"updated": "2026-03-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-4.6v_vllm.git"
+},
+{
+"id": 1912,
+"name": "GLM-4.7_vllm",
+"path": "glm-4.7_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-4.7_vllm",
+"desc": "",
+"updated": "2026-03-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-4.7_vllm.git"
+},
+{
+"id": 684,
+"name": "GLM-4_pytorch",
+"path": "glm-4_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-4_pytorch",
+"desc": "智谱 AI 推出的最新一代预训练模型 GLM-4 系列。",
+"updated": "2025-07-21",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-4_pytorch.git"
+},
+{
+"id": 702,
+"name": "GLM-4V_pytorch",
+"path": "glm-4v-9b_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-4v-9b_pytorch",
+"desc": "多模态视觉大模型",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-4v-9b_pytorch.git"
+},
+{
+"id": 1774,
+"name": "GLM-4V_vllm",
+"path": "glm-4v_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-4v_vllm",
+"desc": "多模态视觉大模型",
+"updated": "2025-10-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-4v_vllm.git"
+},
+{
+"id": 2322,
+"name": "GLM-5.1",
+"path": "glm-5.1",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-5.1",
+"desc": "GLM-5.1 是智谱AI面向智能体工程的下一代旗舰模型，其代码能力相比前代显著增强。它在 SWE-Bench Pro 上达到了当前最优水平，并在 NL2Repo（代码仓库生成）和 Terminal-Bench 2.0（真实终端任务）上大幅领先于 GLM-5。",
+"updated": "2026-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-5.1.git"
+},
+{
+"id": 2083,
+"name": "GLM-5_vllm",
+"path": "glm-5_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-5_vllm",
+"desc": "",
+"updated": "2026-04-29",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-5_vllm.git"
+},
+{
+"id": 1956,
+"name": "GLM-ASR-Nano_pytorch",
+"path": "glm-asr-nano_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-asr-nano_pytorch",
+"desc": "",
+"updated": "2026-01-16",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-asr-nano_pytorch.git"
+},
+{
+"id": 2194,
+"name": "GLM-OCR_vllm",
+"path": "glm-ocr_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-ocr_vllm",
+"desc": "OCR模型",
+"updated": "2026-05-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-ocr_vllm.git"
+},
+{
+"id": 1500,
+"name": "GLM-Z1_pytorch",
+"path": "glm-z1_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-z1_pytorch",
+"desc": "",
+"updated": "2025-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-z1_pytorch.git"
+},
+{
+"id": 1694,
+"name": "GLM4.5_pytorch",
+"path": "glm4.5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm4.5_pytorch",
+"desc": "GLM-4.5是一款专为智能体应用打造的基础模型，包含推理、代码、智能体的综合能力达到开源 SOTA的模型，在真实代码智能体的人工对比评测中，实测国内最佳",
+"updated": "2025-09-03",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm4.5_pytorch.git"
+},
+{
+"id": 68,
+"name": "GLM_oneflow",
+"path": "glm_oneflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm_oneflow",
+"desc": "GLM-10b-chinese inference based on OneFlow-Libai",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm_oneflow.git"
+},
+{
+"id": 563,
+"name": "GLM_pytorch",
+"path": "glm_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm_pytorch",
+"desc": "GLM是一种具有自回归填充目标的通用语言模型，可以在各种自然语言理解和生成任务上进行微调。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm_pytorch.git"
+},
+{
+"id": 1474,
+"name": "gme-Qwen2-VL_pytorch",
+"path": "gme-qwen2-vl_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/gme-qwen2-vl_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/gme-qwen2-vl_pytorch.git"
+},
+{
+"id": 2295,
+"name": "gpt-oss_vllm",
+"path": "gpt-oss_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/gpt-oss_vllm",
+"desc": "",
+"updated": "2026-05-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/gpt-oss_vllm.git"
+},
+{
+"id": 206,
+"name": "GPT2_migraphx",
+"path": "gpt2_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/gpt2_migraphx",
+"desc": "使用MIGraphX对GPT2模型进行推理",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/gpt2_migraphx.git"
+},
+{
+"id": 62,
+"name": "GPT2_oneflow",
+"path": "GPT",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/GPT",
+"desc": "GPT2 based on Oneflow-Libai",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/GPT.git"
+},
+{
+"id": 301,
+"name": "GPT2_onnxruntime",
+"path": "gpt2_onnxruntime",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/gpt2_onnxruntime",
+"desc": "使用ONNXRuntime推理框架对GPT2模型进行推理。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/gpt2_onnxruntime.git"
+},
+{
+"id": 107,
+"name": "GPT2_pytorch",
+"path": "gpt2-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/gpt2-pytorch",
+"desc": "GPT2 based on PyTorch",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/gpt2-pytorch.git"
+},
+{
+"id": 1665,
+"name": "Granite-Speech_vllm",
+"path": "granite-speech_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/granite-speech_vllm",
+"desc": "Granite-speech-3.3系列模型是一款小巧且高效的语音语言模型，专为自动语音识别（ASR）和自动语音翻译（AST）而设计。",
+"updated": "2025-07-29",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/granite-speech_vllm.git"
+},
+{
+"id": 1860,
+"name": "Granite_pytorch",
+"path": "granite_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/granite_pytorch",
+"desc": "",
+"updated": "2025-12-12",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/granite_pytorch.git"
+},
+{
+"id": 2405,
+"name": "GRaPE-2-Flash",
+"path": "grape-2-flash",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/grape-2-flash",
+"desc": "",
+"updated": "2026-04-27",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/grape-2-flash.git"
+},
+{
+"id": 670,
+"name": "graphcast_jax",
+"path": "graphcast_jax",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/graphcast_jax",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/graphcast_jax.git"
+},
+{
+"id": 1727,
+"name": "Graphormer_pytorch",
+"path": "graphormer_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/graphormer_pytorch",
+"desc": "Graphormer 是一个深度学习软件包，能让研究人员和开发人员为分子建模任务训练自定义模型。",
+"updated": "2025-09-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/graphormer_pytorch.git"
+},
+{
+"id": 633,
+"name": "grok-1_jax",
+"path": "grok-1_jax",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/grok-1_jax",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/grok-1_jax.git"
+},
+{
+"id": 669,
+"name": "GroundingDINO_mmcv",
+"path": "grounding_dino_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/grounding_dino_mmcv",
+"desc": "",
+"updated": "2025-09-25",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/grounding_dino_mmcv.git"
+},
+{
+"id": 532,
+"name": "HAT_pytorch",
+"path": "hat_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hat_pytorch",
+"desc": "Hybrid Attention Transformer for Image Restoration",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hat_pytorch.git"
+},
+{
+"id": 475,
+"name": "HDETR_pytorch",
+"path": "hdetr_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hdetr_pytorch",
+"desc": "DETRs with Hybrid Matching",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hdetr_pytorch.git"
+},
+{
+"id": 2075,
+"name": "HER-RM_vllm",
+"path": "her-rm_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/her-rm_vllm",
+"desc": "",
+"updated": "2026-02-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/her-rm_vllm.git"
+},
+{
+"id": 1930,
+"name": "Hermes-4.3_vllm",
+"path": "hermes-4.3_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hermes-4.3_vllm",
+"desc": "",
+"updated": "2026-01-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hermes-4.3_vllm.git"
+},
+{
+"id": 1041,
+"name": "Higashi_pytorch",
+"path": "higashi_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/higashi_pytorch",
+"desc": "",
+"updated": "2025-04-14",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/higashi_pytorch.git"
+},
+{
+"id": 1409,
+"name": "HLLM_pytorch",
+"path": "HLLM_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/HLLM_pytorch",
+"desc": "字节提出的双层LLM模型HLLM仅需相当于基于传统ID方法1/6至1/4的数据量即可达到同等性能水平，较SOTA模型性能提升0.705%。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/HLLM_pytorch.git"
+},
+{
+"id": 182,
+"name": "HRNet_pytorch",
+"path": "hrnet_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hrnet_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hrnet_pytorch.git"
+},
+{
+"id": 1223,
+"name": "HuatuoGPT-o1_pytorch",
+"path": "huatuogpt-o1",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/huatuogpt-o1",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/huatuogpt-o1.git"
+},
+{
+"id": 1748,
+"name": "Hunyuan-A13B-vllm",
+"path": "hunyuan-a13b-vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hunyuan-a13b-vllm",
+"desc": "",
+"updated": "2025-10-14",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hunyuan-a13b-vllm.git"
+},
+{
+"id": 1421,
+"name": "Hunyuan3D-2_pytorch",
+"path": "Hunyuan3D-2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Hunyuan3D-2_pytorch",
+"desc": "腾讯提出Hunyuan3D-2，用于生成带有高分辨率纹理贴图的高保真度3D模型。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Hunyuan3D-2_pytorch.git"
+},
+{
+"id": 791,
+"name": "HunyuanDiT_diffusers",
+"path": "hunyuandit_diffusers",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hunyuandit_diffusers",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hunyuandit_diffusers.git"
+},
+{
+"id": 658,
+"name": "HunyuanDiT_pytorch",
+"path": "hunyuandit_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hunyuandit_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hunyuandit_pytorch.git"
+},
+{
+"id": 1867,
+"name": "HunyuanOCR_pytorch",
+"path": "hunyuanocr_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hunyuanocr_pytorch",
+"desc": "HunyuanOCR是一款基于腾讯混元原生多模态架构的端到端OCR专家模型，该模型精通复杂多语种文档解析，同时在文字检测识别、开放字段信息抽取、视频字幕识别、拍照翻译等全场景实用技能中表现出色。",
+"updated": "2025-12-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hunyuanocr_pytorch.git"
+},
+{
+"id": 1462,
+"name": "HunyuanVideo-I2V_pytorch",
+"path": "hunyuanvideo-i2v_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hunyuanvideo-i2v_pytorch",
+"desc": "",
+"updated": "2025-12-26",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hunyuanvideo-i2v_pytorch.git"
+},
+{
+"id": 7350,
+"name": "HY-MT1.5",
+"path": "hy-mt1.5",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hy-mt1.5",
+"desc": "混元翻译模型 1.5 版本包含一个 18 亿参数的翻译模型 HY-MT1.5-1.8B 和一个 70 亿参数的翻译模型 HY-MT1.5-7B",
+"updated": "2026-05-21",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hy-mt1.5.git"
+},
+{
+"id": 10941,
+"name": "Hy-MT2",
+"path": "hy-mt2",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hy-mt2",
+"desc": "HY-MT2 是腾讯混元推出的多语言机器翻译模型",
+"updated": "2026-05-22",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hy-mt2.git"
+},
+{
+"id": 2556,
+"name": "Hy3-preview",
+"path": "hy3-preview",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hy3-preview",
+"desc": "",
+"updated": "2026-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hy3-preview.git"
+},
+{
+"id": 1927,
+"name": "HyperCLOVAX-SEED-Text-Instruct_vllm",
+"path": "hyperclovax-seed-text-instruct_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/hyperclovax-seed-text-instruct_vllm",
+"desc": "",
+"updated": "2026-01-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/hyperclovax-seed-text-instruct_vllm.git"
+},
+{
+"id": 568,
+"name": "I2VGen-XL_pytorch",
+"path": "i2vgen-xl_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/i2vgen-xl_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/i2vgen-xl_pytorch.git"
+},
+{
+"id": 705,
+"name": "IC-Light_pytorch",
+"path": "ic-light_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ic-light_pytorch",
+"desc": "IC-Light is a project to manipulate the illumination of images.",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ic-light_pytorch.git"
+},
+{
+"id": 706,
+"name": "IDM-VTON_pytorch",
+"path": "idm-vton_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/idm-vton_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/idm-vton_pytorch.git"
+},
+{
+"id": 304,
+"name": "ImageGenerate_paddle",
+"path": "imagegenerate_paddle",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/imagegenerate_paddle",
+"desc": "A simple way to generate image by typing text or add image, also easy for training custom's key word to generate custom's images elements.",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/imagegenerate_paddle.git"
+},
+{
+"id": 122,
+"name": "InceptionV3_pytorch",
+"path": "inceptionv3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/inceptionv3_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/inceptionv3_pytorch.git"
+},
+{
+"id": 1935,
+"name": "index-tts-vllm",
+"path": "index-tts-vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/index-tts-vllm",
+"desc": "该项目在 index-tts 的基础上使用 vllm 库重新实现了 gpt 模型的推理，加速了 index-tts 的推理过程。",
+"updated": "2026-01-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/index-tts-vllm.git"
+},
+{
+"id": 1482,
+"name": "InfiniteYou_pytorch",
+"path": "InfiniteYou_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/InfiniteYou_pytorch",
+"desc": "在灵活变换场景和内容的同时，精准保留你的身份特征，不是简单的换脸。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/InfiniteYou_pytorch.git"
+},
+{
+"id": 1053,
+"name": "Inpaint-Anything_pytorch",
+"path": "inpaint-anything_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/inpaint-anything_pytorch",
+"desc": "通过SAM编辑任意物体。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/inpaint-anything_pytorch.git"
+},
+{
+"id": 1412,
+"name": "InspireMusic_pytorch",
+"path": "InspireMusic_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/InspireMusic_pytorch",
+"desc": "支持音乐、歌曲及音频的生成，为用户提供多样化选择。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/InspireMusic_pytorch.git"
+},
+{
+"id": 531,
+"name": "InstantID_pytorch",
+"path": "instantid_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/instantid_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/instantid_pytorch.git"
+},
+{
+"id": 910,
+"name": "InstructBLIP_pytorch",
+"path": "instructBLIP_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/instructBLIP_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/instructBLIP_pytorch.git"
+},
+{
+"id": 2383,
+"name": "Intern-S1_vllm",
+"path": "intern-s1_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/intern-s1_vllm",
+"desc": "Intern-S1 结合了强大的通用任务能力和在广泛科学任务上的顶尖表现，可与领先的闭源商业模型相媲美。",
+"updated": "2026-04-21",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/intern-s1_vllm.git"
+},
+{
+"id": 701,
+"name": "InternLM2-Math-7B_pytorch",
+"path": "internlm2_math_7b_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/internlm2_math_7b_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/internlm2_math_7b_pytorch.git"
+},
+{
+"id": 990,
+"name": "InternLM_2.5_pytorch",
+"path": "internlm_2.5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/internlm_2.5_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/internlm_2.5_pytorch.git"
+},
+{
+"id": 460,
+"name": "InternLM_lmdeploy",
+"path": "internlm_lmdeploy",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/internlm_lmdeploy",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/internlm_lmdeploy.git"
+},
+{
+"id": 1100,
+"name": "InternLM_vllm",
+"path": "internlm_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/internlm_vllm",
+"desc": "",
+"updated": "2025-10-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/internlm_vllm.git"
+},
+{
+"id": 1473,
+"name": "InternVL2.5_pytorch",
+"path": "internvl2.5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/internvl2.5_pytorch",
+"desc": "InternVL 2.5，这是一个高级多模态大型语言模型（MLLM）系列，它建立在InternVL 2.0的基础上，保持了其核心模型架构，同时引入了训练和测试策略以及数据质量的显著增强。",
+"updated": "2025-12-26",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/internvl2.5_pytorch.git"
+},
+{
+"id": 837,
+"name": "InternVL2_pytorch",
+"path": "internvl2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/internvl2_pytorch",
+"desc": "多模态语言大模型，可用于OCR，拥有较强的数学和理解能力",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/internvl2_pytorch.git"
+},
+{
+"id": 1509,
+"name": "InternVL3_pytorch",
+"path": "internvl3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/internvl3_pytorch",
+"desc": "InternVL3是上海人工智能实验室开源的多模态大语言模型，具有卓越的多模态感知和推理能力",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/internvl3_pytorch.git"
+},
+{
+"id": 900,
+"name": "IP-Adapter_pytorch",
+"path": "ip-adapter_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ip-adapter_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ip-adapter_pytorch.git"
+},
+{
+"id": 2187,
+"name": "IQuest-Coder-V1-7B-Instruct_vllm",
+"path": "iquest-coder-v1-7b-instruct_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/iquest-coder-v1-7b-instruct_vllm",
+"desc": "",
+"updated": "2026-03-16",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/iquest-coder-v1-7b-instruct_vllm.git"
+},
+{
+"id": 612,
+"name": "iTransformer_pytorch",
+"path": "itransformer_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/itransformer_pytorch",
+"desc": "iTransformer能高效利用长程时序特征，能同时预测多个指标。",
+"updated": "2025-06-18",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/itransformer_pytorch.git"
+},
+{
+"id": 2186,
+"name": "Jan-code-4b_vllm",
+"path": "jan-code-4b_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/jan-code-4b_vllm",
+"desc": "",
+"updated": "2026-03-16",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/jan-code-4b_vllm.git"
+},
+{
+"id": 2062,
+"name": "Jan-v3-4B-base-instruct_vllm",
+"path": "jan-v3-4b-base-instruct_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/jan-v3-4b-base-instruct_vllm",
+"desc": "",
+"updated": "2026-02-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/jan-v3-4b-base-instruct_vllm.git"
+},
+{
+"id": 1397,
+"name": "Janus-Pro-7B_pytorch ",
+"path": "janus-pro-7b_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/janus-pro-7b_pytorch",
+"desc": "深度探索研发的文生图多模态模型",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/janus-pro-7b_pytorch.git"
+},
+{
+"id": 1664,
+"name": "jina-embeddings-v3_vllm",
+"path": "jina-embeddings-v3_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/jina-embeddings-v3_vllm",
+"desc": "jina-embeddings-v3是一个多语言多任务文本嵌入模型，专为各种NLP应用而设计。",
+"updated": "2025-07-29",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/jina-embeddings-v3_vllm.git"
+},
+{
+"id": 969,
+"name": "JIUTIAN-139MoE-Chat",
+"path": "jiutian-139moe-chat",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/jiutian-139moe-chat",
+"desc": "",
+"updated": "2024-10-12",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/jiutian-139moe-chat.git"
+},
+{
+"id": 1772,
+"name": "KAT-Dev-vllm",
+"path": "kat-dev-vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kat-dev-vllm",
+"desc": "",
+"updated": "2025-10-14",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kat-dev-vllm.git"
+},
+{
+"id": 1512,
+"name": "KEPLER_pytorch",
+"path": "kepler_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kepler_pytorch",
+"desc": "",
+"updated": "2025-04-27",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kepler_pytorch.git"
+},
+{
+"id": 1915,
+"name": "Kimi-K2-Instruct-quantized.w4a16_vllm",
+"path": "kimi-k2-instruct-quantized.w4a16_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2-instruct-quantized.w4a16_vllm",
+"desc": "",
+"updated": "2026-01-10",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2-instruct-quantized.w4a16_vllm.git"
+},
+{
+"id": 2153,
+"name": "Kimi-K2.5",
+"path": "kimi-k2.5",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2.5",
+"desc": "Kimi K2.5 作为一个原生多模态模型，提供了最先进的编码和视觉功能，以及自主智能体集群范式。",
+"updated": "2026-06-01",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2.5.git"
+},
+{
+"id": 2388,
+"name": "Kimi-K2.6",
+"path": "kimi-k2.6",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2.6",
+"desc": "Kimi K2.6 是一个开源的原生多模态智能体模型，在长周期编程、以编程驱动的设计、主动自主执行以及基于智能体集群的任务编排等实际能力方面取得了显著进展。",
+"updated": "2026-06-10",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2.6.git"
+},
+{
+"id": 15382,
+"name": "Kimi-K2.7-Code",
+"path": "kimi-k2.7-code",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2.7-code",
+"desc": "Kimi K2.7 Code 是一款以代码能力为核心的智能体模型，基于 Kimi K2.6 构建而成。",
+"updated": "2026-06-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2.7-code.git"
+},
+{
+"id": 2159,
+"name": "Kimi-K2_vllm",
+"path": "kimi-k2_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2_vllm",
+"desc": "",
+"updated": "2026-03-30",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2_vllm.git"
+},
+{
+"id": 1497,
+"name": "Kimi-VL-A3B-Instruct_pytorch",
+"path": "kimi-vl-a3b-instruct_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kimi-vl-a3b-instruct_pytorch",
+"desc": "Kimi-VL-A3B-Instruct 是由月之暗面发布的多模态视觉语言模型，在多模态推理和智能体能力方面表现突出。",
+"updated": "2025-12-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kimi-vl-a3b-instruct_pytorch.git"
+},
+{
+"id": 1498,
+"name": "Kimi-VL-A3B-Thinking_pytorch",
+"path": "kimi-vl-a3b-thinking_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kimi-vl-a3b-thinking_pytorch",
+"desc": "Kimi-VL-A3B-Thinking 由月之暗面开源发布的多模态模型，在多模态推理和智能体能力方面表现突出。",
+"updated": "2025-12-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kimi-vl-a3b-thinking_pytorch.git"
+},
+{
+"id": 787,
+"name": "Kolors_pytorch",
+"path": "kolors_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kolors_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kolors_pytorch.git"
+},
+{
+"id": 2181,
+"name": "kvpress-FINCH-Qwen3-8B_pytorch",
+"path": "kvpress-FINCH-Qwen3-8B_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kvpress-FINCH-Qwen3-8B_pytorch",
+"desc": "FINCH将context分成多块，然后依次与prompt拼接输入模型并级联起来推理，从而把完整context切小来减小显存占用。",
+"updated": "2026-03-12",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kvpress-FINCH-Qwen3-8B_pytorch.git"
+},
+{
+"id": 2174,
+"name": "kvpress-Knorm-Qwen3-8B_pytorch",
+"path": "kvpress-Knorm-Qwen3-8B_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kvpress-Knorm-Qwen3-8B_pytorch",
+"desc": "Knorm将key进行L_2 Norm获得scores实现剪枝，英伟达官方默认的基准算法。",
+"updated": "2026-03-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kvpress-Knorm-Qwen3-8B_pytorch.git"
+},
+{
+"id": 2178,
+"name": "kvpress-PyramidKV-Qwen3-8B_pytorch",
+"path": "kvpress-PyramidKV-Qwen3-8B_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kvpress-PyramidKV-Qwen3-8B_pytorch",
+"desc": "PyramidKV构建金字塔形缓存结构，低层分配更多缓存，高层分配较少缓存，从而减少显存占用。",
+"updated": "2026-03-12",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kvpress-PyramidKV-Qwen3-8B_pytorch.git"
+},
+{
+"id": 2171,
+"name": "kvpress-SnapKV-Qwen3-8B_pytorch",
+"path": "kvpress-SnapKV-Qwen3-8B_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kvpress-SnapKV-Qwen3-8B_pytorch",
+"desc": "SnapKV采用近期query与key点积再池化的topk scores进行剪枝。",
+"updated": "2026-03-10",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kvpress-SnapKV-Qwen3-8B_pytorch.git"
+},
+{
+"id": 2173,
+"name": "kvpress-TOVA-Qwen3-8B_pytorch",
+"path": "kvpress-TOVA-Qwen3-8B_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/kvpress-TOVA-Qwen3-8B_pytorch",
+"desc": "TOVA将Transformer视为一个无界多状态RNN，通过限制每层token数量来转换成有界RNN，允许动态驱逐最近缓存，根据当前查询需求调整保留窗口实现剪枝。",
+"updated": "2026-03-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/kvpress-TOVA-Qwen3-8B_pytorch.git"
+},
+{
+"id": 167,
+"name": "LapSRN_tensorflow",
+"path": "lapsrn_tensorflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/lapsrn_tensorflow",
+"desc": "LapSRN是一种用于超分辨率重建的神经网络模型，全称为Laplacian Pyramid Super-Resolution Network。它可以将低分辨率的图像增强到高分辨率，从而提高图像的质量和清晰度。LapSRN模型基于图像金字塔理论，采用多级金字塔结构，通过渐进性的上采样和细节增强，逐步提高图像分辨率。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/lapsrn_tensorflow.git"
+},
+{
+"id": 539,
+"name": "Latte_pytorch",
+"path": "latte_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/latte_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/latte_pytorch.git"
+},
+{
+"id": 1454,
+"name": "LettuceDetect_pytorch",
+"path": "lettucedetect_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/lettucedetect_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/lettucedetect_pytorch.git"
+},
+{
+"id": 1844,
+"name": "LFM2-8B-A1B-pytorch",
+"path": "lfm2-8b-a1b-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/lfm2-8b-a1b-pytorch",
+"desc": "",
+"updated": "2025-11-28",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/lfm2-8b-a1b-pytorch.git"
+},
+{
+"id": 2291,
+"name": "LFM2.5_pytorch",
+"path": "lfm2.5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/lfm2.5_pytorch",
+"desc": "",
+"updated": "2026-04-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/lfm2.5_pytorch.git"
+},
+{
+"id": 1057,
+"name": "LinFusion_pytorch",
+"path": "linfusion_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/linfusion_pytorch",
+"desc": "高效生成高分辨率图像模型，可实现文生图、图生图等功能",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/linfusion_pytorch.git"
+},
+{
+"id": 815,
+"name": "LivePortrait_pytorch",
+"path": "liveportrait_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/liveportrait_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/liveportrait_pytorch.git"
+},
+{
+"id": 10299,
+"name": "LLaDA2.0-Uni",
+"path": "llada2.0-uni",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llada2.0-uni",
+"desc": "",
+"updated": "2026-06-02",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llada2.0-uni.git"
+},
+{
+"id": 1051,
+"name": "LLaMA-Factory-Llama3.2_pytorch",
+"path": "llama-factory-llama3.2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama-factory-llama3.2_pytorch",
+"desc": "Llama3.2 3B计算量的模型方便用于边缘端部署，3B模型在IFEval评测中已经能达到Llama 3.1 8B的水平，Llama3.2与OpenAI的GPT 4o-mini相媲美。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama-factory-llama3.2_pytorch.git"
+},
+{
+"id": 457,
+"name": "Llama1and2_lmdeploy",
+"path": "llama_lmdeploy",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama_lmdeploy",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama_lmdeploy.git"
+},
+{
+"id": 655,
+"name": "llama2_lora_pytorch",
+"path": "llama2_lora_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama2_lora_pytorch",
+"desc": "",
+"updated": "2024-09-12",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama2_lora_pytorch.git"
+},
+{
+"id": 596,
+"name": "llama3_pytorch",
+"path": "llama3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama3_pytorch",
+"desc": "Meta开源模型Llama-3",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama3_pytorch.git"
+},
+{
+"id": 1481,
+"name": "Llama4_pytorch",
+"path": "llama4_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama4_pytorch",
+"desc": "",
+"updated": "2025-06-21",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama4_pytorch.git"
+},
+{
+"id": 407,
+"name": "LLaMA_Fastchat_pytorch",
+"path": "llama_fastchat_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama_fastchat_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama_fastchat_pytorch.git"
+},
+{
+"id": 358,
+"name": "LLama_fastertransformer",
+"path": "llama_fastertransformer",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama_fastertransformer",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama_fastertransformer.git"
+},
+{
+"id": 405,
+"name": "llama_inference_pytorch",
+"path": "llama_inference_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama_inference_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama_inference_pytorch.git"
+},
+{
+"id": 488,
+"name": "LLAMA_paddle",
+"path": "llama_paddle",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama_paddle",
+"desc": "llama-13b pretrain example for paddle",
+"updated": "2024-01-04",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama_paddle.git"
+},
+{
+"id": 408,
+"name": "LLaMA_TencentPretrain_pytorch",
+"path": "llama_tencentpretrain_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama_tencentpretrain_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama_tencentpretrain_pytorch.git"
+},
+{
+"id": 662,
+"name": "llama_tgi",
+"path": "llama_tgi",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama_tgi",
+"desc": "LLama model inferce by TGI",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama_tgi.git"
+},
+{
+"id": 601,
+"name": "LLaMA_vllm",
+"path": "llama_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llama_vllm",
+"desc": "",
+"updated": "2025-10-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llama_vllm.git"
+},
+{
+"id": 1475,
+"name": "LLaVA-NeXT_pytorch",
+"path": "llava-next_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llava-next_pytorch",
+"desc": "",
+"updated": "2025-04-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llava-next_pytorch.git"
+},
+{
+"id": 1048,
+"name": "LLaVA_vllm",
+"path": "llava_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llava_vllm",
+"desc": "",
+"updated": "2025-10-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llava_vllm.git"
+},
+{
+"id": 801,
+"name": "llm-compiler_pytorch",
+"path": "llm-compiler_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/llm-compiler_pytorch",
+"desc": "LM Compiler: Specializing Code Llama for compiler optimization",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/llm-compiler_pytorch.git"
+},
+{
+"id": 2103,
+"name": "LocoOperator_vllm",
+"path": "locooperator_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/locooperator_vllm",
+"desc": "",
+"updated": "2026-02-25",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/locooperator_vllm.git"
+},
+{
+"id": 1827,
+"name": "LoFTR-pytorch",
+"path": "loftr-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/loftr-pytorch",
+"desc": "一种基于Transformers的局部特征匹配算法",
+"updated": "2025-11-20",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/loftr-pytorch.git"
+},
+{
+"id": 2245,
+"name": "LongCat-Next_pytorch",
+"path": "longcat-next_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/longcat-next_pytorch",
+"desc": "LongCat-Next，这是一个原生多模态模型，仅在语言范式基础上引入极小的归纳偏置，即可通过单一自回归目标处理文本、视觉和音频。",
+"updated": "2026-06-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/longcat-next_pytorch.git"
+},
+{
+"id": 1837,
+"name": "LongCat-Video-pytorch",
+"path": "longcat-video-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/longcat-video-pytorch",
+"desc": "LongCat-Video模型，一个13.6B的适配生成模型，在多个方向都有不俗的表现，包括文生视频，图生视频等等",
+"updated": "2026-04-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/longcat-video-pytorch.git"
+},
+{
+"id": 1723,
+"name": "LongCat_sglang",
+"path": "longcat_sglang",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/longcat_sglang",
+"desc": "美团开源模型龙猫，一个强大且高效的语言模型，拥有总计 5600 亿个参数，采用了创新的专家混合（MoE）架构。",
+"updated": "2025-09-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/longcat_sglang.git"
+},
+{
+"id": 45,
+"name": "LPRNet_pytorch",
+"path": "lpr",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/lpr",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/lpr.git"
+},
+{
+"id": 1151,
+"name": "LSTM_pytorch",
+"path": "lstm_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/lstm_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/lstm_pytorch.git"
+},
+{
+"id": 2665,
+"name": "LTX-2.3 ",
+"path": "ltx-2.3",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ltx-2.3",
+"desc": "",
+"updated": "2026-05-18",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ltx-2.3.git"
+},
+{
+"id": 1913,
+"name": "Luna_vllm",
+"path": "luna_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/luna_vllm",
+"desc": "",
+"updated": "2026-01-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/luna_vllm.git"
+},
+{
+"id": 486,
+"name": "magic-animate_pytorch",
+"path": "magic-animate_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/magic-animate_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/magic-animate_pytorch.git"
+},
+{
+"id": 1521,
+"name": "Magma_pytorch",
+"path": "Magma_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Magma_pytorch",
+"desc": "具身智能新时代！VLA迎来最强基础模型Magma：UI导航、机器人操作全能。",
+"updated": "2025-06-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Magma_pytorch.git"
+},
+{
+"id": 1944,
+"name": "MAI-UI_vllm",
+"path": "mai-ui_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mai-ui_vllm",
+"desc": "",
+"updated": "2026-02-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mai-ui_vllm.git"
+},
+{
+"id": 943,
+"name": "mamba2_pytorch",
+"path": "mamba2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mamba2_pytorch",
+"desc": "Mamba2提出了一种基于半可分离矩阵块分解的 SSD 算法,以显著提高训练效率",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mamba2_pytorch.git"
+},
+{
+"id": 823,
+"name": "MAMBA_pytorch",
+"path": "mamba_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mamba_pytorch",
+"desc": "MAMBA based on PyTorch",
+"updated": "2024-11-20",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mamba_pytorch.git"
+},
+{
+"id": 1019,
+"name": "MambaVision_pytorch",
+"path": "mambavision_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mambavision_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mambavision_pytorch.git"
+},
+{
+"id": 2312,
+"name": "Marco-Nano_vllm",
+"path": "marco-nano_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/marco-nano_vllm",
+"desc": "",
+"updated": "2026-04-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/marco-nano_vllm.git"
+},
+{
+"id": 1232,
+"name": "Marco-o1_pytorch",
+"path": "marco-o1_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/marco-o1_pytorch",
+"desc": "通过结合CoT微调、MCTS算法和推理行动策略，Marco-o1超越部分闭源产品。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/marco-o1_pytorch.git"
+},
+{
+"id": 468,
+"name": "MaskedDenoising_pytorch",
+"path": "maskeddenoising_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/maskeddenoising_pytorch",
+"desc": "Masked Image Training for Generalizable Deep Image Denoising",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/maskeddenoising_pytorch.git"
+},
+{
+"id": 1117,
+"name": "Matte-Anything_pytorch",
+"path": "matte-anything_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/matte-anything_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/matte-anything_pytorch.git"
+},
+{
+"id": 1119,
+"name": "Matting-Anything_pytorch",
+"path": "matting-anything_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/matting-anything_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/matting-anything_pytorch.git"
+},
+{
+"id": 1811,
+"name": "Maya1_pytorch",
+"path": "maya1_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/maya1_pytorch",
+"desc": "",
+"updated": "2025-11-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/maya1_pytorch.git"
+},
+{
+"id": 2125,
+"name": "MedMO_vllm",
+"path": "medmo_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/medmo_vllm",
+"desc": "",
+"updated": "2026-02-28",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/medmo_vllm.git"
+},
+{
+"id": 648,
+"name": "megatron-deepspeed-llama2",
+"path": "megatron-deepspeed-llama2",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/megatron-deepspeed-llama2",
+"desc": "",
+"updated": "2024-05-27",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/megatron-deepspeed-llama2.git"
+},
+{
+"id": 434,
+"name": "megatron-deepspeed-llama_pytorch",
+"path": "megatron-deepspeed-llama_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/megatron-deepspeed-llama_pytorch",
+"desc": "",
+"updated": "2024-02-04",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/megatron-deepspeed-llama_pytorch.git"
+},
+{
+"id": 362,
+"name": "Megatron-DeepSpeed-ViT_pytorch",
+"path": "megatron-deepspeed-vit_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/megatron-deepspeed-vit_pytorch",
+"desc": "image classification by transformer",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/megatron-deepspeed-vit_pytorch.git"
+},
+{
+"id": 1516,
+"name": "MegaTTS3_pytorch",
+"path": "MegaTTS3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/MegaTTS3_pytorch",
+"desc": "骨干网络仅含0.45B参数，支持口音强度控制，适于实时语音交互，能满足不同场景下对语音口音克隆的多样化需求。",
+"updated": "2025-05-14",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/MegaTTS3_pytorch.git"
+},
+{
+"id": 1669,
+"name": "MemAgent_pytorch",
+"path": "memagent_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/memagent_pytorch",
+"desc": "RL-MemAgent-14B 是 MemAgent 框架的一部分，它使大型语言模型 （LLM） 能够通过端到端强化学习处理任意长的文本，而无需改变其核心架构。",
+"updated": "2025-07-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/memagent_pytorch.git"
+},
+{
+"id": 912,
+"name": "MetaMath_7B_pytorch",
+"path": "metamath_7b_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/metamath_7b_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/metamath_7b_pytorch.git"
+},
+{
+"id": 426,
+"name": "MetaPortrait_pytorch",
+"path": "metaportrait_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/metaportrait_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/metaportrait_pytorch.git"
+},
+{
+"id": 1931,
+"name": "migraphx_custom_op",
+"path": "migraphx_custom_op",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/migraphx_custom_op",
+"desc": "",
+"updated": "2026-03-24",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/migraphx_custom_op.git"
+},
+{
+"id": 1706,
+"name": "MIGraphX_SDXL_Inference",
+"path": "migraphx_sdxl_inference",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/migraphx_sdxl_inference",
+"desc": "sdxl inference by using MIGraphX.",
+"updated": "2025-08-25",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/migraphx_sdxl_inference.git"
+},
+{
+"id": 2395,
+"name": "MiMo-V2-Flash",
+"path": "mimo-v2-flash",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mimo-v2-flash",
+"desc": "",
+"updated": "2026-04-29",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mimo-v2-flash.git"
+},
+{
+"id": 2454,
+"name": "MiMo-V2.5",
+"path": "mimo-v2.5",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mimo-v2.5",
+"desc": "MiMo-V2.5 是一个原生全模态模型，具备强大的智能体（agentic）能力，通过统一架构支持文本、图像、视频和音频的理解。该模型基于 MiMo-V2-Flash 主干网络构建，并扩展了专用的视觉和音频编码器，在多模态感知、长上下文推理和智能体工作流方面表现出卓越性能。",
+"updated": "2026-05-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mimo-v2.5.git"
+},
+{
+"id": 2566,
+"name": "MiMo-V2.5-ASR",
+"path": "mimo-v2.5-asr",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mimo-v2.5-asr",
+"desc": "MiMo-V2.5-ASR is a state-of-the-art end-to-end automatic speech recognition (ASR) model developed by the Xiaomi MiMo team. It is built to deliver accurate and robust transcription across Mandarin Chinese and English, multiple Chinese dialects, code-s",
+"updated": "2026-05-26",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mimo-v2.5-asr.git"
+},
+{
+"id": 1796,
+"name": "Mineru2.5_vllm",
+"path": "mineru2.5_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mineru2.5_vllm",
+"desc": "MinerU 的 2.5 版本，用全新的 VLM 模型实现了文档解析的 SOTA 性能。",
+"updated": "2025-12-30",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mineru2.5_vllm.git"
+},
+{
+"id": 1657,
+"name": "MinerU_pytorch",
+"path": "mineru_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mineru_pytorch",
+"desc": "MinerU是一个功能强大的PDF文档内容提取工具，它利用了先进的PDF-Extract-Kit模型库，能够有效地从各种类型的文档中提取内容。",
+"updated": "2025-08-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mineru_pytorch.git"
+},
+{
+"id": 1054,
+"name": "mini-omni2_pytorch",
+"path": "mini-omni2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mini-omni2_pytorch",
+"desc": "Mini-Omni2是个视觉-音频助理，能同时处理视觉、听觉和文本三种多模态，实时提供端到端的语音对话响应。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mini-omni2_pytorch.git"
+},
+{
+"id": 691,
+"name": "MiniCMP-V_pytorch",
+"path": "minicpm-v_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minicpm-v_pytorch",
+"desc": "多模态OCR大模型，端侧可用",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minicpm-v_pytorch.git"
+},
+{
+"id": 622,
+"name": "MiniCMP_classify_pytorch",
+"path": "minicpm_classify_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minicpm_classify_pytorch",
+"desc": "基于源MiniCPM修改的分类算法，可用于情感分类等场景，2B参数量效果碾压Mistral-7B。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minicpm_classify_pytorch.git"
+},
+{
+"id": 1483,
+"name": "MiniCPM-o-2.6_pytorch",
+"path": "minicpm-o-2.6_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minicpm-o-2.6_pytorch",
+"desc": "MiniCPM-o 2.6是MiniCPM-o 系列的最新、性能最佳模型。总参数量 8B，视觉、语音和多模态流式能力达到了 GPT-4o-202405 级别，是开源社区中模态支持最丰富、性能最佳的模型之一。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minicpm-o-2.6_pytorch.git"
+},
+{
+"id": 1485,
+"name": "MiniCPM-V-2_6_pytorch",
+"path": "minicpm-v-2_6_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minicpm-v-2_6_pytorch",
+"desc": "MiniCPM-V 2.6是是 MiniCPM-V 系列中最新、性能最佳的模型。仅 8B 参数，但却取得 20B 以下单图、多图、视频理解 3 SOTA 成绩，一举将端侧 AI 多模态能力拉升至全面对标 GPT-4V 水平。",
+"updated": "2025-12-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minicpm-v-2_6_pytorch.git"
+},
+{
+"id": 2829,
+"name": "MiniCPM-V-4.6",
+"path": "minicpm-v-4.6",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minicpm-v-4.6",
+"desc": "",
+"updated": "2026-05-26",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minicpm-v-4.6.git"
+},
+{
+"id": 1675,
+"name": "MiniCPM4_pytorch",
+"path": "MiniCPM4_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/MiniCPM4_pytorch",
+"desc": "速度狂飙，快至220倍！MiniCPM4.0-8B是首个原生稀疏模型，5%的极高稀疏度加持系统级创新技术的大爆发，宣告了端侧长文本时代到来！",
+"updated": "2025-07-29",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/MiniCPM4_pytorch.git"
+},
+{
+"id": 551,
+"name": "MiniCPM_pytorch",
+"path": "minicpm_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minicpm_pytorch",
+"desc": "2B小钢炮碾压Mistral-7B，整体性能超越 Llama2-13B，消费级显卡可训练。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minicpm_pytorch.git"
+},
+{
+"id": 789,
+"name": "MiniGemini_pytorch",
+"path": "minigemini_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minigemini_pytorch",
+"desc": "",
+"updated": "2025-03-31",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minigemini_pytorch.git"
+},
+{
+"id": 2094,
+"name": "MiniMax-M2.5",
+"path": "minimax-m2.5",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minimax-m2.5",
+"desc": "MiniMax-M2.5在数十万个复杂真实世界环境中经过强化学习的广泛训练，在代码编写、智能体工具使用与搜索、办公任务以及一系列其他具有经济价值的任务上达到当前最先进（SOTA）水平，在多项基准测试中取得了优异成绩。",
+"updated": "2026-05-19",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minimax-m2.5.git"
+},
+{
+"id": 2356,
+"name": "MiniMax-M2.7",
+"path": "minimax-m2.7",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minimax-m2.7",
+"desc": "",
+"updated": "2026-05-19",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minimax-m2.7.git"
+},
+{
+"id": 1813,
+"name": "MiniMax-M2_vllm",
+"path": "minimax-m2_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minimax-m2_vllm",
+"desc": "",
+"updated": "2026-04-01",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minimax-m2_vllm.git"
+},
+{
+"id": 15364,
+"name": "MiniMax-M3",
+"path": "minimax-m3",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minimax-m3",
+"desc": "MiniMax M3 在编程和智能体等专业任务上达到了前沿的能力,它使用了全新注意力架构 MSA （MiniMax Sparse Attention），最高支持 1M 超长上下文。",
+"updated": "2026-06-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minimax-m3.git"
+},
+{
+"id": 1638,
+"name": "MiniMax_vllm",
+"path": "minimax_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/minimax_vllm",
+"desc": "MiniMax M1拥有超长的上下文能力，100万token输入，8万token输出，足以媲美Gemini 2.5 Pro的开源模型。",
+"updated": "2025-07-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/minimax_vllm.git"
+},
+{
+"id": 1595,
+"name": "Ministral_pytorch",
+"path": "ministral_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ministral_pytorch",
+"desc": "专为边缘设备和边缘计算场景而设计，支持高达128，000个 token 的上下文长度。",
+"updated": "2025-06-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ministral_pytorch.git"
+},
+{
+"id": 2197,
+"name": "MiroThinker-1.7-mini_vllm",
+"path": "mirothinker-1.7-mini_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mirothinker-1.7-mini_vllm",
+"desc": "",
+"updated": "2026-03-19",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mirothinker-1.7-mini_vllm.git"
+},
+{
+"id": 1946,
+"name": "MiroThinker-v1.5_vllm",
+"path": "mirothinker-v1.5_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mirothinker-v1.5_vllm",
+"desc": "",
+"updated": "2026-01-26",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mirothinker-v1.5_vllm.git"
+},
+{
+"id": 1591,
+"name": "Mistral-Small_pytorch",
+"path": "mistral-small_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mistral-small_pytorch",
+"desc": "",
+"updated": "2025-06-20",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mistral-small_pytorch.git"
+},
+{
+"id": 1588,
+"name": "Mistral_pytorch",
+"path": "mistral_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mistral_pytorch",
+"desc": "",
+"updated": "2025-06-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mistral_pytorch.git"
+},
+{
+"id": 1182,
+"name": "Mixtral_vllm",
+"path": "mixtral_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mixtral_vllm",
+"desc": "",
+"updated": "2025-10-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mixtral_vllm.git"
+},
+{
+"id": 115,
+"name": "MLPerf_BERT_paddle",
+"path": "mlperf_bert_paddle",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mlperf_bert_paddle",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mlperf_bert_paddle.git"
+},
+{
+"id": 117,
+"name": "MLPerf_MaskRCNN_pytorch",
+"path": "mlperf_maskrcnn_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mlperf_maskrcnn_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mlperf_maskrcnn_pytorch.git"
+},
+{
+"id": 119,
+"name": "MLPerf_MiniGo_tensorflow",
+"path": "mlperf_minigo_tensorflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mlperf_minigo_tensorflow",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mlperf_minigo_tensorflow.git"
+},
+{
+"id": 113,
+"name": "MLPerf_ResNet50_tensorflow",
+"path": "mlperf_resnet50_tensorflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mlperf_resnet50_tensorflow",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mlperf_resnet50_tensorflow.git"
+},
+{
+"id": 121,
+"name": "MLPerf_RetinaNet_pytorch",
+"path": "mlperf_retinanet_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mlperf_retinanet_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mlperf_retinanet_pytorch.git"
+},
+{
+"id": 523,
+"name": "mmpose-RTMO_pytorch",
+"path": "mmpose-rtmo_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mmpose-rtmo_pytorch",
+"desc": "迈向高性能的单阶段实时多人姿态估计，精度、速度均超越超越YOLO-pose。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mmpose-rtmo_pytorch.git"
+},
+{
+"id": 378,
+"name": "mobilenet_prune_pytorch",
+"path": "mobilenet_prune",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mobilenet_prune",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mobilenet_prune.git"
+},
+{
+"id": 413,
+"name": "Mobilenet_v2_tvm",
+"path": "mobilenet_v2_tvm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mobilenet_v2_tvm",
+"desc": "",
+"updated": "2024-09-02",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mobilenet_v2_tvm.git"
+},
+{
+"id": 128,
+"name": "MobileNetV2_mmcv",
+"path": "mobilenetv2_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mobilenetv2_mmcv",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mobilenetv2_mmcv.git"
+},
+{
+"id": 1146,
+"name": "MobileNetV2_pytorch",
+"path": "mobilenet_v2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mobilenet_v2_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mobilenet_v2_pytorch.git"
+},
+{
+"id": 316,
+"name": "mobilenetv2_pytorch",
+"path": "mobilenetv2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mobilenetv2_pytorch",
+"desc": "",
+"updated": "2023-07-21",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mobilenetv2_pytorch.git"
+},
+{
+"id": 179,
+"name": "MobileNetV3_pytorch",
+"path": "mobilenetv3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mobilenetv3_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mobilenetv3_pytorch.git"
+},
+{
+"id": 502,
+"name": "MobileNetV3_tvm",
+"path": "mobilenet_v3_tvm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mobilenet_v3_tvm",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mobilenet_v3_tvm.git"
+},
+{
+"id": 632,
+"name": "MobileNetv4_pytorch",
+"path": "mobilenetv4_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mobilenetv4_pytorch",
+"desc": "轻量化之王MobileNetV4，手机推理速度 3.8ms，在移动CPU、DSP、GPU以及苹果M处理器和谷歌Pixel Edge TPU全都高性能。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mobilenetv4_pytorch.git"
+},
+{
+"id": 593,
+"name": "MobileVLM_pytorch",
+"path": "mobilevlm_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mobilevlm_pytorch",
+"desc": "MobileVLM V2为移动端部署而设计，在资源受限的设备上展现出出色的性能，计算量1.7B达到普通VLM3B大小的水平，与LLaMA2共享相同分词器，便于知识蒸馏，在精度和性能上达到了一个新的平衡点，以下步骤适于推理。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mobilevlm_pytorch.git"
+},
+{
+"id": 1067,
+"name": "MooER_pytorch",
+"path": "mooer_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mooer_pytorch",
+"desc": "一个由摩尔线程开发的、基于大语言模型（Large Language Model，LLM）的语音识别和语音翻译系统。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mooer_pytorch.git"
+},
+{
+"id": 1092,
+"name": "mPLUG-DocOwl_pytorch",
+"path": "mplug-docowl_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mplug-docowl_pytorch",
+"desc": "问答多模态大模型",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mplug-docowl_pytorch.git"
+},
+{
+"id": 1637,
+"name": "Multilingual_E5_pytorch",
+"path": "multilingual-e5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/multilingual-e5_pytorch",
+"desc": "多语言E5模型基于多语言MiniLM和XLM-RoBERTa，通过对比预训练和监督微调构建，支持小、基础、大型和指令调整变体，适用于多语言信息检索和语义相似性任务。",
+"updated": "2025-07-10",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/multilingual-e5_pytorch.git"
+},
+{
+"id": 1920,
+"name": "MythoMax-L2_vllm",
+"path": "mythomax-l2_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/mythomax-l2_vllm",
+"desc": "",
+"updated": "2026-01-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/mythomax-l2_vllm.git"
+},
+{
+"id": 2110,
+"name": "Nanbeige4.1_vllm",
+"path": "nanbeige4.1_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/nanbeige4.1_vllm",
+"desc": "",
+"updated": "2026-02-26",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/nanbeige4.1_vllm.git"
+},
+{
+"id": 1897,
+"name": "Nanbeige4_vllm",
+"path": "nanbeige4_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/nanbeige4_vllm",
+"desc": "",
+"updated": "2025-12-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/nanbeige4_vllm.git"
+},
+{
+"id": 2250,
+"name": "Nanonets-OCR-s_vllm",
+"path": "nanonets-ocr-s_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/nanonets-ocr-s_vllm",
+"desc": "",
+"updated": "2026-04-01",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/nanonets-ocr-s_vllm.git"
+},
+{
+"id": 1128,
+"name": "nanotron_pytorch",
+"path": "nanotron_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/nanotron_pytorch",
+"desc": "彻底开源预训练大模型，本项目能够预训练出超出qwen2.5、llama3效果的大语言模型，为一些人工智能大厂的训练代码。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/nanotron_pytorch.git"
+},
+{
+"id": 2252,
+"name": "Nemotron-Cascade-2_vllm",
+"path": "nemotron-cascade-2_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/nemotron-cascade-2_vllm",
+"desc": "",
+"updated": "2026-04-01",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/nemotron-cascade-2_vllm.git"
+},
+{
+"id": 613,
+"name": "neuralforecast-iTransformer_pytorch",
+"path": "neuralforecast-itransformer_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/neuralforecast-itransformer_pytorch",
+"desc": "时序预测库neuralforecast中的iTransformer算法能高效利用长程时序特征。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/neuralforecast-itransformer_pytorch.git"
+},
+{
+"id": 940,
+"name": "nmt_tensorflow",
+"path": "nmt_tensorflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/nmt_tensorflow",
+"desc": "",
+"updated": "2024-09-02",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/nmt_tensorflow.git"
+},
+{
+"id": 2203,
+"name": "NVIDIA-Nemotron-3",
+"path": "nvidia-nemotron-3",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/nvidia-nemotron-3",
+"desc": "",
+"updated": "2026-05-28",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/nvidia-nemotron-3.git"
+},
+{
+"id": 1896,
+"name": "OctoMed_vllm",
+"path": "octomed_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/octomed_vllm",
+"desc": "",
+"updated": "2025-12-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/octomed_vllm.git"
+},
+{
+"id": 446,
+"name": "OFA_pytorch",
+"path": "ofa_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ofa_pytorch",
+"desc": "OFA在一个简单的seq2seq的学习框架中统一了不同的跨模态和单模态的任务，包括图像生成、视觉定位、图像说明、图像分类、语言模型等，提出一种统一的多模态预训练范式，以解决复杂的任务/模态需要特殊定制模型架构的问题。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ofa_pytorch.git"
+},
+{
+"id": 1865,
+"name": "Olmo3_pytorch",
+"path": "olmo3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/olmo3_pytorch",
+"desc": "Olmo3是一个新的 7B 和 32B 模型系列，包括 Instruct 和 Think 变体。长链思维可以改进数学和编码等推理任务。",
+"updated": "2025-12-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/olmo3_pytorch.git"
+},
+{
+"id": 1452,
+"name": "olmocr_pytorch",
+"path": "olmocr_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/olmocr_pytorch",
+"desc": "olmOCR是Ai2推出的开源工具，用在将PDF文档高效转换为干净的结构化纯文本。",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/olmocr_pytorch.git"
+},
+{
+"id": 2330,
+"name": "olmOCR_vllm",
+"path": "olmocr_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/olmocr_vllm",
+"desc": "",
+"updated": "2026-04-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/olmocr_vllm.git"
+},
+{
+"id": 2296,
+"name": "OmniCoder_vllm",
+"path": "omnicoder_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/omnicoder_vllm",
+"desc": "",
+"updated": "2026-04-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/omnicoder_vllm.git"
+},
+{
+"id": 1670,
+"name": "OmniGen2_pytorch",
+"path": "OmniGen2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/OmniGen2_pytorch",
+"desc": "引入反思机制，多模态任务生成屠榜，一键解锁AI绘图「哆啦 A 梦」任意门。",
+"updated": "2025-07-29",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/OmniGen2_pytorch.git"
+},
+{
+"id": 796,
+"name": "OmniMotion_pytorch",
+"path": "omnimotion_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/omnimotion_pytorch",
+"desc": "一种在视频序列中密集和长距离运动估计方法，可对运动目标逐像素跟踪。",
+"updated": "2024-07-16",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/omnimotion_pytorch.git"
+},
+{
+"id": 1426,
+"name": "OmniParser_pytorch",
+"path": "Omniparser_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Omniparser_pytorch",
+"desc": "",
+"updated": "2025-05-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Omniparser_pytorch.git"
+},
+{
+"id": 1499,
+"name": "OmniSQL_pytorch",
+"path": "omnisql_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/omnisql_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/omnisql_pytorch.git"
+},
+{
+"id": 640,
+"name": "OOTDiffusion_pytorch",
+"path": "ootdiffusion_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ootdiffusion_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ootdiffusion_pytorch.git"
+},
+{
+"id": 574,
+"name": "Open-Sora_pytorch",
+"path": "open-sora_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/open-sora_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/open-sora_pytorch.git"
+},
+{
+"id": 999,
+"name": "open_clip_pytorch",
+"path": "open_clip_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/open_clip_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/open_clip_pytorch.git"
+},
+{
+"id": 1812,
+"name": "Ouro_pytorch",
+"path": "ouro_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ouro_pytorch",
+"desc": "",
+"updated": "2025-11-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ouro_pytorch.git"
+},
+{
+"id": 1864,
+"name": "Ovis-Image_pytorch",
+"path": "ovis-image_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ovis-image_pytorch",
+"desc": "基于 Ovis-U1，Ovis-Image 是一个 7B 的文本到图像模型，专门针对高质量文本渲染进行了优化，设计用于在严格的计算约束下高效运行。",
+"updated": "2025-12-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ovis-image_pytorch.git"
+},
+{
+"id": 1855,
+"name": "Ovis2.5_pytorch",
+"path": "ovis2.5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ovis2.5_pytorch",
+"desc": "Ovis2.5专为原生分辨率视觉感知和增强的多模态推理而设计，在图像推理、视频理解和接地基准测试中表现出领先的性能，展现了强大的通用多模态能力。",
+"updated": "2025-12-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ovis2.5_pytorch.git"
+},
+{
+"id": 2207,
+"name": "Ovis2.6_pytorch",
+"path": "ovis2.6_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ovis2.6_pytorch",
+"desc": "我们推出Ovis2.6-30B-A3B，这是Ovis 列多模态大语言模型（MLLM）的最新进展。在 Ovis2.5 的坚实基础上，Ovis2.6将LLM主干网络升级为混合专家（Mixture-of-Experts, MoE）架构，在显著降低推理成本的同时实现了卓越的多模态性能。此外，该模型还在长上下文与高分辨率理解、结合主动图像分析的视觉推理，以及信息密集型文档理解方面带来了重大改进。",
+"updated": "2026-03-27",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ovis2.6_pytorch.git"
+},
+{
+"id": 1015,
+"name": "Ovis_pytorch",
+"path": "ovis_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ovis_pytorch",
+"desc": "一种多模态大语言模型，具有准确解答数学问题、识别花卉品种、识别手写字体和复杂数学公式等能力。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ovis_pytorch.git"
+},
+{
+"id": 1924,
+"name": "PaCoRe_vllm",
+"path": "pacore_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/pacore_vllm",
+"desc": "",
+"updated": "2026-01-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/pacore_vllm.git"
+},
+{
+"id": 2009,
+"name": "PaddleOCR-VL-1.5_paddle",
+"path": "paddleocr-vl-1.5_paddle",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr-vl-1.5_paddle",
+"desc": "",
+"updated": "2026-03-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr-vl-1.5_paddle.git"
+},
+{
+"id": 15322,
+"name": "PaddleOCR-VL-1.6",
+"path": "paddleocr-vl-1.6",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr-vl-1.6",
+"desc": "",
+"updated": "2026-06-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr-vl-1.6.git"
+},
+{
+"id": 1791,
+"name": "PaddleOCR-VL_paddle",
+"path": "paddleocr-vl_paddle",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr-vl_paddle",
+"desc": "",
+"updated": "2025-11-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr-vl_paddle.git"
+},
+{
+"id": 220,
+"name": "PaddleOCR_migraphx",
+"path": "paddleocr_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr_migraphx",
+"desc": "本示例基于MIGraphX构建PaddleOCR推理示例",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr_migraphx.git"
+},
+{
+"id": 346,
+"name": "PaddleOCR_onnxruntime",
+"path": "paddleocr_onnxruntime",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr_onnxruntime",
+"desc": "一个基于Ort的PaddleOCR推理应用。",
+"updated": "2025-09-04",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr_onnxruntime.git"
+},
+{
+"id": 205,
+"name": "PaddleOCR_paddle_onnxruntime",
+"path": "paddleocr",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr",
+"desc": "",
+"updated": "2025-10-16",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/paddleocr.git"
+},
+{
+"id": 515,
+"name": "Painter_pytorch",
+"path": "painter_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/painter_pytorch",
+"desc": "Images Speak in Images: A Generalist Painter for In-Context Visual Learning",
+"updated": "2024-07-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/painter_pytorch.git"
+},
+{
+"id": 1023,
+"name": "Paraformer_FunASR_pytorch",
+"path": "paraformer_funasr_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/paraformer_funasr_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/paraformer_funasr_pytorch.git"
+},
+{
+"id": 1188,
+"name": "Parallel_Decoding_Vllm",
+"path": "parallel_decoding_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/parallel_decoding_vllm",
+"desc": "Vllm并行解码",
+"updated": "2024-12-27",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/parallel_decoding_vllm.git"
+},
+{
+"id": 1096,
+"name": "particle_transformer_pytorch",
+"path": "particle_transformer_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/particle_transformer_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/particle_transformer_pytorch.git"
+},
+{
+"id": 1089,
+"name": "ParticleNet_tensorflow",
+"path": "particlenet_tensorflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/particlenet_tensorflow",
+"desc": "",
+"updated": "2025-04-16",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/particlenet_tensorflow.git"
+},
+{
+"id": 1017,
+"name": "PASD_pytorch",
+"path": "pasd_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/pasd_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/pasd_pytorch.git"
+},
+{
+"id": 834,
+"name": "Phi-3_pytorch",
+"path": "phi-3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/phi-3_pytorch",
+"desc": "微软自研小尺寸模型",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/phi-3_pytorch.git"
+},
+{
+"id": 1465,
+"name": "Phi-4-multimodal-instruct_pytorch",
+"path": "phi-4-multimodal-instruct_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/phi-4-multimodal-instruct_pytorch",
+"desc": "微软发布的强大的轻量级多模态基础模型Phi-4-MultiModal-Instruct！该模型目前具有英文的图像理解能力，同时有超过Whisper V3的视频理解能力！",
+"updated": "2025-12-26",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/phi-4-multimodal-instruct_pytorch.git"
+},
+{
+"id": 1406,
+"name": "phi-4_pytorch",
+"path": "phi-4_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/phi-4_pytorch",
+"desc": "phi-4 是一个 140 亿参数的模型，基于 Transformer 架构，专注于提升推理和 STEM 领域的问答能力。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/phi-4_pytorch.git"
+},
+{
+"id": 524,
+"name": "PhotoMaker_pytorch",
+"path": "photomaker",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/photomaker",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/photomaker.git"
+},
+{
+"id": 168,
+"name": "pix2pixHD_pytorch",
+"path": "pix2pixhd_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/pix2pixhd_pytorch",
+"desc": "Pix2pixHD是一种图像到图像的转换模型，它可以将输入图像转换成一种特定的输出图像。这种模型的应用非常广泛，例如将草图转换成真实的图片、将低分辨率图片转换成高分辨率图片、将黑白图像转换成彩色图像等等。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/pix2pixhd_pytorch.git"
+},
+{
+"id": 604,
+"name": "PixArt-alpha_pytorch",
+"path": "pixart-alpha_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/pixart-alpha_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/pixart-alpha_pytorch.git"
+},
+{
+"id": 1621,
+"name": "PointPillars-pytorch",
+"path": "pointpillars-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/pointpillars-pytorch",
+"desc": "A Simple PointPillars PyTorch Implenmentation for 3D Lidar(KITTI) Detection.",
+"updated": "2025-08-01",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/pointpillars-pytorch.git"
+},
+{
+"id": 1716,
+"name": "PowerFlowNet_pytorch",
+"path": "powerflownet_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/powerflownet_pytorch",
+"desc": "Leveraging Message Passing GNNs for High-Quality Power Flow Approximation.",
+"updated": "2025-09-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/powerflownet_pytorch.git"
+},
+{
+"id": 2473,
+"name": "PP-OCRv5",
+"path": "pp-ocrv5",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/pp-ocrv5",
+"desc": "",
+"updated": "2026-04-30",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/pp-ocrv5.git"
+},
+{
+"id": 1662,
+"name": "ppocrv5_migraphx",
+"path": "ppocrv5_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ppocrv5_migraphx",
+"desc": "",
+"updated": "2025-07-12",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ppocrv5_migraphx.git"
+},
+{
+"id": 132,
+"name": "ProteinMPNN_pytorch",
+"path": "proteinmpnn_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/proteinmpnn_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/proteinmpnn_pytorch.git"
+},
+{
+"id": 1126,
+"name": "Pyramid-Flow_pytorch",
+"path": "pyramid-flow_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/pyramid-flow_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/pyramid-flow_pytorch.git"
+},
+{
+"id": 2104,
+"name": "QED-Nano_vllm",
+"path": "qed-nano_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qed-nano_vllm",
+"desc": "",
+"updated": "2026-02-25",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qed-nano_vllm.git"
+},
+{
+"id": 2195,
+"name": "Qianfan-OCR_vllm",
+"path": "qianfan-ocr_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qianfan-ocr_vllm",
+"desc": "",
+"updated": "2026-03-20",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qianfan-ocr_vllm.git"
+},
+{
+"id": 411,
+"name": "Qwen-7B_fastllm",
+"path": "qwen-7b_fastllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen-7b_fastllm",
+"desc": "通义千问-7B模型推理",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen-7b_fastllm.git"
+},
+{
+"id": 1700,
+"name": "Qwen-Image-Edit_pytorch",
+"path": "qwen-image-edit_hf",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen-image-edit_hf",
+"desc": "Qwen-Image-Edit是 Qwen-Image 的图像编辑版本，将文字渲染能力拓展到了图像编辑任务中，实现了精准的文字编辑。",
+"updated": "2025-08-21",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen-image-edit_hf.git"
+},
+{
+"id": 1696,
+"name": "Qwen-Image_pytorch",
+"path": "qwen-image_hf",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen-image_hf",
+"desc": "Qwen-Image 是阿里巴巴开源的20B参数MMDiT图像生成基础模型",
+"updated": "2025-09-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen-image_hf.git"
+},
+{
+"id": 674,
+"name": "Qwen-VL_pytorch",
+"path": "qwen-vl_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen-vl_pytorch",
+"desc": "Qwen-VL 大规模视觉语言模型",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen-vl_pytorch.git"
+},
+{
+"id": 611,
+"name": "Qwen1.5_pytorch",
+"path": "qwen1.5-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen1.5-pytorch",
+"desc": "Qwen1.5_14B推理及微调",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen1.5-pytorch.git"
+},
+{
+"id": 653,
+"name": "Qwen1.5_vllm",
+"path": "qwen1.5_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen1.5_vllm",
+"desc": "",
+"updated": "2025-10-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen1.5_vllm.git"
+},
+{
+"id": 1228,
+"name": "Qwen2-Audio_pytorch",
+"path": "qwen2-audio_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen2-audio_pytorch",
+"desc": "Qwen2-Audio能够接受各种音频信号输入，并根据语音指令执行音频分析或直接响应文本。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen2-audio_pytorch.git"
+},
+{
+"id": 1199,
+"name": "Qwen2-VL_pytorch",
+"path": "qwen2_vl_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen2_vl_pytorch",
+"desc": "Qwen2-VL是基于Qwen2开发而成,在架构上的一大改进是实现了对原生动态分辨率的全面支持，与上一代模型相比，能够处理任意分辨率的图像输入。",
+"updated": "2025-04-16",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen2_vl_pytorch.git"
+},
+{
+"id": 1666,
+"name": "qwen2.5-coder_pytorch",
+"path": "qwen2.5-coder_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen2.5-coder_pytorch",
+"desc": "",
+"updated": "2025-07-24",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen2.5-coder_pytorch.git"
+},
+{
+"id": 1478,
+"name": "Qwen2.5-Omni_pytorch",
+"path": "Qwen2.5-Omni_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Qwen2.5-Omni_pytorch",
+"desc": "7B参数完成看、听、说、写，端到端多模态大模型支持文本、图像、音频和视频输入。",
+"updated": "2025-05-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Qwen2.5-Omni_pytorch.git"
+},
+{
+"id": 1419,
+"name": "Qwen2.5-VL_pytorch",
+"path": "Qwen2.5-vl_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Qwen2.5-vl_pytorch",
+"desc": "通义千文模型家族的旗舰视觉语言模型",
+"updated": "2026-04-22",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Qwen2.5-vl_pytorch.git"
+},
+{
+"id": 1026,
+"name": "Qwen2.5_pytorch",
+"path": "qwen2.5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen2.5_pytorch",
+"desc": "qwen2.5的vllm推理和lora微调",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen2.5_pytorch.git"
+},
+{
+"id": 1049,
+"name": "Qwen2.5_vllm",
+"path": "qwen2.5-vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen2.5-vllm",
+"desc": "",
+"updated": "2025-10-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen2.5-vllm.git"
+},
+{
+"id": 998,
+"name": "Qwen2_pytorch",
+"path": "qwen2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen2_pytorch",
+"desc": "qwen2推理与lora微调",
+"updated": "2025-07-21",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen2_pytorch.git"
+},
+{
+"id": 1695,
+"name": "Qwen3-30B-A3B_vllm",
+"path": "qwen3-30b-a3b_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-30b-a3b_vllm",
+"desc": "Qwen3-30B-A3B版本",
+"updated": "2025-09-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-30b-a3b_vllm.git"
+},
+{
+"id": 2144,
+"name": "Qwen3-ASR_pytorch",
+"path": "qwen3-asr_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-asr_pytorch",
+"desc": "",
+"updated": "2026-04-30",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-asr_pytorch.git"
+},
+{
+"id": 2078,
+"name": "Qwen3-Coder-Next_vllm",
+"path": "qwen3-coder-next_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-coder-next_vllm",
+"desc": "",
+"updated": "2026-04-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-coder-next_vllm.git"
+},
+{
+"id": 1707,
+"name": "Qwen3-Coder_vllm",
+"path": "qwen3-coder_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-coder_vllm",
+"desc": "通义千问发布最新Qwen3-Coder模型，迄今为止最具代理能力的代码模型。",
+"updated": "2025-09-28",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-coder_vllm.git"
+},
+{
+"id": 1589,
+"name": "Qwen3-Embedding_pytorch",
+"path": "qwen3-embedding_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-embedding_pytorch",
+"desc": "Qwen3嵌入模型系列是Qwen3家族最新的专有模型，专门为文本嵌入和排序任务而设计。",
+"updated": "2025-06-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-embedding_pytorch.git"
+},
+{
+"id": 1852,
+"name": "Qwen3-Guard_vllm",
+"path": "qwen3-guard_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-guard_vllm",
+"desc": "Qwen3Guard是阿里巴巴Qwen团队于2025年9月24日发布的人工智能安全审查模型系列。该模型基于Qwen3模型构建，主要用于提供实时高效的人工智能安全保障。",
+"updated": "2025-12-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-guard_vllm.git"
+},
+{
+"id": 2093,
+"name": "Qwen3-Next-80B-A3B_vllm",
+"path": "qwen3-next-80b-a3b_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-next-80b-a3b_vllm",
+"desc": "",
+"updated": "2026-04-29",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-next-80b-a3b_vllm.git"
+},
+{
+"id": 1736,
+"name": "Qwen3-Next_sglang",
+"path": "qwen3-next_sglang",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-next_sglang",
+"desc": "",
+"updated": "2026-01-19",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-next_sglang.git"
+},
+{
+"id": 2298,
+"name": "Qwen3-Omni_vllm",
+"path": "qwen3-omni_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-omni_vllm",
+"desc": "",
+"updated": "2026-04-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-omni_vllm.git"
+},
+{
+"id": 1590,
+"name": "Qwen3-Reranker",
+"path": "qwen3-reranker",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-reranker",
+"desc": "Qwen3嵌入模型系列是Qwen3家族最新的专有模型，专门为文本嵌入和排序任务而设计。",
+"updated": "2026-05-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-reranker.git"
+},
+{
+"id": 2068,
+"name": "Qwen3-TTS_pytorch",
+"path": "qwen3-tts_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-tts_pytorch",
+"desc": "",
+"updated": "2026-04-23",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-tts_pytorch.git"
+},
+{
+"id": 2091,
+"name": "Qwen3-VL-Embedding_vllm",
+"path": "qwen3-vl-embedding_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-vl-embedding_vllm",
+"desc": "",
+"updated": "2026-04-29",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-vl-embedding_vllm.git"
+},
+{
+"id": 2092,
+"name": "Qwen3-VL-Reranker_vllm",
+"path": "qwen3-vl-reranker_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-vl-reranker_vllm",
+"desc": "",
+"updated": "2026-04-29",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-vl-reranker_vllm.git"
+},
+{
+"id": 1858,
+"name": "Qwen3-VL_pytorch",
+"path": "qwen3-vl_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-vl_pytorch",
+"desc": "Qwen3-VL这一代产品在各方面都进行了全面升级，迄今为止 是Qwen 系列中最强大的视觉语言模型。",
+"updated": "2026-04-25",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3-vl_pytorch.git"
+},
+{
+"id": 2095,
+"name": "Qwen3.5",
+"path": "qwen3.5",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3.5",
+"desc": "Qwen3.5 相对于 Qwen3 系列模型，其 Post-training 性能提升主要来自于对各类 RL 任务和环境的全面扩展，更加强调 RL 环境的难度与可泛化性，而非针对特定指标或狭隘类别的 query 进行优化。",
+"updated": "2026-06-10",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3.5.git"
+},
+{
+"id": 2382,
+"name": "Qwen3.6",
+"path": "qwen3.6",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3.6",
+"desc": "",
+"updated": "2026-06-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3.6.git"
+},
+{
+"id": 1517,
+"name": "Qwen3_pytorch",
+"path": "Qwen3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Qwen3_pytorch",
+"desc": "参数量仅为DeepSeek-R1的1/3，成本大幅下降，性能全面超越R1、OpenAI-o1等全球顶尖模型，将快思考与慢思考集成进同一个模型。",
+"updated": "2025-06-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Qwen3_pytorch.git"
+},
+{
+"id": 1526,
+"name": "Qwen3_vllm",
+"path": "qwen3_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3_vllm",
+"desc": "",
+"updated": "2025-10-30",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3_vllm.git"
+},
+{
+"id": 456,
+"name": "Qwen_lmdeploy",
+"path": "qwen_lmdeploy",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen_lmdeploy",
+"desc": "通义千问模型推理",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen_lmdeploy.git"
+},
+{
+"id": 397,
+"name": "Qwen_pytorch",
+"path": "qwen-torch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwen-torch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen-torch.git"
+},
+{
+"id": 2294,
+"name": "Qwopus3.5_vllm",
+"path": "qwopus3.5_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/qwopus3.5_vllm",
+"desc": "",
+"updated": "2026-04-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/qwopus3.5_vllm.git"
+},
+{
+"id": 1446,
+"name": "QwQ-32B_pytorch",
+"path": "QwQ-32B_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/QwQ-32B_pytorch",
+"desc": "参数精简，性能不减，以1/21小参数媲美DeepSeek R1 6710亿参数的性能，成本仅1/10。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/QwQ-32B_pytorch.git"
+},
+{
+"id": 1914,
+"name": "ReaderLM_vllm",
+"path": "readerlm_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/readerlm_vllm",
+"desc": "",
+"updated": "2026-01-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/readerlm_vllm.git"
+},
+{
+"id": 530,
+"name": "Real-ESRGAN_pytorch",
+"path": "real-esrgan_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/real-esrgan_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/real-esrgan_pytorch.git"
+},
+{
+"id": 697,
+"name": "RepViT-optimize_pytorch",
+"path": "repvit-optimize_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/repvit-optimize_pytorch",
+"desc": "RepViT在iPhone 12上以1ms的延迟实现了超过80%的top-1准确率，本算法基于RepViT进一步优化后准确率超过82%。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/repvit-optimize_pytorch.git"
+},
+{
+"id": 698,
+"name": "RepViT_pytorch",
+"path": "repvit_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/repvit_pytorch",
+"desc": "RepViT在iPhone 12上以1ms的延迟实现了超过80%的top-1准确率，为当前多个SOTA实例分割算法的backbone。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/repvit_pytorch.git"
+},
+{
+"id": 555,
+"name": "resnet50-qat_pytorch",
+"path": "resnet50-qat_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/resnet50-qat_pytorch",
+"desc": "",
+"updated": "2024-03-04",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/resnet50-qat_pytorch.git"
+},
+{
+"id": 86,
+"name": "ResNet50-v2_tvm",
+"path": "tvm_tune_resnet50-v2",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/tvm_tune_resnet50-v2",
+"desc": "ResNet50-v2  tune base on TVM",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/tvm_tune_resnet50-v2.git"
+},
+{
+"id": 241,
+"name": "ResNet50_migraphx",
+"path": "resnet50_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/resnet50_migraphx",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/resnet50_migraphx.git"
+},
+{
+"id": 66,
+"name": "ResNet50_oneflow",
+"path": "resnet50_oneflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/resnet50_oneflow",
+"desc": "Resnet50 based on OneFlow",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/resnet50_oneflow.git"
+},
+{
+"id": 276,
+"name": "ResNet50_onnxruntime",
+"path": "resnet50_onnxruntime",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/resnet50_onnxruntime",
+"desc": "使用ONNXRuntime推理框架对ResNet50模型进行推理。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/resnet50_onnxruntime.git"
+},
+{
+"id": 1221,
+"name": "Resnet50_onnxruntime_migraphx",
+"path": "resnet50_onnxruntime_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/resnet50_onnxruntime_migraphx",
+"desc": "",
+"updated": "2025-01-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/resnet50_onnxruntime_migraphx.git"
+},
+{
+"id": 106,
+"name": "ResNet50_pytorch",
+"path": "resnet50-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/resnet50-pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/resnet50-pytorch.git"
+},
+{
+"id": 71,
+"name": "ResNet50_tensorflow",
+"path": "resnet50_tensorflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/resnet50_tensorflow",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/resnet50_tensorflow.git"
+},
+{
+"id": 418,
+"name": "ResNet50v1.5_pytorch",
+"path": "resnet50v1.5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/resnet50v1.5_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/resnet50v1.5_pytorch.git"
+},
+{
+"id": 221,
+"name": "RetinaFace_migraphx",
+"path": "retinaface_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/retinaface_migraphx",
+"desc": "构建RetinaFace推理示例",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/retinaface_migraphx.git"
+},
+{
+"id": 820,
+"name": "Retrieval-based-Voice-Conversion-WebUI_pytorch",
+"path": "retrieval-based-voice-conversion-webui_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/retrieval-based-voice-conversion-webui_pytorch",
+"desc": "一个基于VITS简单易用的变声框架，使用少量数据进行训练也能得到较好结果，方便直播娱乐。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/retrieval-based-voice-conversion-webui_pytorch.git"
+},
+{
+"id": 203,
+"name": "RFDesign_rosetta",
+"path": "rfdesign_rosetta",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/rfdesign_rosetta",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/rfdesign_rosetta.git"
+},
+{
+"id": 448,
+"name": "RIDCP_pytorch",
+"path": "ridcp_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ridcp_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ridcp_pytorch.git"
+},
+{
+"id": 1628,
+"name": "RoboBrain_pytorch",
+"path": "robobrain_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/robobrain_pytorch",
+"desc": "迄今为止最强大的开源实体化大脑模型。",
+"updated": "2025-06-30",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/robobrain_pytorch.git"
+},
+{
+"id": 1132,
+"name": "RT-DETR_paddle",
+"path": "rt-detr_paddle",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/rt-detr_paddle",
+"desc": "",
+"updated": "2024-12-04",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/rt-detr_paddle.git"
+},
+{
+"id": 1123,
+"name": "RT-DETR_pytorch",
+"path": "rt-detr_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/rt-detr_pytorch",
+"desc": "RT-DETR是百度开发的一种端到端的实时物体检测器，可在保持高精度的同时提供实时性能",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/rt-detr_pytorch.git"
+},
+{
+"id": 310,
+"name": "RTMDet_mmcv",
+"path": "rtmdet_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/rtmdet_mmcv",
+"desc": "An Empirical Study of Designing Real-Time Object Detectors",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/rtmdet_mmcv.git"
+},
+{
+"id": 1882,
+"name": "S3Diff",
+"path": "S3Diff",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/S3Diff",
+"desc": "S3Diff 是一种基于扩散先验的退化引导一步图像超分辨率方法",
+"updated": "2025-12-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/S3Diff.git"
+},
+{
+"id": 1450,
+"name": "Sa2VA_pytorch",
+"path": "sa2va_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sa2va_pytorch",
+"desc": "",
+"updated": "2025-03-28",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sa2va_pytorch.git"
+},
+{
+"id": 1095,
+"name": "SadTalker_pytorch",
+"path": "sadtalker_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sadtalker_pytorch",
+"desc": "SadTalker是学习3D运动系数（头部姿势、表情）的视频生成模型，使用一张图片和一段语音来生成口型和头、面部视频",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sadtalker_pytorch.git"
+},
+{
+"id": 730,
+"name": "Salience-DETR_pytorch",
+"path": "salience_detr_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/salience_detr_pytorch",
+"desc": "Salience-DETR：用层次显著性滤波细化增强检测变换器",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/salience_detr_pytorch.git"
+},
+{
+"id": 1879,
+"name": "sam2_pytorch",
+"path": "sam2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sam2_pytorch",
+"desc": "Segment Anything Model 2 (SAM 2)是一个用于解决图像和视频中可提示视觉分割问题的基础模型。",
+"updated": "2025-12-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sam2_pytorch.git"
+},
+{
+"id": 223,
+"name": "SAM_pytorch",
+"path": "sam_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sam_pytorch",
+"desc": "facebook在23年4月推出的最新的先进图像分割模型，论文地址：https://ai.facebook.com/research/publications/segment-anything/",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sam_pytorch.git"
+},
+{
+"id": 534,
+"name": "sambert-hifigan_pytorch",
+"path": "sambert-hifigan_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sambert-hifigan_pytorch",
+"desc": "Personal TTS，即个性化语音合成，以阿里的KAN-TTS框架实现",
+"updated": "2024-03-02",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sambert-hifigan_pytorch.git"
+},
+{
+"id": 1449,
+"name": "samurai_pytorch",
+"path": "samurai_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/samurai_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/samurai_pytorch.git"
+},
+{
+"id": 2074,
+"name": "Schematron_vllm",
+"path": "schematron_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/schematron_vllm",
+"desc": "",
+"updated": "2026-02-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/schematron_vllm.git"
+},
+{
+"id": 1732,
+"name": "SD2.1-MIGraphX",
+"path": "sd2.1-migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sd2.1-migraphx",
+"desc": "使用 MIGraphX 后端，执行 SD2.1 文生图任务。",
+"updated": "2025-10-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sd2.1-migraphx.git"
+},
+{
+"id": 1056,
+"name": "sd3.5_pytorch",
+"path": "sd3.5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sd3.5_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sd3.5_pytorch.git"
+},
+{
+"id": 1731,
+"name": "SDXL-MIGraphX",
+"path": "sdxl-migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sdxl-migraphx",
+"desc": "使用 MIGraphX 后端，执行 SDXL 文生图任务。",
+"updated": "2025-10-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sdxl-migraphx.git"
+},
+{
+"id": 1233,
+"name": "Search-o1_pytorch",
+"path": "search-o1_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/search-o1_pytorch",
+"desc": "动态获取和整合外部知识，无需训练即可赋予开源模型CoT“慢思考”能力，属于推理版o1。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/search-o1_pytorch.git"
+},
+{
+"id": 683,
+"name": "SED_pytorch",
+"path": "sed_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sed_pytorch",
+"desc": "用于开放词汇语义分割的简单编码器-解码器-SED模型的推理和训练",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sed_pytorch.git"
+},
+{
+"id": 1851,
+"name": "Seed-OSS_vllm",
+"path": "seed-oss_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/seed-oss_vllm",
+"desc": "Seed-OSS是字节跳动Seed团队于2025年8月开源的大型语言模型系列，包含三个版本（Seed-OSS-36B-Base、Seed-OSS-36B-Base-woSyn、Seed-OSS-36B-Instruct），基于Apache 2.0协议，支持长上下文处理、推理预算控制等特性。",
+"updated": "2025-12-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/seed-oss_vllm.git"
+},
+{
+"id": 1846,
+"name": "SeedCoder_vllm",
+"path": "seedcoder_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/seedcoder_vllm",
+"desc": "",
+"updated": "2025-12-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/seedcoder_vllm.git"
+},
+{
+"id": 15311,
+"name": "SenseNova-SI",
+"path": "sensenova-si",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sensenova-si",
+"desc": "",
+"updated": "2026-06-01",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sensenova-si.git"
+},
+{
+"id": 15110,
+"name": "SenseNova-U1",
+"path": "sensenova-u1",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sensenova-u1",
+"desc": "",
+"updated": "2026-06-01",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sensenova-u1.git"
+},
+{
+"id": 656,
+"name": "sentence-BERT_pytorch",
+"path": "sentence-bert_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/sentence-bert_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/sentence-bert_pytorch.git"
+},
+{
+"id": 129,
+"name": "seresnet50_mmcv",
+"path": "seresnet50_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/seresnet50_mmcv",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/seresnet50_mmcv.git"
+},
+{
+"id": 130,
+"name": "ShuffleNetV2_mmcv",
+"path": "shufflenet_v2_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/shufflenet_v2_mmcv",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/shufflenet_v2_mmcv.git"
+},
+{
+"id": 1147,
+"name": "ShuffleNetV2_pytorch",
+"path": "shufflenet_v2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/shufflenet_v2_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/shufflenet_v2_pytorch.git"
+},
+{
+"id": 1889,
+"name": "SmallThinker_vllm",
+"path": "smallthinker_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/smallthinker_vllm",
+"desc": "",
+"updated": "2025-12-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/smallthinker_vllm.git"
+},
+{
+"id": 1874,
+"name": "SmolLM3_vllm",
+"path": "smollm3_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/smollm3_vllm",
+"desc": "",
+"updated": "2025-12-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/smollm3_vllm.git"
+},
+{
+"id": 1120,
+"name": "smollm_pytorch",
+"path": "smollm_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/smollm_pytorch",
+"desc": "端侧小模型新星molLM2 1.7B击败Qwen 2.5 1.5B和Llama 3.2 1B，可以在不到2GB的VRAM上运行。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/smollm_pytorch.git"
+},
+{
+"id": 1826,
+"name": "SOLOv2-pytorch",
+"path": "solov2-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/solov2-pytorch",
+"desc": "一种简单、直接、快速且性能强大的实例分割算法",
+"updated": "2025-11-20",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/solov2-pytorch.git"
+},
+{
+"id": 15310,
+"name": "Spark-X1",
+"path": "spark-x1",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/spark-x1",
+"desc": "Spark-X1 系列模型适配仓库，包括Spark-Chemistry-X1-13B，Spark-Scilit-X1-13B，Spark-Formalizer-X1-7B模型",
+"updated": "2026-06-04",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/spark-x1.git"
+},
+{
+"id": 870,
+"name": "SpeechT5_pytorch",
+"path": "speecht5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/speecht5_pytorch",
+"desc": "speecht5是微软推出的语音模型，支持文本到语音，语音到语音，语音到文本的多个模态的推理",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/speecht5_pytorch.git"
+},
+{
+"id": 1022,
+"name": "Squeezeformer_tensorflow",
+"path": "squeezeformer_tensorflow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/squeezeformer_tensorflow",
+"desc": "",
+"updated": "2024-11-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/squeezeformer_tensorflow.git"
+},
+{
+"id": 938,
+"name": "SSD_pytorch",
+"path": "ssd_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ssd_pytorch",
+"desc": "",
+"updated": "2025-06-04",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ssd_pytorch.git"
+},
+{
+"id": 946,
+"name": "stable-diffusion-3-medium-diffusers",
+"path": "stable-diffusion-3-medium-diffusers",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stable-diffusion-3-medium-diffusers",
+"desc": "",
+"updated": "2024-08-28",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stable-diffusion-3-medium-diffusers.git"
+},
+{
+"id": 724,
+"name": "stable-diffusion-3-medium_diffusers",
+"path": "stable-diffusion-3-medium_diffusers",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stable-diffusion-3-medium_diffusers",
+"desc": "Stable Diffusion 3 Medium is a Multimodal Diffusion Transformer (MMDiT) text-to-image model.",
+"updated": "2025-12-22",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stable-diffusion-3-medium_diffusers.git"
+},
+{
+"id": 794,
+"name": "stable-diffusion-xl_pytorch",
+"path": "stable-diffusion-xl_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stable-diffusion-xl_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stable-diffusion-xl_pytorch.git"
+},
+{
+"id": 377,
+"name": "stable-diffusion_pytorch",
+"path": "stablediffussion",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stablediffussion",
+"desc": "stable-diffussion推理范例",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stablediffussion.git"
+},
+{
+"id": 680,
+"name": "stable_diffusion_ait",
+"path": "stable_diffusion_ait",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stable_diffusion_ait",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stable_diffusion_ait.git"
+},
+{
+"id": 1484,
+"name": "stable_diffusion_diffusers",
+"path": "stable_diffusion_diffusers",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stable_diffusion_diffusers",
+"desc": "基于diffusers对stable diffusion模型进行训练",
+"updated": "2025-04-22",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stable_diffusion_diffusers.git"
+},
+{
+"id": 707,
+"name": "stablediffusion_migraphx",
+"path": "stablediffusion_v2.1_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stablediffusion_v2.1_migraphx",
+"desc": "migraphx inference demo of stablediffusion v2.1",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stablediffusion_v2.1_migraphx.git"
+},
+{
+"id": 630,
+"name": "stablediffusion_v2.1_pytorch",
+"path": "stablediffusion_v2.1_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stablediffusion_v2.1_pytorch",
+"desc": "Stable Diffusion Version 2",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stablediffusion_v2.1_pytorch.git"
+},
+{
+"id": 615,
+"name": "StableTTS_pytorch",
+"path": "stabletts_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stabletts_pytorch",
+"desc": "StableTTS是一款用于中英文语音生成的快速轻量级TTS模型，只有10M参数。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stabletts_pytorch.git"
+},
+{
+"id": 1881,
+"name": "STAR",
+"path": "star",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/star",
+"desc": "[ICCV 2025] STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution",
+"updated": "2025-12-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/star.git"
+},
+{
+"id": 649,
+"name": "starcoder2_pytorch",
+"path": "starcoder2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/starcoder2_pytorch",
+"desc": "StarCoder2 is a family of code generation models",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/starcoder2_pytorch.git"
+},
+{
+"id": 2137,
+"name": "Step-3.5-Flash_vllm",
+"path": "step-3.5-flash_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/step-3.5-flash_vllm",
+"desc": "Step 3.5 Flash专为极致效率而生，具备前沿的推理能力和卓越的智能体（Agent）性能。",
+"updated": "2026-03-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/step-3.5-flash_vllm.git"
+},
+{
+"id": 15327,
+"name": "Step-3.7-Flash",
+"path": "step-3.7-flash",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/step-3.7-flash",
+"desc": "Step 3.7 Flash 是一个拥有 1980 亿参数的稀疏混合专家（MoE）视觉语言模型，它将一个 1960 亿参数的语言主干网络与一个 18 亿参数的视觉编码器相结合，以实现原生图像理解。",
+"updated": "2026-06-01",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/step-3.7-flash.git"
+},
+{
+"id": 1535,
+"name": "Step-Video-T2V_pytorch",
+"path": "step-video-t2v_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/step-video-t2v_pytorch",
+"desc": "Step-Video-T2V是一个目前最先进的文本到视频预训练模型，拥有300亿个参数，能够生成最长204帧的视频。",
+"updated": "2025-07-28",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/step-video-t2v_pytorch.git"
+},
+{
+"id": 1547,
+"name": "Step-Video-TI2V_pytorch",
+"path": "step-video-ti2v_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/step-video-ti2v_pytorch",
+"desc": "Step-Video-TI2V 是一款基于文本驱动的图像到视频生成模型，拥有30B参数，能够根据文本和图像输入生成最长102帧的视频。",
+"updated": "2025-06-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/step-video-ti2v_pytorch.git"
+},
+{
+"id": 1532,
+"name": "Step1X-Edit_pytorch",
+"path": "step1x-edit_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/step1x-edit_pytorch",
+"desc": "Step1X-Edit作为一种新的通用图像编辑算法，通过结合强大的多模态大语言模型和基于扩散的图像解码器，显著提高了图像编辑的性能。",
+"updated": "2025-06-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/step1x-edit_pytorch.git"
+},
+{
+"id": 1685,
+"name": "Step3_pytorch",
+"path": "step3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/step3_pytorch",
+"desc": "Step3 是一个先进的多模态推理模型，基于混合专家架构构建，拥有 321B 总参数，单token激活38B参数。",
+"updated": "2025-08-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/step3_pytorch.git"
+},
+{
+"id": 53,
+"name": "STGCN-PyTorch",
+"path": "stgcn",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stgcn",
+"desc": "",
+"updated": "2024-09-02",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stgcn.git"
+},
+{
+"id": 1047,
+"name": "stylegan2-pytorch",
+"path": "stylegan2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stylegan2_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stylegan2_pytorch.git"
+},
+{
+"id": 733,
+"name": "stylegan2_mmcv",
+"path": "stylegan2_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stylegan2_mmcv",
+"desc": "",
+"updated": "2024-07-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stylegan2_mmcv.git"
+},
+{
+"id": 511,
+"name": "stylegan3_pytorch",
+"path": "stylegan3_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/stylegan3_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/stylegan3_pytorch.git"
+},
+{
+"id": 104,
+"name": "Swin-Transformer_pytorch",
+"path": "swin-transformer-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/swin-transformer-pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/swin-transformer-pytorch.git"
+},
+{
+"id": 1922,
+"name": "T-lite-it_vllm",
+"path": "t-lite-it_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/t-lite-it_vllm",
+"desc": "",
+"updated": "2026-01-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/t-lite-it_vllm.git"
+},
+{
+"id": 917,
+"name": "Tacotron2_pytorch",
+"path": "Tacotron2",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Tacotron2",
+"desc": "",
+"updated": "2024-08-27",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Tacotron2.git"
+},
+{
+"id": 941,
+"name": "tacotron2_pytorch",
+"path": "tacotron2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/tacotron2_pytorch",
+"desc": "",
+"updated": "2025-04-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/tacotron2_pytorch.git"
+},
+{
+"id": 544,
+"name": "taming-transformers_pytorch",
+"path": "taming-transformers_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/taming-transformers_pytorch",
+"desc": "",
+"updated": "2024-03-04",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/taming-transformers_pytorch.git"
+},
+{
+"id": 1853,
+"name": "TeleAI_T1_vllm",
+"path": "teleai_t1_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/teleai_t1_vllm",
+"desc": "T1 模型是 TeleChat 系列专注于复杂推理的模型，由中国电信人工智能研究院基于国产算力研发训练。",
+"updated": "2025-12-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/teleai_t1_vllm.git"
+},
+{
+"id": 902,
+"name": "Telechat_pytorch",
+"path": "Telechat_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/Telechat_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/Telechat_pytorch.git"
+},
+{
+"id": 365,
+"name": "template",
+"path": "template",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/template",
+"desc": "此项目为ModelZoo标准模版与上传规则，template为源github项目名。",
+"updated": "2026-05-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/template.git"
+},
+{
+"id": 741,
+"name": "textmonkey_pytorch",
+"path": "textmonkey_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/textmonkey_pytorch",
+"desc": "多模态OCR对话大模型",
+"updated": "2024-07-12",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/textmonkey_pytorch.git"
+},
+{
+"id": 1828,
+"name": "TimeGPT-pytorch",
+"path": "timegpt-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/timegpt-pytorch",
+"desc": "第一个时间序列大模型",
+"updated": "2025-11-20",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/timegpt-pytorch.git"
+},
+{
+"id": 850,
+"name": "timesfm_jax",
+"path": "timesfm_jax",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/timesfm_jax",
+"desc": "google开发的一种预训练的时间序列基础模型",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/timesfm_jax.git"
+},
+{
+"id": 547,
+"name": "TinyLlama_pytorch",
+"path": "tinyllama_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/tinyllama_pytorch",
+"desc": "只有1.1B参数，减小了llama2模型规模和训练数据量，可以在许多基于Llama的开源项目中即插即用。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/tinyllama_pytorch.git"
+},
+{
+"id": 1558,
+"name": "ToolACE_pytorch",
+"path": "toolace_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/toolace_pytorch",
+"desc": "",
+"updated": "2025-06-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/toolace_pytorch.git"
+},
+{
+"id": 421,
+"name": "transformer-xl_pytorch",
+"path": "transformer-XL-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/transformer-XL-pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/transformer-XL-pytorch.git"
+},
+{
+"id": 15305,
+"name": "TRELLIS.2",
+"path": "trellis.2",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/trellis.2",
+"desc": "",
+"updated": "2026-05-29",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/trellis.2.git"
+},
+{
+"id": 177,
+"name": "TSM_pytorch",
+"path": "tsm_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/tsm_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/tsm_pytorch.git"
+},
+{
+"id": 747,
+"name": "U-KAN-optimize_pytorch",
+"path": "u-kan-optimize_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/u-kan-optimize_pytorch",
+"desc": "U-KAN精度高于Mamba、Transformer构建的Unet模型，本算法基于U-KAN进一步优化精度。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/u-kan-optimize_pytorch.git"
+},
+{
+"id": 760,
+"name": "U-KAN_pytorch",
+"path": "u-kan_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/u-kan_pytorch",
+"desc": "U-KAN基于KAN设计，精度高于Mamba、Transformer构建的Unet模型。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/u-kan_pytorch.git"
+},
+{
+"id": 1520,
+"name": "UI-TARS_pytorch",
+"path": "ui-tars_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/ui-tars_pytorch",
+"desc": "",
+"updated": "2025-05-10",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/ui-tars_pytorch.git"
+},
+{
+"id": 665,
+"name": "ultralytics-YOLOv8_pytorch",
+"path": "yolov8_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov8_pytorch",
+"desc": "YOLOv8 is the latest version of YOLO by Ultralytics",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov8_pytorch.git"
+},
+{
+"id": 626,
+"name": "UMT5_pytorch",
+"path": "umt5",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/umt5",
+"desc": "开源免费可商用的预训练多任务语言模型可用于关键词提取, 翻译,摘要等。",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/umt5.git"
+},
+{
+"id": 215,
+"name": "UNet_migraphx",
+"path": "unet_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/unet_migraphx",
+"desc": "使用MIGraphX对Unet模型进行推理",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/unet_migraphx.git"
+},
+{
+"id": 181,
+"name": "UNet_paddle",
+"path": "unet_paddle",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/unet_paddle",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/unet_paddle.git"
+},
+{
+"id": 420,
+"name": "UNet_pytorch",
+"path": "unet-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/unet-pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/unet-pytorch.git"
+},
+{
+"id": 137,
+"name": "Uni-Fold_pytorch",
+"path": "uni-fold",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/uni-fold",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/uni-fold.git"
+},
+{
+"id": 810,
+"name": "Unicorn_pytorch",
+"path": "unicorn_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/unicorn_pytorch",
+"desc": "实现目标跟踪的大统一",
+"updated": "2024-11-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/unicorn_pytorch.git"
+},
+{
+"id": 1820,
+"name": "Unimernet_transformers",
+"path": "unimernet_transformers",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/unimernet_transformers",
+"desc": "UniMERNet是一款专为数学公式识别设计的深度学习模型，支持将手写或打印的数学公式图像转换为LaTeX代码，适用于多种应用场景。",
+"updated": "2025-11-19",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/unimernet_transformers.git"
+},
+{
+"id": 1091,
+"name": "VAR_pytorch",
+"path": "var_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/var_pytorch",
+"desc": "类GPT风格的以文生图模型",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/var_pytorch.git"
+},
+{
+"id": 645,
+"name": "Vary-toy_pytorch",
+"path": "vary-toy_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vary-toy_pytorch",
+"desc": "多模态OCR模型",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vary-toy_pytorch.git"
+},
+{
+"id": 646,
+"name": "Vary_pytorch",
+"path": "vary_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vary_pytorch",
+"desc": "多模态OC大模型",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vary_pytorch.git"
+},
+{
+"id": 740,
+"name": "veros_jax",
+"path": "veros_jax",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/veros_jax",
+"desc": "",
+"updated": "2024-11-13",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/veros_jax.git"
+},
+{
+"id": 552,
+"name": "vgg16-qat_pytorch",
+"path": "vgg16-qat_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vgg16-qat_pytorch",
+"desc": "",
+"updated": "2024-03-02",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vgg16-qat_pytorch.git"
+},
+{
+"id": 131,
+"name": "VGG16_mmcv",
+"path": "vgg16_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vgg16_mmcv",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vgg16_mmcv.git"
+},
+{
+"id": 1843,
+"name": "VibeThinker-pytorch",
+"path": "vibethinker-pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vibethinker-pytorch",
+"desc": "",
+"updated": "2025-11-28",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vibethinker-pytorch.git"
+},
+{
+"id": 1711,
+"name": "VibeVoice_pytorch",
+"path": "vibevoice_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vibevoice_pytorch",
+"desc": "VibeVoice 是一个新颖的框架，旨在从文本生成富有表现力的长篇多说话人对话音频，例如播客。",
+"updated": "2025-12-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vibevoice_pytorch.git"
+},
+{
+"id": 225,
+"name": "video_migraphx",
+"path": "video_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/video_migraphx",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/video_migraphx.git"
+},
+{
+"id": 240,
+"name": "Video_onnxruntime",
+"path": "video_ort",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/video_ort",
+"desc": "基于onnxruntime框架的视频类推理示例",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/video_ort.git"
+},
+{
+"id": 279,
+"name": "Video_tvm",
+"path": "video_tvm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/video_tvm",
+"desc": "基于TVM框架的视频类推理示例",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/video_tvm.git"
+},
+{
+"id": 192,
+"name": "vision-transformers-cifar10_pytorch",
+"path": "vision-transformers-cifar10_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vision-transformers-cifar10_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vision-transformers-cifar10_pytorch.git"
+},
+{
+"id": 916,
+"name": "vision_transformer_jax",
+"path": "vision_transformer_jax",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vision_transformer_jax",
+"desc": "基于Transformer架构直接处理完成图像识别任务",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vision_transformer_jax.git"
+},
+{
+"id": 525,
+"name": "VisualGLM-6B_pytorch",
+"path": "visualglm6b_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/visualglm6b_pytorch",
+"desc": "",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/visualglm6b_pytorch.git"
+},
+{
+"id": 230,
+"name": "ViT_migraphx",
+"path": "vit_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vit_migraphx",
+"desc": "基于MIGraphX框架的Vision Transformer推理示例",
+"updated": "2025-05-08",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vit_migraphx.git"
+},
+{
+"id": 105,
+"name": "ViT_pytorch",
+"path": "vit_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vit_pytorch",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vit_pytorch.git"
+},
+{
+"id": 1582,
+"name": "VITA-Audio_pytorch",
+"path": "VITA-Audio_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/VITA-Audio_pytorch",
+"desc": "在生成首个音频片段时大幅提升响应速度，解决实时语音关键瓶颈，整体推理速度相比同规模模型提升3–5倍。",
+"updated": "2025-06-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/VITA-Audio_pytorch.git"
+},
+{
+"id": 1068,
+"name": "VITA_pytorch",
+"path": "vita_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vita_pytorch",
+"desc": "VITA能够处理视频、图像、文本和音频，具备先进的多模态交互体验，无需使用唤醒词或按钮即可被激活。",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vita_pytorch.git"
+},
+{
+"id": 948,
+"name": "VITS_pytorch",
+"path": "vits_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vits_pytorch",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vits_pytorch.git"
+},
+{
+"id": 1122,
+"name": "VTimeLLM_pytorch",
+"path": "vtimellm_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/vtimellm_pytorch",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/vtimellm_pytorch.git"
+},
+{
+"id": 1437,
+"name": "Wan2.1_pytorch",
+"path": "wan2.1_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/wan2.1_pytorch",
+"desc": "",
+"updated": "2025-07-30",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/wan2.1_pytorch.git"
+},
+{
+"id": 1810,
+"name": "Wan2.2_pytorch",
+"path": "wan2.2_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/wan2.2_pytorch",
+"desc": "",
+"updated": "2025-11-15",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/wan2.2_pytorch.git"
+},
+{
+"id": 1663,
+"name": "wav2vec2-large-xlsr-53_pytorch",
+"path": "wav2vec2-large-xlsr-53_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/wav2vec2-large-xlsr-53_pytorch",
+"desc": "Wav2vec2-large-xlsr-53 是一款用于自动语音识别（ASR）的模型，该模型在53种语言上进行预训练，可适用于低资源语音理解场景",
+"updated": "2025-07-07",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/wav2vec2-large-xlsr-53_pytorch.git"
+},
+{
+"id": 939,
+"name": "WaveGlow",
+"path": "waveglow",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/waveglow",
+"desc": "",
+"updated": "2024-08-28",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/waveglow.git"
+},
+{
+"id": 385,
+"name": "wenet_onnxruntime",
+"path": "wenet_onnxruntime",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/wenet_onnxruntime",
+"desc": "使用ONNXRuntime推理框架对语音识别模型WeNet进行推理。",
+"updated": "2025-06-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/wenet_onnxruntime.git"
+},
+{
+"id": 586,
+"name": "Whisper-Finetune_pytorch",
+"path": "whisper-finetune_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/whisper-finetune_pytorch",
+"desc": "",
+"updated": "2024-08-30",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/whisper-finetune_pytorch.git"
+},
+{
+"id": 960,
+"name": "WhisperX_pytorch",
+"path": "whisperx_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/whisperx_pytorch",
+"desc": "",
+"updated": "2024-08-30",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/whisperx_pytorch.git"
+},
+{
+"id": 891,
+"name": "xdecoder_mmcv",
+"path": "xdecoder_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/xdecoder_mmcv",
+"desc": "X-Decoder: Generalized Decoding for Pixel, Image, and Language",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/xdecoder_mmcv.git"
+},
+{
+"id": 1542,
+"name": "xLAM_pytorch",
+"path": "xlam_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/xlam_pytorch",
+"desc": "",
+"updated": "2025-05-19",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/xlam_pytorch.git"
+},
+{
+"id": 1043,
+"name": "XrayGLM_pytorch",
+"path": "xrayglm_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/xrayglm_pytorch",
+"desc": "",
+"updated": "2025-04-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/xrayglm_pytorch.git"
+},
+{
+"id": 742,
+"name": "XuanYuan_pytorch",
+"path": "xuanyuan_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/xuanyuan_pytorch",
+"desc": "金融对话大模型",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/xuanyuan_pytorch.git"
+},
+{
+"id": 2076,
+"name": "X‑Reasoner_vllm",
+"path": "x-reasoner_vllm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/x-reasoner_vllm",
+"desc": "",
+"updated": "2026-02-11",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/x-reasoner_vllm.git"
+},
+{
+"id": 738,
+"name": "Yi-1.5-6B-chat_pytorch",
+"path": "yi_1.5_6b_chat_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yi_1.5_6b_chat_pytorch",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yi_1.5_6b_chat_pytorch.git"
+},
+{
+"id": 516,
+"name": "Yi_lmdeploy",
+"path": "yi_lmdeploy",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yi_lmdeploy",
+"desc": "yi-6b和yi-34b推理",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yi_lmdeploy.git"
+},
+{
+"id": 673,
+"name": "YOLO-World_pytorch",
+"path": "yolo_world_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolo_world_pytorch",
+"desc": "实时开放词汇目标检测模型YOLO-World的训练、推理",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolo_world_pytorch.git"
+},
+{
+"id": 1072,
+"name": "YOLO11_pytorch",
+"path": "yolo11_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolo11_pytorch",
+"desc": "YOLO11在CPU上提速明显，支持目标检测、实例分割、图像分类、姿态估计。",
+"updated": "2025-12-27",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolo11_pytorch.git"
+},
+{
+"id": 1566,
+"name": "yoloe_pytorch",
+"path": "yoloe_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yoloe_pytorch",
+"desc": "YOLOE跨越多种开放Prompt机制实现了实时感知任何事物，不受限于预定义类别。",
+"updated": "2025-06-06",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yoloe_pytorch.git"
+},
+{
+"id": 690,
+"name": "yolov10_pytorch",
+"path": "yolov10_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov10_pytorch",
+"desc": "提出了无NMS训练的一致双重分配，与YOLOv9-C相比，YOLOv10-B在相同性能下的延迟减少了46%，参数减少了25%。",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov10_pytorch.git"
+},
+{
+"id": 1667,
+"name": "yolov13_pytorch",
+"path": "yolov13_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov13_pytorch",
+"desc": "YOLOv13引入超图理论，其中YOLOv13-N相比YOLO11-N提升了3.0%的mAP，相比YOLOv12-N提升了1.5%的mAP。",
+"updated": "2025-07-14",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov13_pytorch.git"
+},
+{
+"id": 211,
+"name": "yolov3_migraphx",
+"path": "yolov3_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov3_migraphx",
+"desc": "This project builds yolov3 inference example based on migraphx",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov3_migraphx.git"
+},
+{
+"id": 576,
+"name": "yolov5-qat_pytorch",
+"path": "yolov5-qat_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov5-qat_pytorch",
+"desc": "",
+"updated": "2024-03-21",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov5-qat_pytorch.git"
+},
+{
+"id": 213,
+"name": "yolov5_migraphx",
+"path": "yolov5_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov5_migraphx",
+"desc": "基于MIGraphX框架构建YoloV5推理示例",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov5_migraphx.git"
+},
+{
+"id": 469,
+"name": "yolov5_paddle",
+"path": "yolov5_paddle",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov5_paddle",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov5_paddle.git"
+},
+{
+"id": 172,
+"name": "yolov5_pytorch",
+"path": "yolov5_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov5_pytorch",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov5_pytorch.git"
+},
+{
+"id": 251,
+"name": "yolov5_tvm",
+"path": "yolov5s_tvm",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov5s_tvm",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov5s_tvm.git"
+},
+{
+"id": 505,
+"name": "yolov5s_onnxruntime",
+"path": "yolov5s_onnxruntime",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov5s_onnxruntime",
+"desc": "",
+"updated": "2025-03-20",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov5s_onnxruntime.git"
+},
+{
+"id": 414,
+"name": "YOLOv7-tiny_triton",
+"path": "yolov7-tiny_triton",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov7-tiny_triton",
+"desc": "",
+"updated": "2026-01-22",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov7-tiny_triton.git"
+},
+{
+"id": 217,
+"name": "yolov7_migraphx",
+"path": "yolov7_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov7_migraphx",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov7_migraphx.git"
+},
+{
+"id": 484,
+"name": "YOLOv8_migraphx",
+"path": "yolov8_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov8_migraphx",
+"desc": "",
+"updated": "2026-01-14",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov8_migraphx.git"
+},
+{
+"id": 1207,
+"name": "yolov8_onnxruntime",
+"path": "yolov8_onnxruntime",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov8_onnxruntime",
+"desc": "",
+"updated": "2025-02-27",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov8_onnxruntime.git"
+},
+{
+"id": 1208,
+"name": "YOLOv8_paddle",
+"path": "yolov8_paddle",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov8_paddle",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov8_paddle.git"
+},
+{
+"id": 629,
+"name": "yolov9_migraphx",
+"path": "yolov9_migraphx",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov9_migraphx",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov9_migraphx.git"
+},
+{
+"id": 637,
+"name": "yolov9_pytorch",
+"path": "yolov9_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolov9_pytorch",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolov9_pytorch.git"
+},
+{
+"id": 470,
+"name": "YOLOX_mmcv",
+"path": "yolox_mmcv",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yolox_mmcv",
+"desc": "",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yolox_mmcv.git"
+},
+{
+"id": 710,
+"name": "Yuan2.0-M32_pytorch",
+"path": "yuan2.0-m32_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/yuan2.0-m32_pytorch",
+"desc": "浪潮信息发布“源2.0-M32”开源大模型",
+"updated": "2025-05-09",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/yuan2.0-m32_pytorch.git"
+},
+{
+"id": 1857,
+"name": "Z-Image_pytorch",
+"path": "z-image_pytorch",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/z-image_pytorch",
+"desc": "Z-Image 是一个强大的、高效的图像生成模型。",
+"updated": "2025-12-05",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/z-image_pytorch.git"
+}
+]

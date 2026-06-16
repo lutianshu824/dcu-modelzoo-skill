@@ -1,0 +1,7 @@
+config.env
+output/
+reports/
+*.log
+run.log
+launchd.*.log
+data/*.bak
