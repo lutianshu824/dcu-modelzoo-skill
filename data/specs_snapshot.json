@@ -1,0 +1,7317 @@
+{
+"fetched": "2026-06-22",
+"count": 591,
+"repos": {
+"arabic-menu-ocr-v2_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100"
+],
+"table": [
+{
+"variant": "arabic-menu-ocr-v2",
+"size": "4B",
+"precision": "",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "1"
+}
+],
+"name": "arabic-menu-ocr-v2_vllm",
+"updated": "2026-04-16"
+},
+"apriel_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "Apriel-1.6-15b-Thinker",
+"size": "15B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Apriel_vllm",
+"updated": "2025-12-11"
+},
+"alphafold2_jax": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "alphafold2_jax",
+"updated": "2025-05-06"
+},
+"aprielguard_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "AprielGuard",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "AprielGuard_vllm",
+"updated": "2026-01-06"
+},
+"bagel_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Bagel_pytorch",
+"updated": "2025-06-06"
+},
+"alignedreid_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "ResNet50",
+"size": "96.8MB",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "AlignedReID_pytorch",
+"updated": "2025-11-19"
+},
+"animatediff_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "AnimateDiff_pytorch",
+"updated": "2025-05-06"
+},
+"aasist_bladedisc": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "aasist_bladedisc",
+"updated": "2025-05-06"
+},
+"animatediff-lightning_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "AnimateDiff-Lightning_pytorch",
+"updated": "2025-05-06"
+},
+"baichuan-13b_fastllm": {
+"images": [],
+"dtk": "23.10.1",
+"cards": [],
+"table": [],
+"name": "Baichuan-13B_fastllm",
+"updated": "2025-05-06"
+},
+"baichuan-m2_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Baichuan-M2-32B",
+"size": "32B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+}
+],
+"name": "Baichuan-M2_vllm",
+"updated": "2026-03-19"
+},
+"baichuan2_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Baichuan2_pytorch",
+"updated": "2025-05-06"
+},
+"baichuan_lmdeploy": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Baichuan_lmdeploy",
+"updated": "2025-05-06"
+},
+"baichuanmed-ocr_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "BaichuanMed-OCR-72B",
+"size": "72B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "4"
+},
+{
+"variant": "BaichuanMed-OCR-7B",
+"size": "7B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "BaichuanMed-OCR_vllm",
+"updated": "2026-03-20"
+},
+"bert4torch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "bert4torch_pytorch",
+"updated": "2025-05-06"
+},
+"bert_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "BERT_migraphx",
+"updated": "2025-05-06"
+},
+"asr_onnx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ASR_onnxruntime",
+"updated": "2025-05-06"
+},
+"bert_onnxruntime": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "BERT_onnxruntime",
+"updated": "2025-05-06"
+},
+"aixcoder-7b": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "aiXcoder-7B",
+"updated": "2025-07-24"
+},
+"anytext_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "AnyText_pytorch",
+"updated": "2025-05-06"
+},
+"arcface_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "arcface_pytorch",
+"updated": "2025-05-06"
+},
+"audiofly": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.18.1-ubuntu22.04-dtk26.04-py3.10-20260528-iflytek"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "AudioFly",
+"size": "1B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "AudioFly",
+"updated": "2026-06-03"
+},
+"bert-tf2": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "BERT_tensorflow",
+"updated": "2025-05-06"
+},
+"bge-reranker_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [
+"BW1000"
+],
+"table": [],
+"name": "BGE-Reranker_pytorch",
+"updated": "2025-07-06"
+},
+"bert-pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "BERT_pytorch",
+"updated": "2025-05-06"
+},
+"axolotl-Qwen3-4B_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "axolotl-Qwen3-4B_pytorch",
+"updated": "2025-06-17"
+},
+"blip-3_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "BLIP-3_pytorch",
+"updated": "2025-09-23"
+},
+"allamo_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "allamo_pytorch",
+"updated": "2025-04-11"
+},
+"baichuan-m3_pytorch": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-0130-py3.10-20260204"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Baichuan-M3-235B",
+"size": "235B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "8"
+},
+{
+"variant": "Baichuan-M3-235B-GPTQ-INT4",
+"size": "235B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "4"
+}
+],
+"name": "Baichuan-M3_pytorch",
+"updated": "2026-03-27"
+},
+"baichuan-pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Baichuan_pytorch",
+"updated": "2025-05-06"
+},
+"bloom_fastertransformer": {
+"images": [],
+"dtk": "23.10",
+"cards": [],
+"table": [],
+"name": "BLOOM_fastertransformer",
+"updated": "2025-05-06"
+},
+"bggpt-gemma-3_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "BgGPT-Gemma-3-27B-IT",
+"size": "27B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+}
+],
+"name": "BgGPT-Gemma-3_vllm",
+"updated": "2026-03-28"
+},
+"bielik-11b-v3.0-instruct_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "Bielik-11B-v3.0-Instruct",
+"size": "11B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Bielik-11B-v3.0-Instruct_vllm",
+"updated": "2026-01-23"
+},
+"baichuan2_tgi": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "Baichuan2_tgi",
+"updated": "2025-05-06"
+},
+"catvton_openpose_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "catvton_openpose_pytorch",
+"updated": "2025-05-06"
+},
+"catvton_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "CatVTON_pytorch",
+"updated": "2025-04-11"
+},
+"centerface_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "CenterFace_pytorch",
+"updated": "2025-05-06"
+},
+"cfd_jax": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "cfd_jax",
+"updated": "2025-05-06"
+},
+"chatglm2-6b_fastllm": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "ChatGLM2-6B_fastllm",
+"updated": "2025-05-06"
+},
+"chatglm3-6b_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ChatGLM3-6B_pytorch",
+"updated": "2025-06-17"
+},
+"bert_large_squad_onnxruntime": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "BERT-Large-squad_onnxruntime",
+"updated": "2025-05-06"
+},
+"chatglm6b_fastllm": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "ChatGLM-6B_fastllm",
+"updated": "2025-05-06"
+},
+"bert-large_oneflow": {
+"images": [],
+"dtk": "22.10.1",
+"cards": [],
+"table": [],
+"name": "bert-large_oneflow",
+"updated": "2025-05-06"
+},
+"chatglm3_fastllm": {
+"images": [],
+"dtk": "23.10.1",
+"cards": [],
+"table": [],
+"name": "ChatGLM3_fastllm",
+"updated": "2025-05-06"
+},
+"chatglm_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "ChatGLM_vllm",
+"updated": "2025-10-23"
+},
+"chartverse-coder_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "ChartVerse-Coder",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "ChartVerse-Coder_vllm",
+"updated": "2026-01-23"
+},
+"chinese-llama-alpaca-2": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Chinese-LLaMA-Alpaca-2",
+"updated": "2025-08-08"
+},
+"clip_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "CLIP_pytorch",
+"updated": "2025-05-06"
+},
+"codellama_lmdeploy": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "CodeLlama_lmdeploy",
+"updated": "2025-07-15"
+},
+"codeformer_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "CodeFormer_pytorch",
+"updated": "2025-05-06"
+},
+"cirideep_tensorflow": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "CIRI-deep_tensorflow",
+"updated": "2025-02-21"
+},
+"BLIP3o_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "BLIP3o_pytorch",
+"updated": "2025-05-30"
+},
+"centernet_mmcv": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "CenterNet_mmcv",
+"updated": "2025-05-06"
+},
+"conformer_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Conformer_pytorch",
+"updated": "2025-05-06"
+},
+"bloom_oneflow": {
+"images": [],
+"dtk": "22.10.1",
+"cards": [],
+"table": [],
+"name": "BLOOM_oneflow",
+"updated": "2025-05-06"
+},
+"codegeex4_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "CodeGeeX4_pytorch",
+"updated": "2025-05-06"
+},
+"cobformer_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "CoBFormer_pytorch",
+"updated": "2025-09-03"
+},
+"codellama_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "codellama_pytorch",
+"updated": "2025-05-06"
+},
+"crf-rnn-pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [
+{
+"variant": "crfasrnn",
+"size": "-",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "CRF-RNN-pytorch",
+"updated": "2025-11-20"
+},
+"chineseocr_lite_onnx": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "chineseocr_lite_onnxruntime",
+"updated": "2025-05-06"
+},
+"co-detr_mmcv": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "Co-DETR_mmcv",
+"updated": "2025-05-06"
+},
+"chatglm2-6b_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ChatGLM2-6B_pytorch",
+"updated": "2025-05-06"
+},
+"cogvlm2_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "CogVLM2_pytorch",
+"updated": "2025-05-06"
+},
+"crnn_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "crnn_pytorch",
+"updated": "2025-05-06"
+},
+"cure-med_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "CURE-MED-14B",
+"size": "14B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "CURE-MED_vllm",
+"updated": "2026-01-31"
+},
+"codestral_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "Codestral_pytorch",
+"updated": "2025-05-06"
+},
+"cyclegan_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "latest_net_G",
+"size": "-",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "CycleGAN_pytorch",
+"updated": "2025-11-19"
+},
+"dalle2_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "dalle2_pytorch",
+"updated": "2024-09-03"
+},
+"dasd-4b-thinking_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "DASD-4B-Thinking",
+"size": "4B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "DASD-4B-Thinking_vllm",
+"updated": "2026-02-07"
+},
+"comfyui": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:comfyui-ubuntu22.04-dtk26.04-py3.10-20260509"
+],
+"dtk": "26.04",
+"cards": [],
+"table": [],
+"name": "ComfyUI",
+"updated": "2026-05-20"
+},
+"chatglm": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"controlnet_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ControlNet_pytorch",
+"updated": "2025-04-12"
+},
+"convert_onnx": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "convert_onnx",
+"updated": "2024-05-24"
+},
+"ddq_mmcv": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "DDQ_mmcv",
+"updated": "2025-05-06"
+},
+"deeplabv3-plus_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "DeepLabV3-MobileNet",
+"size": "6.0G",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": ""
+},
+{
+"variant": "DeepLabV3-ResNet50",
+"size": "51.4G",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": ""
+},
+{
+"variant": "DeepLabV3-ResNet101",
+"size": "72.1G",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": ""
+},
+{
+"variant": "DeepLabV3Plus-MobileNet",
+"size": "17.0G",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": ""
+},
+{
+"variant": "DeepLabV3Plus-ResNet50",
+"size": "62.7G",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": ""
+},
+{
+"variant": "DeepLabV3Plus-ResNet101",
+"size": "83.4G",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": ""
+}
+],
+"name": "DeepLabV3-Plus_pytorch",
+"updated": "2025-11-19"
+},
+"convnext_mmcv": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "ConvNeXt_mmcv",
+"updated": "2025-05-06"
+},
+"bladedisc_deepmd": {
+"images": [],
+"dtk": "22.04.2",
+"cards": [],
+"table": [],
+"name": "DeePMD_bladedisc",
+"updated": "2025-05-06"
+},
+"deepseek-ocr-2_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "DeepSeek-OCR-2",
+"size": "3B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "DeepSeek-OCR-2_pytorch",
+"updated": "2026-04-01"
+},
+"dbnet_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "DBNet_pytorch",
+"updated": "2025-04-12"
+},
+"deepseek-r1-distill_vllm": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "DeepSeek-R1-Distill_vllm",
+"updated": "2025-04-14"
+},
+"crnn_paddle": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "CRNN_Paddle",
+"updated": "2025-07-07"
+},
+"cosyvoice_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "CosyVoice_pytorch",
+"updated": "2025-05-06"
+},
+"deepseek-v3.2_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-py3.10"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "DeepSeek-V3.2",
+"size": "685B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "32"
+},
+{
+"variant": "DeepSeek-V3.2-Speciale",
+"size": "685B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "32"
+}
+],
+"name": "DeepSeek-V3.2_vllm",
+"updated": "2026-03-31"
+},
+"crnn_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "crnn_migraphx",
+"updated": "2025-05-06"
+},
+"deepseek-v3.2-exp_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-py3.10"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "DeepSeek-V3.2-Exp",
+"size": "685B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "32"
+},
+{
+"variant": "DeepSeek-V3.2-Exp-Base",
+"size": "685B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "32"
+}
+],
+"name": "DeepSeek-V3.2-Exp_vllm",
+"updated": "2026-03-31"
+},
+"deepseek-r1_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "DeepSeek-R1_pytorch",
+"updated": "2025-04-18"
+},
+"DB-GPT_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "DB-GPT_pytorch",
+"updated": "2025-05-06"
+},
+"deepseek-v3_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "DeepSeek-V3_pytorch",
+"updated": "2025-04-18"
+},
+"deepseek-v2_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "DeepSeek-V2_pytorch",
+"updated": "2025-05-06"
+},
+"deepseek-ocr_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "DeepSeek-OCR_pytorch",
+"updated": "2026-01-16"
+},
+"deepseek-v4": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:torch-2.9.0-ubuntu22.04-dtk26.04-deepseek-v4-0425"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100"
+],
+"table": [
+{
+"variant": "DeepSeek-V4-Flash",
+"size": "284B",
+"precision": "FP8+FP4",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "4"
+}
+],
+"name": "DeepSeek-V4",
+"updated": "2026-05-07"
+},
+"deepsolo_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "DeepSolo_pytorch",
+"updated": "2025-05-06"
+},
+"deeplabv3_migraphx": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "deeplabv3_migraphx",
+"updated": "2025-09-10"
+},
+"deepseekv2_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "DeepSeekV2_pytorch",
+"updated": "2025-05-06"
+},
+"densenet121_mmcv": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "DenseNet121_mmcv",
+"updated": "2025-05-06"
+},
+"depth-anything_pytorch": {
+"images": [],
+"dtk": "23.10",
+"cards": [],
+"table": [],
+"name": "Depth-Anything_pytorch",
+"updated": "2025-05-06"
+},
+"deepseek-v3.1_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "Deepseek-V3.1_vllm",
+"updated": "2025-09-17"
+},
+"detr_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "detr_pytorch",
+"updated": "2025-05-06"
+},
+"diffusiondet-pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "DiffusionDet_pytorch",
+"updated": "2025-05-06"
+},
+"deepseek-coder_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "DeepSeek-Coder_pytorch",
+"updated": "2025-05-06"
+},
+"dolphin-mistral_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "Dolphin-Mistral-24B-Venice-Edition",
+"size": "24B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Dolphin-Mistral_vllm",
+"updated": "2025-12-15"
+},
+"draganything_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "DragAnything_pytorch",
+"updated": "2025-05-06"
+},
+"deepseek-coder-v2_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "DeepSeek-Coder-V2_pytorch",
+"updated": "2025-05-06"
+},
+"dragdiffusion_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "DragDiffusion_pytorch",
+"updated": "2025-05-06"
+},
+"Deepseek-r1_ollama": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "DeepSeek-R1_ollama",
+"updated": "2025-05-06"
+},
+"draggan_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "DragGAN_pytorch",
+"updated": "2025-05-06"
+},
+"dragnoise_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "DragNoise_pytorch",
+"updated": "2025-05-06"
+},
+"dynamicrafter_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "DynamiCrafter_pytorch",
+"updated": "2025-05-06"
+},
+"Deepseek-vl2_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "DeepSeek-VL2_pytorch",
+"updated": "2025-05-06"
+},
+"deepstream-app": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:deepstream-python3.10-gstreamer1.24.0-codec1.7-ubuntu22.04-dtk25.04.02"
+],
+"dtk": "25.04.02",
+"cards": [],
+"table": [],
+"name": "deepstream-app",
+"updated": "2026-06-11"
+},
+"efficientnet_b2_mmcv": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "EfficientNet_B2_mmcv",
+"updated": "2025-05-06"
+},
+"deepseek_math_7b_pytorch": {
+"images": [],
+"dtk": "23.10.1",
+"cards": [],
+"table": [],
+"name": "Deepseek_Math_7b_pytorch",
+"updated": "2024-09-02"
+},
+"emu3.5_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [],
+"name": "Emu3.5_pytorch",
+"updated": "2025-11-08"
+},
+"ernie-4.5_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "ERNIE-4.5_vllm",
+"updated": "2025-07-10"
+},
+"eurollm_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "EuroLLM-22B-Instruct-2512",
+"size": "22B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "EuroLLM_vllm",
+"updated": "2026-01-07"
+},
+"diffbir_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "DiffBIR_pytorch",
+"updated": "2025-05-06"
+},
+"exaone-4.0_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "EXAONE-4.0-1.2B",
+"size": "1.2B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "EXAONE-4.0_vllm",
+"updated": "2026-01-31"
+},
+"donut_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "donut_pytorch",
+"updated": "2025-05-06"
+},
+"evtexture_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "EvTexture_pytorch",
+"updated": "2025-05-06"
+},
+"Direct3D_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Direct3D_pytorch",
+"updated": "2025-05-06"
+},
+"disc-finllm_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "DISC-FinLLM_pytorch",
+"updated": "2025-05-06"
+},
+"falcon_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "Falcon_pytorch",
+"updated": "2025-05-06"
+},
+"fast-reid_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "AGW",
+"size": "287MB",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Fast-ReID_pytorch",
+"updated": "2025-11-18"
+},
+"efficientsam_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "EfficientSAM_pytorch",
+"updated": "2025-05-06"
+},
+"efficientconformer_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "EfficientConformer_pytorch",
+"updated": "2024-10-31"
+},
+"dlexamples": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "dlexamples",
+"updated": "2023-04-06"
+},
+"fastfold_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "FastFold_pytorch",
+"updated": "2025-05-06"
+},
+"faster-whisper_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "Faster-whisper_pytorch",
+"updated": "2024-08-31"
+},
+"ernie-4.5-vl-28b-a3b-pt": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.18.1-ubuntu22.04-dtk26.04-py3.10-20260510-2242"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "ERNIE-4.5-VL-28B-A3B-PT",
+"size": "28B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+}
+],
+"name": "ERNIE-4.5-VL-28B-A3B-PT",
+"updated": "2026-05-26"
+},
+"fara_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "Fara-7B",
+"size": "7B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Fara_vllm",
+"updated": "2025-12-05"
+},
+"ernie-4.5-21b-a3b-pt": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.18.1-ubuntu22.04-dtk26.04-py3.10-20260510-2242"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "ERNIE-4.5-21B-A3B-PT",
+"size": "21B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "ERNIE-4.5-21B-A3B-PT",
+"updated": "2026-05-21"
+},
+"falcon-h1r_vllm": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "Falcon-H1R_vllm",
+"updated": "2026-01-10"
+},
+"facechain_pytorch": {
+"images": [],
+"dtk": "23.10",
+"cards": [],
+"table": [],
+"name": "facechain_pytorch",
+"updated": "2025-05-06"
+},
+"flagembedding_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "FlagEmbedding_pytorch",
+"updated": "2024-08-22"
+},
+"emocaliber_vllm": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"flavr_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "FLAVR_pytorch",
+"updated": "2025-05-06"
+},
+"ernie-image_pytorch": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "ERNIE-Image",
+"size": "8B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "ERNIE-Image_pytorch",
+"updated": "2026-04-15"
+},
+"fun-asr-nano_pytorch": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.9.2-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Fun-ASR-Nano-2512",
+"size": "800M",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Fun-ASR-Nano_pytorch",
+"updated": "2026-01-14"
+},
+"f5-tts_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "F5-TTS_pytorch",
+"updated": "2025-07-02"
+},
+"foundation-sec-8b-reasoning_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "Foundation-Sec-8B-Reasoning",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Foundation-Sec-8B-Reasoning_vllm",
+"updated": "2026-02-07"
+},
+"fingpt-glm_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "FinGPT-glm_pytorch",
+"updated": "2025-05-06"
+},
+"gemma-4": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.18.1-ubuntu22.04-dtk26.04-py3.10-20260519-gemma4"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "gemma-4-31B-it",
+"size": "31B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+}
+],
+"name": "Gemma-4",
+"updated": "2026-06-01"
+},
+"wav2vec_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"fish-speech_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "fish-speech_pytorch",
+"updated": "2025-05-06"
+},
+"FlashVideo_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "FlashVideo_pytorch",
+"updated": "2025-05-06"
+},
+"fastsam_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "FastSAM_pytorch",
+"updated": "2025-05-06"
+},
+"Florence-2-Vision-Language-Model_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Florence-2-Vision-Language-Model_pytorch",
+"updated": "2025-05-30"
+},
+"finqwen_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "FinQwen_pytorch",
+"updated": "2025-05-06"
+},
+"flux.1-dev-migraphx": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "FLUX.1-dev-MIGraphX",
+"updated": "2025-11-13"
+},
+"Fun-Audio-Chat_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "Fun-Audio-Chat_pytorch",
+"updated": "2026-01-13"
+},
+"glm130b_fastertransformer": {
+"images": [],
+"dtk": "23.04",
+"cards": [],
+"table": [],
+"name": "GLM-130B_fastertransformer",
+"updated": "2025-05-07"
+},
+"glm-4.5-air-derestricted_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "GLM-4.5-Air-Derestricted",
+"size": "10B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "4"
+}
+],
+"name": "GLM-4.5-Air-Derestricted_vllm",
+"updated": "2025-12-05"
+},
+"flux.1_diffusers": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "flux.1_diffusers",
+"updated": "2025-05-06"
+},
+"firefly-llama3_unsloth": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Firefly-Llama3_unsloth",
+"updated": "2025-05-06"
+},
+"glm-4.6v_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "GLM-4.6V",
+"size": "106B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "8"
+},
+{
+"variant": "GLM-4.6V-Flash",
+"size": "9B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "GLM-4.6V_vllm",
+"updated": "2026-03-09"
+},
+"glm-4_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "GLM-4_pytorch",
+"updated": "2025-07-21"
+},
+"glm-5.1": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:sglang-0.5.10-glm5-0416",
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.15.1--ubuntu22.04-dtk26.04-py3.10-20260409"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100"
+],
+"table": [
+{
+"variant": "GLM-5.1-FP8",
+"size": "754B",
+"precision": "FP8",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "8"
+}
+],
+"name": "GLM-5.1",
+"updated": "2026-06-17"
+},
+"gemma_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "gemma_pytorch",
+"updated": "2025-05-06"
+},
+"glm-5.2": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.18.1-ubuntu22.04-dtk26.04-py3.10-20260617-glm5.2"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100"
+],
+"table": [
+{
+"variant": "GLM-5.2-Channel-FP8-w8a8",
+"size": "744B",
+"precision": "FP8",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "8"
+}
+],
+"name": "GLM-5.2",
+"updated": "2026-06-17"
+},
+"Gemma-3_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Gemma-3_pytorch",
+"updated": "2025-05-06"
+},
+"glm-4.6_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "GLM-4.6_vllm",
+"updated": "2025-10-27"
+},
+"glm-z1_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "GLM-Z1_pytorch",
+"updated": "2025-05-06"
+},
+"glm-asr-nano_pytorch": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.9.2-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "GLM-ASR-Nano-2512",
+"size": "1.5B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "GLM-ASR-Nano_pytorch",
+"updated": "2026-01-16"
+},
+"glm4.5_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [
+"BW1000"
+],
+"table": [],
+"name": "GLM4.5_pytorch",
+"updated": "2025-09-03"
+},
+"glm-4-voice_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "GLM-4-Voice_pytorch",
+"updated": "2025-05-06"
+},
+"glm-ocr_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "GLM-OCR",
+"size": "1.33B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "GLM-OCR_vllm",
+"updated": "2026-05-13"
+},
+"glm_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "GLM_pytorch",
+"updated": "2025-05-07"
+},
+"geneformer_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Geneformer_pytorch",
+"updated": "2025-04-14"
+},
+"glm-4.7_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "GLM-4.7",
+"size": "355B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "16"
+},
+{
+"variant": "GLM-4.7-Flash",
+"size": "30B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+}
+],
+"name": "GLM-4.7_vllm",
+"updated": "2026-03-09"
+},
+"gpt2_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "GPT2_migraphx",
+"updated": "2025-05-07"
+},
+"gpt-oss_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-py3.10"
+],
+"dtk": "25.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "gpt-oss-20b-BF16",
+"size": "20B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "gpt-oss-120b-BF16",
+"size": "120B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "4"
+}
+],
+"name": "gpt-oss_vllm",
+"updated": "2026-05-13"
+},
+"granite_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "granite-4.0-h-small",
+"size": "32B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "4"
+}
+],
+"name": "Granite_pytorch",
+"updated": "2025-12-12"
+},
+"glm-4v-9b_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "GLM-4V_pytorch",
+"updated": "2025-05-06"
+},
+"gemma-2_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "Gemma-2_pytorch",
+"updated": "2025-05-06"
+},
+"gme-qwen2-vl_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "gme-Qwen2-VL_pytorch",
+"updated": "2025-05-07"
+},
+"glm-4.1v_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "GLM-4.1V-9B-Base",
+"size": "9B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+},
+{
+"variant": "GLM-4.1V-9B-Thinking",
+"size": "9B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+}
+],
+"name": "GLM-4.1V_pytorch",
+"updated": "2025-11-24"
+},
+"glm-5_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:sglang-0.5.10-glm5-0416",
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.15.1--ubuntu22.04-dtk26.04-py3.10-20260409"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"table": [
+{
+"variant": "GLM-5",
+"size": "744B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "32"
+},
+{
+"variant": "GLM-5",
+"size": "744B",
+"precision": "BF16",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "16"
+},
+{
+"variant": "GLM-5-FP8",
+"size": "744B",
+"precision": "FP8",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "8"
+}
+],
+"name": "GLM-5_vllm",
+"updated": "2026-04-29"
+},
+"glm-4v_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "GLM-4V_vllm",
+"updated": "2025-10-23"
+},
+"grok-1_jax": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "grok-1_jax",
+"updated": "2025-05-07"
+},
+"hdetr_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "HDETR_pytorch",
+"updated": "2025-05-07"
+},
+"glm_oneflow": {
+"images": [],
+"dtk": "22.10.1",
+"cards": [],
+"table": [],
+"name": "GLM_oneflow",
+"updated": "2025-05-07"
+},
+"hat_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "HAT_pytorch",
+"updated": "2025-05-07"
+},
+"her-rm_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "HER-RM-32B",
+"size": "32B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "2"
+}
+],
+"name": "HER-RM_vllm",
+"updated": "2026-02-11"
+},
+"graphcast_jax": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "graphcast_jax",
+"updated": "2025-05-07"
+},
+"hrnet_pytorch": {
+"images": [],
+"dtk": "22.10",
+"cards": [],
+"table": [],
+"name": "HRNet_pytorch",
+"updated": "2025-05-07"
+},
+"grape-2-flash": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "GRaPE-2-Flash",
+"updated": "2026-04-27"
+},
+"granite-speech_vllm": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Granite-Speech_vllm",
+"updated": "2025-07-29"
+},
+"hunyuan-a13b-vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [
+"BW1000"
+],
+"table": [],
+"name": "Hunyuan-A13B-vllm",
+"updated": "2025-10-14"
+},
+"gpt2-pytorch": {
+"images": [],
+"dtk": "23.04",
+"cards": [],
+"table": [],
+"name": "GPT2_pytorch",
+"updated": "2025-05-07"
+},
+"hunyuandit_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "HunyuanDiT_pytorch",
+"updated": "2025-05-07"
+},
+"gpt2_onnxruntime": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"hy-mt1.5": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm-ubuntu22.04-dtk26.04-hunyuan-v3-0507"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"table": [
+{
+"variant": "HY-MT1.5-7B",
+"size": "7B",
+"precision": "BF16",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"card_raw": "BW1100,BW1000",
+"min_cards": "1"
+}
+],
+"name": "HY-MT1.5",
+"updated": "2026-06-18"
+},
+"huatuogpt-o1": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "HuatuoGPT-o1_pytorch",
+"updated": "2025-05-07"
+},
+"hy-mt2": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm-ubuntu22.04-dtk26.04-hunyuan-v3-0507"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"table": [
+{
+"variant": "Hy-MT2-30B-A3B",
+"size": "30B",
+"precision": "BF16",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "1"
+},
+{
+"variant": "Hy-MT2-30B-A3B",
+"size": "30B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+},
+{
+"variant": "Hy-MT2-7B",
+"size": "7B",
+"precision": "BF16",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"card_raw": "BW1100,BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Hy-MT2-1.8B",
+"size": "1.8B",
+"precision": "BF16",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"card_raw": "BW1100,BW1000",
+"min_cards": "1"
+}
+],
+"name": "Hy-MT2",
+"updated": "2026-05-22"
+},
+"GPT": {
+"images": [],
+"dtk": "22.10.1",
+"cards": [],
+"table": [],
+"name": "GPT2_oneflow",
+"updated": "2025-05-09"
+},
+"hy3-preview": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm-ubuntu22.04-dtk26.04-hunyuan-v3-0507"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100"
+],
+"table": [
+{
+"variant": "Hy3 preview",
+"size": "295B",
+"precision": "BF16",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "8"
+}
+],
+"name": "Hy3-preview",
+"updated": "2026-05-07"
+},
+"hunyuanvideo-i2v_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "HunyuanVideo-I2V_pytorch",
+"updated": "2025-12-26"
+},
+"hyperclovax-seed-text-instruct_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "HyperCLOVAX-SEED-Text-Instruct-0.5B",
+"size": "0.5B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "HyperCLOVAX-SEED-Text-Instruct_vllm",
+"updated": "2026-01-06"
+},
+"graphormer_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "Graphormer_pytorch",
+"updated": "2025-09-09"
+},
+"grounding_dino_mmcv": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "GroundingDINO_mmcv",
+"updated": "2025-09-25"
+},
+"idm-vton_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "IDM-VTON_pytorch",
+"updated": "2025-05-07"
+},
+"ic-light_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "IC-Light_pytorch",
+"updated": "2025-05-07"
+},
+"higashi_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Higashi_pytorch",
+"updated": "2025-04-14"
+},
+"i2vgen-xl_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "I2VGen-XL_pytorch",
+"updated": "2025-05-07"
+},
+"index-tts-vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "index-tts-vllm",
+"updated": "2026-01-08"
+},
+"HLLM_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "HLLM_pytorch",
+"updated": "2025-05-07"
+},
+"inceptionv3_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "InceptionV3_pytorch",
+"updated": "2025-05-07"
+},
+"hermes-4.3_vllm": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"infinitetalk": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/pytorch:2.5.1-ubuntu22.04-dtk26.04-py3.10"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100",
+"BW1101"
+],
+"table": [
+{
+"variant": "Wan2.1-I2V-14B-480P",
+"size": "14B",
+"precision": "FP32",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "chinese-wav2vec2-base",
+"size": "0.9",
+"precision": "FP32",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "InfiniteTalk",
+"size": "35B",
+"precision": "FP32",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "InfiniteTalk",
+"updated": "2026-06-17"
+},
+"instructBLIP_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "InstructBLIP_pytorch",
+"updated": "2025-05-07"
+},
+"inpaint-anything_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "Inpaint-Anything_pytorch",
+"updated": "2025-05-07"
+},
+"intern-s1_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm015-ubuntu22.04-dtk26.04-0409-modelzoo"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100"
+],
+"table": [
+{
+"variant": "Intern-S1",
+"size": "241B",
+"precision": "",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "4"
+}
+],
+"name": "Intern-S1_vllm",
+"updated": "2026-04-21"
+},
+"instantid_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "InstantID_pytorch",
+"updated": "2025-05-07"
+},
+"Hunyuan3D-2_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"iquest-coder-v1-7b-instruct_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "IQuest-Coder-V1-7B-Instruct",
+"size": "7B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "IQuest-Coder-V1-7B-Instruct_vllm",
+"updated": "2026-03-16"
+},
+"ip-adapter_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "IP-Adapter_pytorch",
+"updated": "2025-05-07"
+},
+"jan-code-4b_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Jan-code-4b",
+"size": "7B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Jan-code-4b_vllm",
+"updated": "2026-03-16"
+},
+"internlm_lmdeploy": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "InternLM_lmdeploy",
+"updated": "2025-05-07"
+},
+"hunyuanocr_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"hunyuandit_diffusers": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "HunyuanDiT_diffusers",
+"updated": "2025-05-07"
+},
+"imagegenerate_paddle": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ImageGenerate_paddle",
+"updated": "2025-05-07"
+},
+"InspireMusic_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "InspireMusic_pytorch",
+"updated": "2025-05-07"
+},
+"internlm2_math_7b_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "InternLM2-Math-7B_pytorch",
+"updated": "2025-05-07"
+},
+"kepler_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "KEPLER_pytorch",
+"updated": "2025-04-27"
+},
+"jan-v3-4b-base-instruct_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "Jan-v3-4B-base-instruct",
+"size": "4B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Jan-v3-4B-base-instruct_vllm",
+"updated": "2026-02-07"
+},
+"InfiniteYou_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "InfiniteYou_pytorch",
+"updated": "2025-05-07"
+},
+"kimi-k2-instruct-quantized.w4a16_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Kimi-K2-Instruct-quantized.w4a16",
+"size": "146B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "16"
+}
+],
+"name": "Kimi-K2-Instruct-quantized.w4a16_vllm",
+"updated": "2026-01-10"
+},
+"internvl2.5_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "InternVL 2.5",
+"size": "1B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "InternVL 2.5",
+"size": "2B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "InternVL 2.5",
+"size": "4B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "InternVL 2.5",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "InternVL 2.5",
+"size": "26B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "2"
+},
+{
+"variant": "InternVL 2.5",
+"size": "38B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "2"
+},
+{
+"variant": "InternVL 2.5",
+"size": "78B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "4"
+}
+],
+"name": "InternVL2.5_pytorch",
+"updated": "2025-12-26"
+},
+"kimi-k2.5": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:sglang0.5.10rc0-ubuntu22.04-dtk26.04-py3.10-20260428",
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"table": [
+{
+"variant": "Kimi-K2.5",
+"size": "1.1T",
+"precision": "INT4",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "16"
+},
+{
+"variant": "Kimi-K2.5",
+"size": "1.1T",
+"precision": "INT4",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "8"
+}
+],
+"name": "Kimi-K2.5",
+"updated": "2026-06-01"
+},
+"internlm_2.5_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "InternLM_2.5_pytorch",
+"updated": "2025-05-07"
+},
+"internvl3_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "InternVL3_pytorch",
+"updated": "2025-05-07"
+},
+"kimi-k2.6": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:sglang0.5.10rc0-ubuntu22.04-dtk26.04-py3.10-20260428",
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"table": [
+{
+"variant": "Kimi-K2.6",
+"size": "1.1T",
+"precision": "INT4",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "16"
+},
+{
+"variant": "Kimi-K2.6",
+"size": "1.1T",
+"precision": "INT4",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "8"
+}
+],
+"name": "Kimi-K2.6",
+"updated": "2026-06-10"
+},
+"kat-dev-vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [
+"BW1000"
+],
+"table": [],
+"name": "KAT-Dev-vllm",
+"updated": "2025-10-14"
+},
+"internvl2_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "InternVL2_pytorch",
+"updated": "2025-05-07"
+},
+"kimi-k2.7-code": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:sglang0.5.10rc0-ubuntu22.04-dtk26.04-py3.10-20260428",
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Kimi-K2.7-Code",
+"size": "1T",
+"precision": "INT4",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "16"
+}
+],
+"name": "Kimi-K2.7-Code",
+"updated": "2026-06-16"
+},
+"kimi-k2_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Kimi-K2-Thinking",
+"size": "1T",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "32"
+}
+],
+"name": "Kimi-K2_vllm",
+"updated": "2026-03-30"
+},
+"kolors_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Kolors_pytorch",
+"updated": "2025-05-07"
+},
+"internlm_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "InternLM_vllm",
+"updated": "2025-10-23"
+},
+"lapsrn_tensorflow": {
+"images": [],
+"dtk": "22.10.1",
+"cards": [],
+"table": [],
+"name": "LapSRN_tensorflow",
+"updated": "2025-05-07"
+},
+"latte_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Latte_pytorch",
+"updated": "2025-05-07"
+},
+"jiutian-139moe-chat": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "JIUTIAN-139MoE-Chat",
+"updated": "2024-10-12"
+},
+"janus-pro-7b_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Janus-Pro-7B_pytorch ",
+"updated": "2025-05-07"
+},
+"lfm2.5_pytorch": {
+"images": [],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "LFM2.5-1.2B-Instruct",
+"size": "1.2B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "LFM2.5_pytorch",
+"updated": "2026-04-05"
+},
+"lettucedetect_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "LettuceDetect_pytorch",
+"updated": "2025-05-07"
+},
+"jina-embeddings-v3_vllm": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "jina-embeddings-v3_vllm",
+"updated": "2025-07-29"
+},
+"lfm2-8b-a1b-pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "LFM2-8B-A1B",
+"size": "8.3B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "LFM2-8B-A1B-pytorch",
+"updated": "2025-11-28"
+},
+"linfusion_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "LinFusion_pytorch",
+"updated": "2025-05-07"
+},
+"liveportrait_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "LivePortrait_pytorch",
+"updated": "2025-05-07"
+},
+"kvpress-FINCH-Qwen3-8B_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [
+{
+"variant": "Qwen3-8B",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "4"
+}
+],
+"name": "kvpress-FINCH-Qwen3-8B_pytorch",
+"updated": "2026-03-12"
+},
+"llama2_lora_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "llama2_lora_pytorch",
+"updated": "2024-09-12"
+},
+"kimi-vl-a3b-thinking_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Kimi-VL-A3B-Thinking_pytorch",
+"updated": "2025-12-13"
+},
+"itransformer_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"llama3_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "llama3_pytorch",
+"updated": "2025-05-07"
+},
+"llama_fastertransformer": {
+"images": [],
+"dtk": "23.04",
+"cards": [],
+"table": [],
+"name": "LLama_fastertransformer",
+"updated": "2025-05-07"
+},
+"kimi-vl-a3b-instruct_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Kimi-VL-A3B-Instruct_pytorch",
+"updated": "2025-12-13"
+},
+"llama_lmdeploy": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Llama1and2_lmdeploy",
+"updated": "2025-05-07"
+},
+"kvpress-Knorm-Qwen3-8B_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [
+{
+"variant": "Qwen3-8B",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "4"
+}
+],
+"name": "kvpress-Knorm-Qwen3-8B_pytorch",
+"updated": "2026-03-11"
+},
+"kvpress-SnapKV-Qwen3-8B_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [
+{
+"variant": "Qwen3-8B",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "4"
+}
+],
+"name": "kvpress-SnapKV-Qwen3-8B_pytorch",
+"updated": "2026-03-10"
+},
+"kvpress-TOVA-Qwen3-8B_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [
+{
+"variant": "Qwen3-8B",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "4"
+}
+],
+"name": "kvpress-TOVA-Qwen3-8B_pytorch",
+"updated": "2026-03-11"
+},
+"llama_tgi": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "llama_tgi",
+"updated": "2025-05-07"
+},
+"llava-next_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "LLaVA-NeXT_pytorch",
+"updated": "2025-04-07"
+},
+"llama_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "LLaMA_vllm",
+"updated": "2025-10-23"
+},
+"llm-compiler_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "llm-compiler_pytorch",
+"updated": "2025-05-07"
+},
+"llava_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "LLaVA_vllm",
+"updated": "2025-10-23"
+},
+"llada2.0-uni": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm018-ubuntu22.04-dtk26.04-qwen3.6-20260423"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "LLaDA2.0-Uni",
+"size": "16B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+}
+],
+"name": "LLaDA2.0-Uni",
+"updated": "2026-06-02"
+},
+"kvpress-PyramidKV-Qwen3-8B_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [
+{
+"variant": "Qwen3-8B",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "4"
+}
+],
+"name": "kvpress-PyramidKV-Qwen3-8B_pytorch",
+"updated": "2026-03-12"
+},
+"llama-factory-llama3.2_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "LLaMA-Factory-Llama3.2_pytorch",
+"updated": "2025-05-07"
+},
+"loftr-pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [
+{
+"variant": "indoor_ds",
+"size": "-",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "indoor_ot",
+"size": "-",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "LoFTR-pytorch",
+"updated": "2025-11-20"
+},
+"locooperator_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-0130-py3.10-20260202"
+],
+"dtk": "26.04",
+"cards": [],
+"table": [
+{
+"variant": "LocoOperator-4B",
+"size": "4B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "LocoOperator_vllm",
+"updated": "2026-02-25"
+},
+"longcat-next_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "LongCat-Next",
+"size": "68.5B",
+"precision": "bf16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "4"
+}
+],
+"name": "LongCat-Next_pytorch",
+"updated": "2026-06-08"
+},
+"longcat-video-pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "LongCat-Video",
+"size": "13.6 B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "LongCat-Video-pytorch",
+"updated": "2026-04-09"
+},
+"lpr": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "LPRNet_pytorch",
+"updated": "2025-05-07"
+},
+"luna_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "Luna-27B-v0",
+"size": "27B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Luna_vllm",
+"updated": "2026-01-07"
+},
+"magic-animate_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "magic-animate_pytorch",
+"updated": "2025-05-07"
+},
+"llama_paddle": {
+"images": [],
+"dtk": "23.04.1",
+"cards": [],
+"table": [],
+"name": "LLAMA_paddle",
+"updated": "2024-01-04"
+},
+"llama_fastchat_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "LLaMA_Fastchat_pytorch",
+"updated": "2025-05-07"
+},
+"lstm_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "LSTM_pytorch",
+"updated": "2025-05-07"
+},
+"llama_tencentpretrain_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "LLaMA_TencentPretrain_pytorch",
+"updated": "2025-05-07"
+},
+"mamba2_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "mamba2_pytorch",
+"updated": "2025-05-07"
+},
+"mai-ui_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "MAI-UI-8B",
+"size": "8B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "MAI-UI_vllm",
+"updated": "2026-02-07"
+},
+"llama_inference_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "llama_inference_pytorch",
+"updated": "2025-05-07"
+},
+"llama4_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"matte-anything_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Matte-Anything_pytorch",
+"updated": "2025-05-07"
+},
+"marco-nano_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [],
+"table": [
+{
+"variant": "Marco-Nano-Instruct",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Marco-Nano_vllm",
+"updated": "2026-04-09"
+},
+"matting-anything_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Matting-Anything_pytorch",
+"updated": "2025-05-07"
+},
+"maya1_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "maya1",
+"size": "3B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+}
+],
+"name": "Maya1_pytorch",
+"updated": "2025-11-15"
+},
+"medmo_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-0130-py3.10-20260202"
+],
+"dtk": "26.04",
+"cards": [],
+"table": [
+{
+"variant": "MedMO-4B",
+"size": "4B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "MedMO_vllm",
+"updated": "2026-02-28"
+},
+"megatron-deepspeed-llama2": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "megatron-deepspeed-llama2",
+"updated": "2024-05-27"
+},
+"longcat_sglang": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "LongCat_sglang",
+"updated": "2025-09-08"
+},
+"mambavision_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "MambaVision_pytorch",
+"updated": "2025-05-07"
+},
+"megatron-deepspeed-llama_pytorch": {
+"images": [],
+"dtk": "23.04",
+"cards": [],
+"table": [],
+"name": "megatron-deepspeed-llama_pytorch",
+"updated": "2024-02-04"
+},
+"mimo-v2-flash": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:sglang-0.5.10-glm5-0416"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100"
+],
+"table": [
+{
+"variant": "MiMo-V2-Flash",
+"size": "309B",
+"precision": "FP8",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "4"
+}
+],
+"name": "MiMo-V2-Flash",
+"updated": "2026-04-29"
+},
+"Magma_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Magma_pytorch",
+"updated": "2025-06-05"
+},
+"ltx-2.3": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:comfyui-ubuntu22.04-dtk26.04-py3.10-20260509"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "LTX-2.3",
+"size": "22B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "LTX-2.3 ",
+"updated": "2026-05-18"
+},
+"mineru2.5_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [],
+"name": "Mineru2.5_vllm",
+"updated": "2025-12-30"
+},
+"mimo-v2.5": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:sglang-0.5.10-mimov2.5-0429"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100"
+],
+"table": [
+{
+"variant": "MiMo-V2.5",
+"size": "310B",
+"precision": "FP8",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "4"
+}
+],
+"name": "MiMo-V2.5",
+"updated": "2026-05-06"
+},
+"mamba_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "MAMBA_pytorch",
+"updated": "2024-11-20"
+},
+"mineru_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [
+"BW1000"
+],
+"table": [],
+"name": "MinerU_pytorch",
+"updated": "2025-08-15"
+},
+"maskeddenoising_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "MaskedDenoising_pytorch",
+"updated": "2025-05-07"
+},
+"marco-o1_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Marco-o1_pytorch",
+"updated": "2025-05-07"
+},
+"memagent_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "MemAgent_pytorch",
+"updated": "2025-07-15"
+},
+"migraphx_custom_op": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "migraphx_custom_op",
+"updated": "2026-03-24"
+},
+"megatron-deepspeed-vit_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Megatron-DeepSpeed-ViT_pytorch",
+"updated": "2025-05-07"
+},
+"MegaTTS3_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "MegaTTS3_pytorch",
+"updated": "2025-05-14"
+},
+"migraphx_sdxl_inference": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "MIGraphX_SDXL_Inference",
+"updated": "2025-08-25"
+},
+"metamath_7b_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "MetaMath_7B_pytorch",
+"updated": "2025-05-07"
+},
+"mimo-v2.5-asr": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:pytorch2.7.1-ubuntu22.04-dtk26.04-0127-py3.10-20260512"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "MiMo-V2.5-ASR",
+"size": "16B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "MiMo-Audio-Tokenizer",
+"size": "1.2B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "MiMo-V2.5-ASR",
+"updated": "2026-05-26"
+},
+"minigemini_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "MiniGemini_pytorch",
+"updated": "2025-03-31"
+},
+"minimax-m2.5": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:sglang0.5.10rc0-ubuntu22.04-dtk26.04-py3.10-20260428",
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm015-ubuntu22.04-dtk26.04-0409-modelzoo"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"table": [
+{
+"variant": "MiniMax-M2.5-bf16",
+"size": "229B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "8"
+},
+{
+"variant": "MiniMax-M2.5-bf16",
+"size": "229B",
+"precision": "BF16",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "4"
+}
+],
+"name": "MiniMax-M2.5",
+"updated": "2026-05-19"
+},
+"metaportrait_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "MetaPortrait_pytorch",
+"updated": "2025-05-07"
+},
+"minimax-m2.7": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:sglang0.5.10rc0-ubuntu22.04-dtk26.04-py3.10-20260428",
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm015-ubuntu22.04-dtk26.04-0409-modelzoo"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"table": [
+{
+"variant": "MiniMax-M2.7",
+"size": "229B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "8"
+},
+{
+"variant": "MiniMax-M2.7",
+"size": "229B",
+"precision": "BF16",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "4"
+}
+],
+"name": "MiniMax-M2.7",
+"updated": "2026-05-19"
+},
+"minimax-m3": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:sglang-ubuntu22.04-dtk26.04-py3.10-20260605-minimax"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100"
+],
+"table": [
+{
+"variant": "MiniMax-M3",
+"size": "427B",
+"precision": "BF16",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "8"
+}
+],
+"name": "MiniMax-M3",
+"updated": "2026-06-17"
+},
+"mini-omni2_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "mini-omni2_pytorch",
+"updated": "2025-05-07"
+},
+"minimax-m2_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "MiniMax-M2",
+"size": "230 B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "8"
+},
+{
+"variant": "MiniMax-M2.1",
+"size": "230 B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "8"
+}
+],
+"name": "MiniMax-M2_vllm",
+"updated": "2026-04-01"
+},
+"minicpm-v_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "MiniCMP-V_pytorch",
+"updated": "2025-05-07"
+},
+"mirothinker-1.7-mini_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "MiroThinker-1.7-mini",
+"size": "30B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+}
+],
+"name": "MiroThinker-1.7-mini_vllm",
+"updated": "2026-03-19"
+},
+"minicpm_classify_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "MiniCMP_classify_pytorch",
+"updated": "2025-05-07"
+},
+"minicpm-v-2_6_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "MiniCPM-V-2_6_pytorch",
+"updated": "2025-12-13"
+},
+"mirothinker-v1.5_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "MiroThinker-v1.5-235B",
+"size": "235B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "8"
+}
+],
+"name": "MiroThinker-v1.5_vllm",
+"updated": "2026-01-26"
+},
+"minicpm-o-2.6_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "MiniCPM-o-2.6_pytorch",
+"updated": "2025-05-07"
+},
+"mlperf_bert_paddle": {
+"images": [],
+"dtk": "21.04",
+"cards": [],
+"table": [],
+"name": "MLPerf_BERT_paddle",
+"updated": "2025-05-07"
+},
+"mlperf_maskrcnn_pytorch": {
+"images": [],
+"dtk": "22.10",
+"cards": [],
+"table": [],
+"name": "MLPerf_MaskRCNN_pytorch",
+"updated": "2025-05-07"
+},
+"minicpm-v-4.6": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.20.0-ubuntu22.04-dtk26.04-py3.10-MiniCPM-V-4.6"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "MiniCPM-V-4.6",
+"size": "1.3B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "MiniCPM-V-4.6",
+"updated": "2026-05-26"
+},
+"mlperf_resnet50_tensorflow": {
+"images": [],
+"dtk": "22.10.1",
+"cards": [],
+"table": [],
+"name": "MLPerf_ResNet50_tensorflow",
+"updated": "2025-05-07"
+},
+"mlperf_minigo_tensorflow": {
+"images": [],
+"dtk": "22.04.2",
+"cards": [],
+"table": [],
+"name": "MLPerf_MiniGo_tensorflow",
+"updated": "2025-05-07"
+},
+"mlperf_retinanet_pytorch": {
+"images": [],
+"dtk": "22.10",
+"cards": [],
+"table": [],
+"name": "MLPerf_RetinaNet_pytorch",
+"updated": "2025-05-07"
+},
+"minicpm_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "MiniCPM_pytorch",
+"updated": "2025-05-07"
+},
+"mobilenet_v2_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "MobileNetV2_pytorch",
+"updated": "2025-05-07"
+},
+"mobilenetv2_mmcv": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "MobileNetV2_mmcv",
+"updated": "2025-05-07"
+},
+"mobilenetv3_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "MobileNetV3_pytorch",
+"updated": "2025-05-07"
+},
+"ministral_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Ministral_pytorch",
+"updated": "2025-06-17"
+},
+"MiniCPM4_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "MiniCPM4_pytorch",
+"updated": "2025-07-29"
+},
+"mistral_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Mistral_pytorch",
+"updated": "2025-06-17"
+},
+"minimax_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [
+"BW1000"
+],
+"table": [],
+"name": "MiniMax_vllm",
+"updated": "2025-07-07"
+},
+"mistral-small_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Mistral-Small_pytorch",
+"updated": "2025-06-20"
+},
+"mixtral_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "Mixtral_vllm",
+"updated": "2025-10-23"
+},
+"mythomax-l2_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "MythoMax-L2-13b",
+"size": "13B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "MythoMax-L2_vllm",
+"updated": "2026-01-07"
+},
+"mobilenet_prune": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "mobilenet_prune_pytorch",
+"updated": "2025-05-07"
+},
+"nanbeige4.1_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-0130-py3.10-20260202"
+],
+"dtk": "26.04",
+"cards": [],
+"table": [
+{
+"variant": "Nanbeige4.1-3B",
+"size": "3B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Nanbeige4.1_vllm",
+"updated": "2026-02-26"
+},
+"mmpose-rtmo_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "mmpose-RTMO_pytorch",
+"updated": "2025-05-07"
+},
+"nanonets-ocr-s_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Nanonets-OCR-s",
+"size": "4B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Nanonets-OCR-s_vllm",
+"updated": "2026-04-01"
+},
+"nemotron-cascade-2_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Nemotron-Cascade-2-30B-A3B",
+"size": "30B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+}
+],
+"name": "Nemotron-Cascade-2_vllm",
+"updated": "2026-04-01"
+},
+"mobilenet_v2_tvm": {
+"images": [],
+"dtk": "22.10",
+"cards": [],
+"table": [],
+"name": "Mobilenet_v2_tvm",
+"updated": "2024-09-02"
+},
+"nanbeige4_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "Nanbeige4-3B-Base",
+"size": "3B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Nanbeige4_vllm",
+"updated": "2025-12-15"
+},
+"mobilenet_v3_tvm": {
+"images": [],
+"dtk": "22.10.1",
+"cards": [],
+"table": [],
+"name": "MobileNetV3_tvm",
+"updated": "2025-05-07"
+},
+"mobilenetv2_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "mobilenetv2_pytorch",
+"updated": "2023-07-21"
+},
+"mobilevlm_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "MobileVLM_pytorch",
+"updated": "2025-05-07"
+},
+"mobilenetv4_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "MobileNetv4_pytorch",
+"updated": "2025-05-07"
+},
+"octomed_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "OctoMed-7B",
+"size": "7B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "OctoMed_vllm",
+"updated": "2025-12-15"
+},
+"multilingual-e5_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Multilingual_E5_pytorch",
+"updated": "2025-07-10"
+},
+"mooer_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "MooER_pytorch",
+"updated": "2025-05-07"
+},
+"omnicoder_vllm": {
+"images": [],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "OmniCoder-9B",
+"size": "9B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "OmniCoder_vllm",
+"updated": "2026-04-05"
+},
+"omnimotion_pytorch": {
+"images": [],
+"dtk": "23.10",
+"cards": [],
+"table": [],
+"name": "OmniMotion_pytorch",
+"updated": "2024-07-16"
+},
+"Omniparser_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "OmniParser_pytorch",
+"updated": "2025-05-07"
+},
+"olmocr_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-py3.10"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100"
+],
+"table": [
+{
+"variant": "olmOCR-2-7B-1025-FP8",
+"size": "7B",
+"precision": "",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "1"
+}
+],
+"name": "olmOCR_vllm",
+"updated": "2026-04-09"
+},
+"olmo3_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Olmo-3-7B-Think",
+"size": "7B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Olmo3_pytorch",
+"updated": "2025-12-05"
+},
+"olmocr_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "olmocr_pytorch",
+"updated": "2025-05-07"
+},
+"omnisql_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "OmniSQL_pytorch",
+"updated": "2025-05-08"
+},
+"mplug-docowl_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "mPLUG-DocOwl_pytorch",
+"updated": "2025-05-07"
+},
+"ootdiffusion_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "OOTDiffusion_pytorch",
+"updated": "2025-05-08"
+},
+"open-sora_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "Open-Sora_pytorch",
+"updated": "2025-05-08"
+},
+"open_clip_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "open_clip_pytorch",
+"updated": "2025-05-08"
+},
+"nanotron_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "nanotron_pytorch",
+"updated": "2025-05-07"
+},
+"ouro_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Ouro-1.4B",
+"size": "1.4B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+}
+],
+"name": "Ouro_pytorch",
+"updated": "2025-11-15"
+},
+"ovis-image_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Ovis-Image-7B",
+"size": "7B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Ovis-Image_pytorch",
+"updated": "2025-12-08"
+},
+"ovis2.5_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Ovis2.5-2B",
+"size": "2B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Ovis2.5-9B",
+"size": "9B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Ovis2.5_pytorch",
+"updated": "2025-12-09"
+},
+"neuralforecast-itransformer_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "neuralforecast-iTransformer_pytorch",
+"updated": "2025-05-07"
+},
+"ovis_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Ovis_pytorch",
+"updated": "2025-05-08"
+},
+"paddleocr-vl-1.5_paddle": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "PaddleOCR-VL-1.5",
+"size": "0.9B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+}
+],
+"name": "PaddleOCR-VL-1.5_paddle",
+"updated": "2026-03-09"
+},
+"paddleocr-vl-1.6": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "PaddleOCR-VL-1.6",
+"size": "0.9B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "PaddleOCR-VL-1.6",
+"updated": "2026-06-05"
+},
+"nvidia-nemotron-3": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.18.1-ubuntu22.04-dtk26.04-py3.10-20260510-2242"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+"size": "120B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "8"
+}
+],
+"name": "NVIDIA-Nemotron-3",
+"updated": "2026-05-28"
+},
+"nmt_tensorflow": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "nmt_tensorflow",
+"updated": "2024-09-02"
+},
+"ofa_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "OFA_pytorch",
+"updated": "2025-05-07"
+},
+"painter_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "Painter_pytorch",
+"updated": "2024-07-09"
+},
+"particle_transformer_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "particle_transformer_pytorch",
+"updated": "2025-05-08"
+},
+"particlenet_tensorflow": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "ParticleNet_tensorflow",
+"updated": "2025-04-16"
+},
+"pasd_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "PASD_pytorch",
+"updated": "2025-05-08"
+},
+"paddleocr-vl_paddle": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [],
+"name": "PaddleOCR-VL_paddle",
+"updated": "2025-11-17"
+},
+"OmniGen2_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "OmniGen2_pytorch",
+"updated": "2025-07-29"
+},
+"phi-3_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Phi-3_pytorch",
+"updated": "2025-05-08"
+},
+"phi-4_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "phi-4_pytorch",
+"updated": "2025-05-08"
+},
+"photomaker": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "PhotoMaker_pytorch",
+"updated": "2025-05-08"
+},
+"pix2pixhd_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "pix2pixHD_pytorch",
+"updated": "2025-05-08"
+},
+"pacore_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "PaCoRe",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "PaCoRe_vllm",
+"updated": "2026-01-07"
+},
+"ovis2.6_pytorch": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Ovis2.6-30B-A3B",
+"size": "30B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+}
+],
+"name": "Ovis2.6_pytorch",
+"updated": "2026-03-27"
+},
+"pixart-alpha_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "PixArt-alpha_pytorch",
+"updated": "2025-05-08"
+},
+"paddleocr_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "PaddleOCR_migraphx",
+"updated": "2025-05-08"
+},
+"proteinmpnn_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "ProteinMPNN_pytorch",
+"updated": "2025-05-08"
+},
+"pointpillars-pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "PointPillars-pytorch",
+"updated": "2025-08-01"
+},
+"pyramid-flow_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Pyramid-Flow_pytorch",
+"updated": "2025-05-08"
+},
+"qed-nano_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-0130-py3.10-20260202"
+],
+"dtk": "26.04",
+"cards": [],
+"table": [
+{
+"variant": "QED-Nano",
+"size": "4B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "QED-Nano_vllm",
+"updated": "2026-02-25"
+},
+"paraformer_funasr_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "Paraformer_FunASR_pytorch",
+"updated": "2025-05-08"
+},
+"qwen-7b_fastllm": {
+"images": [],
+"dtk": "23.04",
+"cards": [],
+"table": [],
+"name": "Qwen-7B_fastllm",
+"updated": "2025-05-08"
+},
+"qianfan-ocr_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Qianfan-OCR",
+"size": "4B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Qianfan-OCR_vllm",
+"updated": "2026-03-20"
+},
+"qwen1.5_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "Qwen1.5_vllm",
+"updated": "2025-10-23"
+},
+"paddleocr": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "PaddleOCR_paddle_onnxruntime",
+"updated": "2025-10-16"
+},
+"parallel_decoding_vllm": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Parallel_Decoding_Vllm",
+"updated": "2024-12-27"
+},
+"qwen1.5-pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Qwen1.5_pytorch",
+"updated": "2025-05-08"
+},
+"qwen2_vl_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Qwen2-VL_pytorch",
+"updated": "2025-04-16"
+},
+"powerflownet_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "PowerFlowNet_pytorch",
+"updated": "2025-09-09"
+},
+"phi-4-multimodal-instruct_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Phi-4-multimodal-instruct_pytorch",
+"updated": "2025-12-26"
+},
+"paddleocr_onnxruntime": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"pp-ocrv5": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:paddlepaddle3.2.0-dtk25.04"
+],
+"dtk": "25.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "PP-OCRv5_server_rec",
+"size": "0.03B",
+"precision": "FP32",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "PP-OCRv5_server_det",
+"size": "0.04B",
+"precision": "FP32",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "PP-OCRv5",
+"updated": "2026-04-30"
+},
+"qwen2.5_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "Qwen2.5_pytorch",
+"updated": "2025-05-08"
+},
+"qwen2_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Qwen2_pytorch",
+"updated": "2025-07-21"
+},
+"ppocrv5_migraphx": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "ppocrv5_migraphx",
+"updated": "2025-07-12"
+},
+"qwen-image_hf": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Qwen-Image_pytorch",
+"updated": "2025-09-15"
+},
+"qwen-vl_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Qwen-VL_pytorch",
+"updated": "2025-05-08"
+},
+"qwen3-next-80b-a3b_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-0130-py3.10-20260202"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Qwen3-Next-80B-A3B-Instruct",
+"size": "80B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000,K100AI",
+"min_cards": "4"
+},
+{
+"variant": "Qwen3-Next-80B-A3B-Thinking",
+"size": "80B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000,K100AI",
+"min_cards": "4"
+}
+],
+"name": "Qwen3-Next-80B-A3B_vllm",
+"updated": "2026-04-29"
+},
+"qwen3-guard_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Qwen3Guard-Gen-8B",
+"size": "8B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Qwen3-Guard_vllm",
+"updated": "2025-12-05"
+},
+"qwen-image-edit_hf": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Qwen-Image-Edit_pytorch",
+"updated": "2025-08-21"
+},
+"Qwen2.5-Omni_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Qwen2.5-Omni_pytorch",
+"updated": "2025-05-15"
+},
+"qwen3-vl-embedding_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100",
+"BW1101"
+],
+"table": [
+{
+"variant": "Qwen3-VL-Embedding-8B",
+"size": "8B",
+"precision": "BF16",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3-VL-Embedding-2B",
+"size": "2B",
+"precision": "BF16",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Qwen3-VL-Embedding_vllm",
+"updated": "2026-04-29"
+},
+"qwen2.5-coder_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "qwen2.5-coder_pytorch",
+"updated": "2025-07-24"
+},
+"Qwen2.5-vl_pytorch": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [],
+"name": "Qwen2.5-VL_pytorch",
+"updated": "2026-04-22"
+},
+"qwen3-coder-next_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-0130-py3.10-20260202"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Qwen3-Coder-Next",
+"size": "80B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "8"
+}
+],
+"name": "Qwen3-Coder-Next_vllm",
+"updated": "2026-04-13"
+},
+"qwen3-next_sglang": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "Qwen3-Next_sglang",
+"updated": "2026-01-19"
+},
+"qwen3-vl-reranker_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100",
+"BW1101"
+],
+"table": [
+{
+"variant": "Qwen3-VL-Reranker-8B",
+"size": "8B",
+"precision": "BF16",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3-VL-Reranker-2B",
+"size": "2B",
+"precision": "BF16",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Qwen3-VL-Reranker_vllm",
+"updated": "2026-04-29"
+},
+"qwen2-audio_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Qwen2-Audio_pytorch",
+"updated": "2025-05-08"
+},
+"qwen3-asr_pytorch": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Qwen3-ASR-1.7B",
+"size": "1.7B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3-ASR-0.6B",
+"size": "0.6B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Qwen3-ASR_pytorch",
+"updated": "2026-04-30"
+},
+"qwen3-tts_pytorch": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm018-ubuntu22.04-dtk26.04-nemotron-20260422"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+"size": "1.7B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3-TTS-12Hz-1.7B-CustomVoice",
+"size": "1.7B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3-TTS-12Hz-1.7B-Base",
+"size": "1.7B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+}
+],
+"name": "Qwen3-TTS_pytorch",
+"updated": "2026-04-23"
+},
+"qwen3.5": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.18.1-ubuntu22.04-dtk26.04-py3.10-20260510-2242",
+"harbor.sourcefind.cn:5443/dcu/admin/base/sglang:0.5.10rc0-ubuntu22.04-dtk26.04-py3.10"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Qwen3.5-397B-A17B",
+"size": "397B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "16"
+},
+{
+"variant": "Qwen3.5-397B-A17B-INT8",
+"size": "397B",
+"precision": "INT8",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "8"
+},
+{
+"variant": "Qwen3.5-122B-A10B",
+"size": "122B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "8"
+},
+{
+"variant": "Qwen3.5-35B-A3B",
+"size": "35B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "2"
+},
+{
+"variant": "Qwen3.5-27B",
+"size": "27B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "2"
+},
+{
+"variant": "Qwen3.5-9B",
+"size": "9B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3.5-4B",
+"size": "4B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3.5-2B",
+"size": "2B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3.5-0.8B",
+"size": "0.8B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+}
+],
+"name": "Qwen3.5",
+"updated": "2026-06-18"
+},
+"qwen3-coder_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [
+"BW1000"
+],
+"table": [],
+"name": "Qwen3-Coder_vllm",
+"updated": "2025-09-28"
+},
+"qwen2.5-vllm": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"qwen3-vl_pytorch": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Qwen3-VL-2B-Instruct",
+"size": "2B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3-VL-4B-Instruct",
+"size": "4B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3-VL-8B-Instruct",
+"size": "8B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3-VL-32B-Instruct",
+"size": "32B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "4"
+},
+{
+"variant": "Qwen3-VL-30B-A3B-Instruct",
+"size": "30B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "2"
+},
+{
+"variant": "Qwen3-VL-30B-A3B-Thinking",
+"size": "30B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "2"
+},
+{
+"variant": "Qwen3-VL-235B-A22B-Instruct",
+"size": "235B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "16"
+},
+{
+"variant": "Qwen3-VL-235B-A22B-Thinking",
+"size": "235B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "16"
+}
+],
+"name": "Qwen3-VL_pytorch",
+"updated": "2026-04-25"
+},
+"qwen_lmdeploy": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Qwen_lmdeploy",
+"updated": "2025-05-08"
+},
+"qwen-torch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Qwen_pytorch",
+"updated": "2025-05-08"
+},
+"qwen3_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [
+"BW1000"
+],
+"table": [],
+"name": "Qwen3_vllm",
+"updated": "2025-10-30"
+},
+"qwen3-reranker": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk26.04-py3.10"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100",
+"BW1101"
+],
+"table": [
+{
+"variant": "Qwen3-Reranker-0.6B",
+"size": "0.6B",
+"precision": "BF16",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3-Reranker-4B",
+"size": "4B",
+"precision": "BF16",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3-Reranker-8B",
+"size": "8B",
+"precision": "BF16",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Qwen3-Reranker",
+"updated": "2026-05-13"
+},
+"qwen3-30b-a3b_vllm": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "Qwen3-30B-A3B_vllm",
+"updated": "2025-09-17"
+},
+"readerlm_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "ReaderLM-v2",
+"size": "1.5B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "ReaderLM_vllm",
+"updated": "2026-01-07"
+},
+"qwen3-omni_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Qwen3-Omni-30B-A3B-Instruct",
+"size": "30B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+},
+{
+"variant": "Qwen3-Omni-30B-A3B-Thinking",
+"size": "30B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+}
+],
+"name": "Qwen3-Omni_vllm",
+"updated": "2026-04-17"
+},
+"real-esrgan_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Real-ESRGAN_pytorch",
+"updated": "2025-05-08"
+},
+"qwen3-embedding_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Qwen3-Embedding_pytorch",
+"updated": "2025-06-17"
+},
+"qwopus3.5_vllm": {
+"images": [],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Qwopus3.5-9B-v3",
+"size": "9B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Qwopus3.5_vllm",
+"updated": "2026-04-05"
+},
+"resnet50_onnxruntime_migraphx": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "Resnet50_onnxruntime_migraphx",
+"updated": "2025-01-17"
+},
+"resnet50_tensorflow": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ResNet50_tensorflow",
+"updated": "2025-05-08"
+},
+"resnet50_onnxruntime": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ResNet50_onnxruntime",
+"updated": "2025-05-08"
+},
+"resnet50v1.5_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ResNet50v1.5_pytorch",
+"updated": "2025-05-08"
+},
+"resnet50-qat_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "resnet50-qat_pytorch",
+"updated": "2024-03-04"
+},
+"qwen3.6": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm018-ubuntu22.04-dtk26.04-qwen3.6-20260423",
+"harbor.sourcefind.cn:5443/dcu/admin/base/sglang:0.5.10rc0-ubuntu22.04-dtk26.04-py3.10"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000",
+"BW1100",
+"BW1101"
+],
+"table": [
+{
+"variant": "Qwen3.6-27B",
+"size": "27B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3.6-35B-A3B",
+"size": "35B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "2"
+},
+{
+"variant": "Qwen3.6-27B",
+"size": "27B",
+"precision": "FP8",
+"cards": [
+"BW1100",
+"BW1101"
+],
+"card_raw": "BW1100,BW1101",
+"min_cards": "1"
+},
+{
+"variant": "Qwen3.6-35B-A3B-FP8",
+"size": "35B",
+"precision": "FP8",
+"cards": [
+"BW1100",
+"BW1101"
+],
+"card_raw": "BW1100,BW1101",
+"min_cards": "1"
+}
+],
+"name": "Qwen3.6",
+"updated": "2026-06-18"
+},
+"rfdesign_rosetta": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "RFDesign_rosetta",
+"updated": "2025-05-08"
+},
+"robobrain_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "RoboBrain_pytorch",
+"updated": "2025-06-30"
+},
+"rt-detr_paddle": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "RT-DETR_paddle",
+"updated": "2024-12-04"
+},
+"resnet50_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ResNet50_migraphx",
+"updated": "2025-05-08"
+},
+"rt-detr_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "RT-DETR_pytorch",
+"updated": "2025-05-08"
+},
+"ridcp_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "RIDCP_pytorch",
+"updated": "2025-05-08"
+},
+"S3Diff": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "S3Diff",
+"updated": "2025-12-17"
+},
+"sadtalker_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "SadTalker_pytorch",
+"updated": "2025-05-08"
+},
+"QwQ-32B_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "QwQ-32B_pytorch",
+"updated": "2025-05-08"
+},
+"Qwen3_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Qwen3_pytorch",
+"updated": "2025-06-11"
+},
+"repvit_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "RepViT_pytorch",
+"updated": "2025-05-08"
+},
+"sa2va_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Sa2VA_pytorch",
+"updated": "2025-03-28"
+},
+"salience_detr_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Salience-DETR_pytorch",
+"updated": "2025-05-08"
+},
+"sam_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "SAM_pytorch",
+"updated": "2025-05-08"
+},
+"samurai_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "samurai_pytorch",
+"updated": "2025-05-08"
+},
+"sam2_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "sam2.1_hiera_tiny.pt",
+"size": "149M",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "sam2.1_hiera_small.pt",
+"size": "176M",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "sam2.1_hiera_base_plus.pt",
+"size": "309M",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "sam2.1_hiera_large.pt",
+"size": "857M",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "sam2_pytorch",
+"updated": "2025-12-15"
+},
+"schematron_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "Schematron-3B",
+"size": "3B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Schematron_vllm",
+"updated": "2026-02-11"
+},
+"resnet50-pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ResNet50_pytorch",
+"updated": "2025-05-08"
+},
+"retinaface_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "RetinaFace_migraphx",
+"updated": "2025-05-08"
+},
+"repvit-optimize_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "RepViT-optimize_pytorch",
+"updated": "2025-05-08"
+},
+"retrieval-based-voice-conversion-webui_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Retrieval-based-Voice-Conversion-WebUI_pytorch",
+"updated": "2025-05-08"
+},
+"sd3.5_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "sd3.5_pytorch",
+"updated": "2025-05-08"
+},
+"resnet50_oneflow": {
+"images": [],
+"dtk": "22.10.1",
+"cards": [],
+"table": [],
+"name": "ResNet50_oneflow",
+"updated": "2025-05-08"
+},
+"tvm_tune_resnet50-v2": {
+"images": [],
+"dtk": "22.10",
+"cards": [],
+"table": [],
+"name": "ResNet50-v2_tvm",
+"updated": "2025-05-08"
+},
+"sed_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "SED_pytorch",
+"updated": "2025-05-08"
+},
+"sentence-bert_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "sentence-BERT_pytorch",
+"updated": "2025-05-08"
+},
+"seedcoder_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "Seed-Coder-8B-Instruct",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "SeedCoder_vllm",
+"updated": "2025-12-09"
+},
+"smallthinker_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "SmallThinker-3B-Preview",
+"size": "3B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "SmallThinker_vllm",
+"updated": "2025-12-11"
+},
+"seresnet50_mmcv": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "seresnet50_mmcv",
+"updated": "2025-05-08"
+},
+"shufflenet_v2_mmcv": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ShuffleNetV2_mmcv",
+"updated": "2025-05-08"
+},
+"rtmdet_mmcv": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "RTMDet_mmcv",
+"updated": "2025-05-08"
+},
+"seed-oss_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Seed-OSS-36B-Instruct",
+"size": "36B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "2"
+}
+],
+"name": "Seed-OSS_vllm",
+"updated": "2025-12-05"
+},
+"smollm3_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "SmolLM3-3B",
+"size": "3B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "SmolLM3_vllm",
+"updated": "2025-12-05"
+},
+"shufflenet_v2_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "ShuffleNetV2_pytorch",
+"updated": "2025-05-08"
+},
+"solov2-pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [
+{
+"variant": "SOLO_R50_1x",
+"size": "3.7GB",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "SOLO_R50_3x",
+"size": "3.7GB",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "SOLO_R101_3x",
+"size": "4.7GB",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "SOLOv2-pytorch",
+"updated": "2025-11-20"
+},
+"sd2.1-migraphx": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "SD2.1-MIGraphX",
+"updated": "2025-10-15"
+},
+"sambert-hifigan_pytorch": {
+"images": [],
+"dtk": "23.10",
+"cards": [],
+"table": [],
+"name": "sambert-hifigan_pytorch",
+"updated": "2024-03-02"
+},
+"stablediffussion": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "stable-diffusion_pytorch",
+"updated": "2025-05-08"
+},
+"stable-diffusion-xl_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "stable-diffusion-xl_pytorch",
+"updated": "2025-05-08"
+},
+"sensenova-si": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm011-ubuntu22.04-dtk26.04-SenseNova"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "SenseNova-SI-1.4-InternVL3-8B",
+"size": "8B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "SenseNova-SI-1.1-BAGEL-7B-MoT",
+"size": "7B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "SenseNova-SI",
+"updated": "2026-06-01"
+},
+"sdxl-migraphx": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "SDXL-MIGraphX",
+"updated": "2025-10-15"
+},
+"stable_diffusion_ait": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "stable_diffusion_ait",
+"updated": "2025-05-08"
+},
+"sensenova-u1": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm011-ubuntu22.04-dtk26.04-SenseNova"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "SenseNova-U1-8B-MoT",
+"size": "8B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "SenseNova-U1",
+"updated": "2026-06-01"
+},
+"stablediffusion_v2.1_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "stablediffusion_v2.1_pytorch",
+"updated": "2025-05-08"
+},
+"star": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "STAR",
+"updated": "2025-12-17"
+},
+"smollm_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "smollm_pytorch",
+"updated": "2025-05-08"
+},
+"search-o1_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Search-o1_pytorch",
+"updated": "2025-05-08"
+},
+"step-3.5-flash_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.15.1-ubuntu22.04-dtk26.04-0130-py3.10-20260220"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"table": [
+{
+"variant": "Step-3.5-Flash",
+"size": "199B",
+"precision": "",
+"cards": [
+"BW1000",
+"BW1100"
+],
+"card_raw": "BW1000,BW1100",
+"min_cards": "4"
+},
+{
+"variant": "Step-3.5-Flash-FP8",
+"size": "199B",
+"precision": "",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "2"
+}
+],
+"name": "Step-3.5-Flash_vllm",
+"updated": "2026-03-17"
+},
+"step-video-t2v_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Step-Video-T2V_pytorch",
+"updated": "2025-07-28"
+},
+"ssd_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "SSD_pytorch",
+"updated": "2025-06-04"
+},
+"step-3.7-flash": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.18.1-ubuntu22.04-dtk26.04-py3.10-20260529-step3p7"
+],
+"dtk": "26.04",
+"cards": [
+"BW1100"
+],
+"table": [
+{
+"variant": "Step-3.7-Flash",
+"size": "201B",
+"precision": "BF16",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "8"
+},
+{
+"variant": "Step-3.7-Flash-FP8",
+"size": "201B",
+"precision": "FP8",
+"cards": [
+"BW1100"
+],
+"card_raw": "BW1100",
+"min_cards": "4"
+}
+],
+"name": "Step-3.7-Flash",
+"updated": "2026-06-01"
+},
+"squeezeformer_tensorflow": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "Squeezeformer_tensorflow",
+"updated": "2024-11-06"
+},
+"speecht5_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "SpeechT5_pytorch",
+"updated": "2025-05-08"
+},
+"stgcn": {
+"images": [],
+"dtk": "22.10.1",
+"cards": [],
+"table": [],
+"name": "STGCN-PyTorch",
+"updated": "2024-09-02"
+},
+"step3_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [
+"BW1000"
+],
+"table": [],
+"name": "Step3_pytorch",
+"updated": "2025-08-06"
+},
+"stable-diffusion-3-medium_diffusers": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "stable-diffusion-3-medium_diffusers",
+"updated": "2025-12-22"
+},
+"spark-x1": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:vllm0.18.1-ubuntu22.04-dtk26.04-py3.10-20260528-iflytek"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Spark-Formalizer-X1-7B",
+"size": "7B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Spark-Chemistry-X1-13B",
+"size": "13B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "Spark-Scilit-X1-13B",
+"size": "13B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Spark-X1",
+"updated": "2026-06-04"
+},
+"stylegan2_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "stylegan2-pytorch",
+"updated": "2025-05-08"
+},
+"stabletts_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "StableTTS_pytorch",
+"updated": "2025-05-08"
+},
+"t-lite-it_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "T-lite-it-2.1",
+"size": "8B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "T-lite-it_vllm",
+"updated": "2026-01-07"
+},
+"stylegan2_mmcv": {
+"images": [],
+"dtk": "23.04",
+"cards": [],
+"table": [],
+"name": "stylegan2_mmcv",
+"updated": "2024-07-15"
+},
+"step-video-ti2v_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Step-Video-TI2V_pytorch",
+"updated": "2025-06-09"
+},
+"step1x-edit_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "Step1X-Edit_pytorch",
+"updated": "2025-06-09"
+},
+"stylegan3_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "stylegan3_pytorch",
+"updated": "2025-05-08"
+},
+"swin-transformer-pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "Swin-Transformer_pytorch",
+"updated": "2025-05-08"
+},
+"Telechat_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Telechat_pytorch",
+"updated": "2025-05-08"
+},
+"stablediffusion_v2.1_migraphx": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "stablediffusion_migraphx",
+"updated": "2025-05-08"
+},
+"taming-transformers_pytorch": {
+"images": [],
+"dtk": "23.04",
+"cards": [],
+"table": [],
+"name": "taming-transformers_pytorch",
+"updated": "2024-03-04"
+},
+"stable-diffusion-3-medium-diffusers": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"no_readme": true
+},
+"stable_diffusion_diffusers": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "stable_diffusion_diffusers",
+"updated": "2025-04-22"
+},
+"timesfm_jax": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "timesfm_jax",
+"updated": "2025-05-08"
+},
+"toolace_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "ToolACE_pytorch",
+"updated": "2025-06-06"
+},
+"teleai_t1_vllm": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "TeleAI_T1",
+"size": "35B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "4"
+}
+],
+"name": "TeleAI_T1_vllm",
+"updated": "2025-12-09"
+},
+"starcoder2_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "starcoder2_pytorch",
+"updated": "2025-05-08"
+},
+"timegpt-pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [
+{
+"variant": "-",
+"size": "K100AI",
+"precision": "",
+"cards": [],
+"card_raw": "1",
+"min_cards": "[下载地址]()"
+}
+],
+"name": "TimeGPT-pytorch",
+"updated": "2025-11-20"
+},
+"ui-tars_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "UI-TARS_pytorch",
+"updated": "2025-05-10"
+},
+"tsm_pytorch": {
+"images": [],
+"dtk": "22.10",
+"cards": [],
+"table": [],
+"name": "TSM_pytorch",
+"updated": "2025-05-08"
+},
+"Tacotron2": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Tacotron2_pytorch",
+"updated": "2024-08-27"
+},
+"unet_paddle": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "UNet_paddle",
+"updated": "2025-05-08"
+},
+"tinyllama_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "TinyLlama_pytorch",
+"updated": "2025-05-08"
+},
+"uni-fold": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "Uni-Fold_pytorch",
+"updated": "2025-05-08"
+},
+"unet_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "UNet_migraphx",
+"updated": "2025-05-08"
+},
+"template": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:sglang-0.5.10-glm5-0416)"
+],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Qwen3",
+"size": "4B",
+"precision": "BF16/FP8/INT8",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000,...",
+"min_cards": "1"
+}
+],
+"name": "template",
+"updated": "2026-05-11"
+},
+"unimernet_transformers": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "unimernet_base",
+"size": "1.3GB",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "unimernet_small",
+"size": "1.3GB",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+},
+{
+"variant": "unimernet_tiny",
+"size": "1.3GB",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "Unimernet_transformers",
+"updated": "2025-11-19"
+},
+"var_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "VAR_pytorch",
+"updated": "2025-05-08"
+},
+"unicorn_pytorch": {
+"images": [],
+"dtk": "23.04",
+"cards": [],
+"table": [],
+"name": "Unicorn_pytorch",
+"updated": "2024-11-15"
+},
+"textmonkey_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "textmonkey_pytorch",
+"updated": "2024-07-12"
+},
+"transformer-XL-pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "transformer-xl_pytorch",
+"updated": "2025-05-08"
+},
+"tacotron2_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "tacotron2_pytorch",
+"updated": "2025-04-17"
+},
+"veros_jax": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "veros_jax",
+"updated": "2024-11-13"
+},
+"vgg16_mmcv": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "VGG16_mmcv",
+"updated": "2025-05-08"
+},
+"yolov8_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "ultralytics-YOLOv8_pytorch",
+"updated": "2025-05-09"
+},
+"unet-pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "UNet_pytorch",
+"updated": "2025-05-08"
+},
+"vibethinker-pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "VibeThinker-1.5B",
+"size": "1.5B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "VibeThinker-pytorch",
+"updated": "2025-11-28"
+},
+"vgg16-qat_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "vgg16-qat_pytorch",
+"updated": "2024-03-02"
+},
+"u-kan_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "U-KAN_pytorch",
+"updated": "2025-05-08"
+},
+"vibevoice_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "VibeVoice_pytorch",
+"updated": "2025-12-05"
+},
+"trellis.2": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/custom:ubuntu22.04-dtk26.04-py3.10-20260526-trellis2"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "TRELLIS.2-4B",
+"size": "4B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "TRELLIS-image-large",
+"size": "1B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "dinov3-vitl16-pretrain-lvd1689m",
+"size": "0.5B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+},
+{
+"variant": "RMBG-2.0",
+"size": "0.5B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "TRELLIS.2",
+"updated": "2026-05-29"
+},
+"video_ort": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "Video_onnxruntime",
+"updated": "2025-05-09"
+},
+"umt5": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "UMT5_pytorch",
+"updated": "2025-05-08"
+},
+"video_tvm": {
+"images": [],
+"dtk": "22.10",
+"cards": [],
+"table": [],
+"name": "Video_tvm",
+"updated": "2025-05-08"
+},
+"vision-transformers-cifar10_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "vision-transformers-cifar10_pytorch",
+"updated": "2025-05-08"
+},
+"vit_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ViT_pytorch",
+"updated": "2025-05-09"
+},
+"wan2.1_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Wan2.1_pytorch",
+"updated": "2025-07-30"
+},
+"vit_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "ViT_migraphx",
+"updated": "2025-05-08"
+},
+"wan2.2_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Wan2.2-T2V-A14B",
+"size": "14B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "K100AI,BW1000",
+"min_cards": "1"
+}
+],
+"name": "Wan2.2_pytorch",
+"updated": "2025-11-15"
+},
+"vtimellm_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "VTimeLLM_pytorch",
+"updated": "2025-05-09"
+},
+"vision_transformer_jax": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "vision_transformer_jax",
+"updated": "2025-05-08"
+},
+"vary-toy_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Vary-toy_pytorch",
+"updated": "2025-05-08"
+},
+"u-kan-optimize_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "U-KAN-optimize_pytorch",
+"updated": "2025-05-08"
+},
+"wenet_onnxruntime": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "wenet_onnxruntime",
+"updated": "2025-06-11"
+},
+"xlam_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "xLAM_pytorch",
+"updated": "2025-05-19"
+},
+"xdecoder_mmcv": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "xdecoder_mmcv",
+"updated": "2025-05-09"
+},
+"x-reasoner_vllm": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.11.0-ubuntu22.04-dtk25.04.2-tx-1226-das1.7-py3.10-20251226"
+],
+"dtk": "25.04.2",
+"cards": [],
+"table": [
+{
+"variant": "X-Reasoner-7B",
+"size": "7B",
+"precision": "",
+"cards": [],
+"card_raw": "K100AI",
+"min_cards": "1"
+}
+],
+"name": "X‑Reasoner_vllm",
+"updated": "2026-02-11"
+},
+"whisperx_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "WhisperX_pytorch",
+"updated": "2024-08-30"
+},
+"whisper-finetune_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "Whisper-Finetune_pytorch",
+"updated": "2024-08-30"
+},
+"video_migraphx": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "video_migraphx",
+"updated": "2025-05-08"
+},
+"vary_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Vary_pytorch",
+"updated": "2025-05-08"
+},
+"yolo_world_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "YOLO-World_pytorch",
+"updated": "2025-05-09"
+},
+"vita_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "VITA_pytorch",
+"updated": "2025-05-09"
+},
+"visualglm6b_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "VisualGLM-6B_pytorch",
+"updated": "2025-05-08"
+},
+"yi_lmdeploy": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Yi_lmdeploy",
+"updated": "2025-05-09"
+},
+"waveglow": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "WaveGlow",
+"updated": "2024-08-28"
+},
+"yolov5_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "yolov5_migraphx",
+"updated": "2025-05-09"
+},
+"yolov5-qat_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "yolov5-qat_pytorch",
+"updated": "2024-03-21"
+},
+"VITA-Audio_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "VITA-Audio_pytorch",
+"updated": "2025-06-17"
+},
+"yolov5_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "yolov5_pytorch",
+"updated": "2025-05-09"
+},
+"xuanyuan_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "XuanYuan_pytorch",
+"updated": "2025-05-09"
+},
+"wav2vec2-large-xlsr-53_pytorch": {
+"images": [],
+"dtk": "",
+"cards": [],
+"table": [],
+"name": "wav2vec2-large-xlsr-53_pytorch",
+"updated": "2025-07-07"
+},
+"yi_1.5_6b_chat_pytorch": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "Yi-1.5-6B-chat_pytorch",
+"updated": "2025-05-09"
+},
+"yolov5s_onnxruntime": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "yolov5s_onnxruntime",
+"updated": "2025-03-20"
+},
+"vits_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "VITS_pytorch",
+"updated": "2025-05-09"
+},
+"yolov8_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "YOLOv8_migraphx",
+"updated": "2026-01-14"
+},
+"xrayglm_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "XrayGLM_pytorch",
+"updated": "2025-04-17"
+},
+"yolov7-tiny_triton": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "YOLOv7-tiny_triton",
+"updated": "2026-01-22"
+},
+"yolo11_pytorch": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "YOLO11_pytorch",
+"updated": "2025-12-27"
+},
+"yolov10_pytorch": {
+"images": [],
+"dtk": "24.04",
+"cards": [],
+"table": [],
+"name": "yolov10_pytorch",
+"updated": "2025-05-09"
+},
+"yoloe_pytorch": {
+"images": [],
+"dtk": "25.04",
+"cards": [],
+"table": [],
+"name": "yoloe_pytorch",
+"updated": "2025-06-06"
+},
+"yolov9_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "yolov9_pytorch",
+"updated": "2025-05-09"
+},
+"yolov13_pytorch": {
+"images": [],
+"dtk": "25.04.1",
+"cards": [],
+"table": [],
+"name": "yolov13_pytorch",
+"updated": "2025-07-14"
+},
+"yolov3_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "yolov3_migraphx",
+"updated": "2025-05-09"
+},
+"yuan2.0-m32_pytorch": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "Yuan2.0-M32_pytorch",
+"updated": "2025-05-09"
+},
+"z-image_pytorch": {
+"images": [],
+"dtk": "25.04.2",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "Z-Image-Turbo",
+"size": "6B",
+"precision": "",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "Z-Image_pytorch",
+"updated": "2025-12-05"
+},
+"yolov5_paddle": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "yolov5_paddle",
+"updated": "2025-05-09"
+},
+"yolov8_onnxruntime": {
+"images": [],
+"dtk": "24.04.2",
+"cards": [],
+"table": [],
+"name": "yolov8_onnxruntime",
+"updated": "2025-02-27"
+},
+"yolov5s_tvm": {
+"images": [],
+"dtk": "22.10.1",
+"cards": [],
+"table": [],
+"name": "yolov5_tvm",
+"updated": "2025-05-09"
+},
+"yolov7_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "yolov7_migraphx",
+"updated": "2025-05-09"
+},
+"yolov9_migraphx": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "yolov9_migraphx",
+"updated": "2025-05-09"
+},
+"yolox_mmcv": {
+"images": [],
+"dtk": "24.04.1",
+"cards": [],
+"table": [],
+"name": "YOLOX_mmcv",
+"updated": "2025-05-09"
+},
+"yolov8_paddle": {
+"images": [],
+"dtk": "24.04.3",
+"cards": [],
+"table": [],
+"name": "YOLOv8_paddle",
+"updated": "2025-05-09"
+}
+}
+}

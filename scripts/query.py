@@ -12,6 +12,7 @@ import json, sys, re, urllib.request, ssl, pathlib, datetime
 DATA = pathlib.Path(__file__).resolve().parent.parent / "data"
 SNAP = DATA / "modelzoo_snapshot.json"
 META = DATA / "snapshot_meta.json"
+SPECS = DATA / "specs_snapshot.json"
 STALE_DAYS = 14
 API = "https://developer.sourcefind.cn/codes/api/v4/groups/modelzoo/projects?per_page=100&include_subgroups=true&order_by=name&sort=asc&page="
 _ctx = ssl.create_default_context(); _ctx.check_hostname=False; _ctx.verify_mode=ssl.CERT_NONE
@@ -81,6 +82,28 @@ def framework(name):
         if s.endswith("_"+k) or "_"+k+"_" in s or s.endswith("-"+k): return v
     return "—"
 
+def load_specs():
+    """path → 硬件规格（卡型/精度/最低卡数/镜像/DTK）。来自 harvest_specs.py。缺失返回空。"""
+    try:
+        return json.load(open(SPECS,encoding="utf-8")).get("repos",{})
+    except Exception:
+        return {}
+
+def print_spec(spec):
+    """转述硬件适配规格。spec = specs_snapshot 中某 path 的条目。"""
+    if not spec: return
+    cards=spec.get("cards") or []
+    if cards: print(f"- 适配卡型：{' / '.join(cards)}")
+    if spec.get("dtk"): print(f"- DTK：{spec['dtk']}")
+    tbl=spec.get("table") or []
+    for row in tbl:
+        c=",".join(row.get("cards") or []) or row.get("card_raw","") or "—"
+        parts=[p for p in [row.get("variant",""), row.get("size",""), row.get("precision",""),
+                           f"{c}", (f"≥{row['min_cards']}卡" if row.get("min_cards") else "")] if p]
+        print(f"  · {' | '.join(parts)}")
+    for img in (spec.get("images") or [])[:2]:
+        print(f"- 镜像：`{img}`")
+
 def search(q, rows):
     nq=norm(q); toks=[norm(t) for t in re.split(r"[\s\-_/]+", q) if norm(t)]
     scored=[]
@@ -105,6 +128,7 @@ def main():
         print("用法: query.py \"<模型名>\" [--live|--offline]"); return
     q=" ".join(args)
     rows, src = get_rows(force_live=live, offline=offline)
+    specs = load_specs()
     res=search(q, rows)
     print(f"# ModelZoo 适配查询：「{q}」")
     print(f"数据源：{src}\n")
@@ -116,6 +140,7 @@ def main():
     for r in res[:25]:
         print(f"## {r['name']}  [{framework(r['name'])}]")
         if r.get("desc"): print(f"- 简介：{r['desc']}")
+        print_spec(specs.get(r["path"]))
         print(f"- 更新：{r['updated']}")
         print(f"- 网页：{r['url']}")
         print(f"- clone：`git clone {r['clone']}`\n")

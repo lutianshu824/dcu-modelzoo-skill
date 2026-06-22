@@ -1,13 +1,14 @@
 # dcu-modelzoo — 海光 DCU 模型适配查询 Claude Code 技能
 
-查一个模型是否在**海光光合社区 ModelZoo**（GitLab group `modelzoo`，public，~589 仓库）适配了 DCU，并直接给出网页 / `git clone` 下载链接；附每月自动检查库更新。
+查一个模型是否在**海光光合社区 ModelZoo**（GitLab group `modelzoo`，public，~591 仓库）适配了 DCU，并直接给出**适配卡型 / 量化精度 / 最低卡数 / 镜像 tag** + 网页 / `git clone` 下载链接；附每月自动检查库更新。
 
 适用：[Claude Code](https://claude.com/claude-code) 技能（skill）。也可纯命令行用脚本。
 
 ## 功能
 
 - **查适配**：问「Qwen3 适配吗 / DCU 支持 X 吗」→ 模糊匹配仓库名+简介，列出多框架版本（`_pytorch`/`_vllm`/`_mmcv`…）+ 简介 + 更新日期 + clone 链接。
-- **离线优先**：内置 `data/modelzoo_snapshot.json`（589 仓库基线），秒回；`--live` 走 GitLab API 拿最新。
+- **硬件规格**：查询自动带 **适配卡型（BW1000/BW1100/BW1101）/ 量化精度（FP8/BF16/INT4…）/ 最低卡数 / 镜像 tag / DTK 版本**，来自 `harvest_specs.py` 解析的各仓库 README（591 中约 103 仓库带卡型标注）。FP8 仅 BW1100/BW1101，BW1000 无 FP8 硬件。
+- **离线优先**：内置 `data/modelzoo_snapshot.json`（仓库基线）+ `data/specs_snapshot.json`（硬件规格），秒回；`--live` 走 GitLab API 拿最新。
 - **月度更新检查**：与 snapshot diff（新增/更新/删除），`--apply` 刷新 snapshot + 重生成清单表。
 - **自动调度**：macOS launchd / Linux cron，每月 1 号自动跑，报告写你的笔记库。
 
@@ -46,6 +47,10 @@ python3 scripts/query.py "glm" --offline    # 强制只用本地，不联网
 # 月度更新检查
 python3 scripts/check_update.py            # 只读 diff
 python3 scripts/check_update.py --apply     # 刷新 snapshot + 清单表
+
+# 硬件规格抓取（卡型/精度/最低卡数/镜像）
+python3 scripts/harvest_specs.py                          # 全量 → data/specs_snapshot.json + 卡型清单
+python3 scripts/harvest_specs.py --sample glm-5.2,qwen3.6 # 指定仓库探测
 ```
 
 > 首次安装会自带一份 snapshot（含抓取日期）。查询时若数据超过 14 天，自动联网拉取最新——

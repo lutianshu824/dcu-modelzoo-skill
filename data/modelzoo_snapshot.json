@@ -1499,8 +1499,17 @@
 "path": "glm-5.1",
 "url": "https://developer.sourcefind.cn/codes/modelzoo/glm-5.1",
 "desc": "GLM-5.1 是智谱AI面向智能体工程的下一代旗舰模型，其代码能力相比前代显著增强。它在 SWE-Bench Pro 上达到了当前最优水平，并在 NL2Repo（代码仓库生成）和 Terminal-Bench 2.0（真实终端任务）上大幅领先于 GLM-5。",
-"updated": "2026-05-08",
+"updated": "2026-06-17",
 "clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-5.1.git"
+},
+{
+"id": 15408,
+"name": "GLM-5.2",
+"path": "glm-5.2",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/glm-5.2",
+"desc": "",
+"updated": "2026-06-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/glm-5.2.git"
 },
 {
 "id": 2083,
@@ -1814,7 +1823,7 @@
 "path": "hy-mt1.5",
 "url": "https://developer.sourcefind.cn/codes/modelzoo/hy-mt1.5",
 "desc": "混元翻译模型 1.5 版本包含一个 18 亿参数的翻译模型 HY-MT1.5-1.8B 和一个 70 亿参数的翻译模型 HY-MT1.5-7B",
-"updated": "2026-05-21",
+"updated": "2026-06-18",
 "clone": "https://developer.sourcefind.cn/codes/modelzoo/hy-mt1.5.git"
 },
 {
@@ -1897,6 +1906,15 @@
 "desc": "该项目在 index-tts 的基础上使用 vllm 库重新实现了 gpt 模型的推理，加速了 index-tts 的推理过程。",
 "updated": "2026-01-08",
 "clone": "https://developer.sourcefind.cn/codes/modelzoo/index-tts-vllm.git"
+},
+{
+"id": 15400,
+"name": "InfiniteTalk",
+"path": "infinitetalk",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/infinitetalk",
+"desc": "",
+"updated": "2026-06-17",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/infinitetalk.git"
 },
 {
 "id": 1482,
@@ -2138,7 +2156,7 @@
 "path": "kimi-k2.7-code",
 "url": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2.7-code",
 "desc": "Kimi K2.7 Code 是一款以代码能力为核心的智能体模型，基于 Kimi K2.6 构建而成。",
-"updated": "2026-06-13",
+"updated": "2026-06-16",
 "clone": "https://developer.sourcefind.cn/codes/modelzoo/kimi-k2.7-code.git"
 },
 {
@@ -2867,7 +2885,7 @@
 "path": "minimax-m3",
 "url": "https://developer.sourcefind.cn/codes/modelzoo/minimax-m3",
 "desc": "MiniMax M3 在编程和智能体等专业任务上达到了前沿的能力,它使用了全新注意力架构 MSA （MiniMax Sparse Attention），最高支持 1M 超长上下文。",
-"updated": "2026-06-13",
+"updated": "2026-06-17",
 "clone": "https://developer.sourcefind.cn/codes/modelzoo/minimax-m3.git"
 },
 {
@@ -3839,7 +3857,7 @@
 "path": "qwen3.5",
 "url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3.5",
 "desc": "Qwen3.5 相对于 Qwen3 系列模型，其 Post-training 性能提升主要来自于对各类 RL 任务和环境的全面扩展，更加强调 RL 环境的难度与可泛化性，而非针对特定指标或狭隘类别的 query 进行优化。",
-"updated": "2026-06-10",
+"updated": "2026-06-18",
 "clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3.5.git"
 },
 {
@@ -3848,7 +3866,7 @@
 "path": "qwen3.6",
 "url": "https://developer.sourcefind.cn/codes/modelzoo/qwen3.6",
 "desc": "",
-"updated": "2026-06-09",
+"updated": "2026-06-18",
 "clone": "https://developer.sourcefind.cn/codes/modelzoo/qwen3.6.git"
 },
 {
