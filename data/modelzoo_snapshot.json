@@ -3312,6 +3312,15 @@
 "clone": "https://developer.sourcefind.cn/codes/modelzoo/open_clip_pytorch.git"
 },
 {
+"id": 15426,
+"name": "OpenELM",
+"path": "OpenELM",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/OpenELM",
+"desc": "",
+"updated": "2026-06-22",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/OpenELM.git"
+},
+{
 "id": 1812,
 "name": "Ouro_pytorch",
 "path": "ouro_pytorch",
@@ -3544,6 +3553,15 @@
 "desc": "Leveraging Message Passing GNNs for High-Quality Power Flow Approximation.",
 "updated": "2025-09-09",
 "clone": "https://developer.sourcefind.cn/codes/modelzoo/powerflownet_pytorch.git"
+},
+{
+"id": 15435,
+"name": "PowerMoE",
+"path": "PowerMoE",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/PowerMoE",
+"desc": "",
+"updated": "2026-06-22",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/PowerMoE.git"
 },
 {
 "id": 2473,
@@ -4336,6 +4354,15 @@
 "desc": "端侧小模型新星molLM2 1.7B击败Qwen 2.5 1.5B和Llama 3.2 1B，可以在不到2GB的VRAM上运行。",
 "updated": "2025-05-08",
 "clone": "https://developer.sourcefind.cn/codes/modelzoo/smollm_pytorch.git"
+},
+{
+"id": 15431,
+"name": "SOLAR",
+"path": "SOLAR",
+"url": "https://developer.sourcefind.cn/codes/modelzoo/SOLAR",
+"desc": "",
+"updated": "2026-06-22",
+"clone": "https://developer.sourcefind.cn/codes/modelzoo/SOLAR.git"
 },
 {
 "id": 1826,

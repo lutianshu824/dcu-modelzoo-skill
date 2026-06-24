@@ -12,8 +12,10 @@
   python3 harvest_specs.py                                       # 全量 → specs_snapshot.json + 报告
 并发抓取（默认 10 线程）。无适配表的仓库也记录（cards=[]）。
 """
-import json, re, ssl, sys, pathlib, urllib.request, datetime
+import json, re, sys, pathlib, datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from sf_fetch import get_text
 
 DATA = pathlib.Path(__file__).resolve().parent.parent / "data"
 SNAP = DATA / "modelzoo_snapshot.json"
@@ -21,8 +23,7 @@ OUT_SPECS = DATA / "specs_snapshot.json"
 RAW = "https://developer.sourcefind.cn/codes/modelzoo/{path}/-/raw/{br}/{f}"
 BRANCHES = ("master", "main")
 FILES = ("README.md", "readme.md")
-TIMEOUT = 12
-_ctx = ssl.create_default_context(); _ctx.check_hostname=False; _ctx.verify_mode=ssl.CERT_NONE
+TIMEOUT = 20
 
 CARD_RE = re.compile(r"BW\s*1?\d{3,4}", re.I)          # BW150/BW1000/BW1100/BW1101 etc
 IMG_RE  = re.compile(r"harbor\.sourcefind\.cn[^\s`'\"]+")
@@ -39,10 +40,9 @@ def fetch_readme(path):
         for f in FILES:
             url = RAW.format(path=path, br=br, f=f)
             try:
-                req = urllib.request.Request(url, headers={"User-Agent": "curl/8"})
-                r = urllib.request.urlopen(req, timeout=TIMEOUT, context=_ctx)
-                if r.status == 200:
-                    return r.read().decode("utf-8", "replace")
+                txt = get_text(url, timeout=TIMEOUT)
+                if txt:
+                    return txt
             except Exception:
                 continue
     return None

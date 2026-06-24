@@ -1,6 +1,6 @@
 # dcu-modelzoo — 海光 DCU 模型适配查询 Claude Code 技能
 
-查一个模型是否在**海光光合社区 ModelZoo**（GitLab group `modelzoo`，public，~591 仓库）适配了 DCU，并直接给出**适配卡型 / 量化精度 / 最低卡数 / 镜像 tag** + 网页 / `git clone` 下载链接；附每月自动检查库更新。
+查一个模型是否在**海光光合社区 ModelZoo**（GitLab group `modelzoo`，public，~594 仓库）适配了 DCU，并直接给出**适配卡型 / 量化精度 / 最低卡数 / 镜像 tag** + 网页 / `git clone` 下载链接；附每月自动检查库更新。
 
 适用：[Claude Code](https://claude.com/claude-code) 技能（skill）。也可纯命令行用脚本。
 
@@ -56,7 +56,13 @@ python3 scripts/harvest_specs.py --sample glm-5.2,qwen3.6 # 指定仓库探测
 > 首次安装会自带一份 snapshot（含抓取日期）。查询时若数据超过 14 天，自动联网拉取最新——
 > 所以新用户当场就能看到 ModelZoo 当前的适配情况，不必等到下次月度任务。
 
-依赖：Python 3.8+（仅标准库，无三方包）。
+依赖：Python 3.8+（仅标准库，无三方包）。联网回退另需系统 `openssl` CLI（见下「网络」）。
+
+## 网络
+
+抓取走 `scripts/sf_fetch.py`：**先试 `urllib` 直连**（用户本机 / 月度 cron 走自己网络通）；失败时**回退 `openssl s_client` 传输**。
+
+原因：sourcefind.cn 前置中间盒按 TLS **ClientHello 指纹** reset 连接——`urllib` / 系统 `curl`（带 ALPN+多扩展）的握手在部分受限网络被杀（`SSL EOF` / `SSL_ERROR_SYSCALL`），而 `openssl s_client` 的极简 ClientHello 能通（实测 HTTP 200）。回退用系统 `openssl`，无需三方包。
 
 ## 自动调度
 

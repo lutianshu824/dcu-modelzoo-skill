@@ -1,6 +1,6 @@
 {
-"fetched": "2026-06-22",
-"count": 591,
+"fetched": "2026-06-24",
+"count": 594,
 "repos": {
 "arabic-menu-ocr-v2_vllm": {
 "images": [
@@ -7312,6 +7312,75 @@
 "table": [],
 "name": "YOLOv8_paddle",
 "updated": "2025-05-09"
+},
+"OpenELM": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/pytorch:2.9.0-ubuntu22.04-dtk26.04-py3.11"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "OpenELM-3B-Instruct",
+"size": "9B",
+"precision": "BF16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "OpenELM",
+"updated": "2026-06-22"
+},
+"PowerMoE": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/pytorch:2.9.0-ubuntu22.04-dtk26.04-py3.11"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "PowerMoE-3B",
+"size": "3B",
+"precision": "FP32",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "PowerMoE",
+"updated": "2026-06-22"
+},
+"SOLAR": {
+"images": [
+"harbor.sourcefind.cn:5443/dcu/admin/base/vllm:0.15.1-ubuntu22.04-dtk26.04-py3.10"
+],
+"dtk": "26.04",
+"cards": [
+"BW1000"
+],
+"table": [
+{
+"variant": "SOLAR-10.7B-Instruct-v1.0",
+"size": "20GB",
+"precision": "FP16",
+"cards": [
+"BW1000"
+],
+"card_raw": "BW1000",
+"min_cards": "1"
+}
+],
+"name": "SOLAR",
+"updated": "2026-06-22"
 }
 }
 }

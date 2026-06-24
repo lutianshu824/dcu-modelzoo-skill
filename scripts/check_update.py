@@ -3,23 +3,22 @@
 报告: 新增仓库、更新的仓库(last_activity 变化)、删除的仓库。
 带 --apply: 刷新 snapshot + 重生成 Obsidian 清单表。
 """
-import json, sys, re, urllib.request, ssl, pathlib, datetime
-
+import json, sys, re, pathlib, datetime
 import os
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from sf_fetch import get_json
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SNAP = ROOT/"data"/"modelzoo_snapshot.json"
 # 输出目录：环境变量 DCU_MODELZOO_OUT_DIR 优先，否则技能内 output/（便携默认）。
 OUT_DIR = pathlib.Path(os.environ.get("DCU_MODELZOO_OUT_DIR", str(ROOT/"output"))).expanduser()
 VAULT = OUT_DIR/"ModelZoo仓库清单.md"
 API = "https://developer.sourcefind.cn/codes/api/v4/groups/modelzoo/projects?per_page=100&include_subgroups=true&order_by=name&sort=asc&page="
-_ctx = ssl.create_default_context(); _ctx.check_hostname=False; _ctx.verify_mode=ssl.CERT_NONE
 
 def _get(url):
     last=None
     for _ in range(4):
         try:
-            req=urllib.request.Request(url, headers={"User-Agent":"curl/8"})
-            return json.load(urllib.request.urlopen(req, timeout=60, context=_ctx))
+            return get_json(url, timeout=60)
         except Exception as e:
             last=e; import time; time.sleep(3)
     raise last
